@@ -366,7 +366,7 @@ def detect_changes(old_state, new_state):
     new_dates = new_state.get("dates", {})
     for dc, status in new_dates.items():
         old_status = old_dates.get(dc)
-        if (old_status == "NOT_OPEN"
+        if (old_status in (None, "NOT_OPEN")
                 and status in ("BOOKABLE", "AVAILABLE")):
             changes.append(f"📅 NEW DATE OPENED: {dc}")
 
