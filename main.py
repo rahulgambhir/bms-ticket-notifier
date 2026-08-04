@@ -671,12 +671,30 @@ def main():
     # Build state & detect changes
     new_state = build_state(filtered, all_dates)
     old_state = load_state()
+    first_run = not old_state
 
     changes = []
     if old_state:
         changes = detect_changes(old_state, new_state)
 
     save_state(new_state)
+
+    if first_run:
+        startup_message = (
+            "🤖 Deployment successful!\n\n"
+            f"🎬 {movie_info['name']}\n"
+            f"📅 Monitoring Date: {CONFIG['dates']}\n"
+            f"📍 Theatre Filter: {CONFIG['theatre'] or 'All'}\n\n"
+            "🔄 Checking every 5 minutes.\n\n"
+            f"🎟️ {CONFIG['url']}"
+        )
+
+        send_telegram(
+            "BMS Notifier Started",
+            [startup_message],
+            filtered,
+            movie_info,
+        )
 
     if changes:
         print(f"\n  ⚡ {len(changes)} change(s) detected:")
