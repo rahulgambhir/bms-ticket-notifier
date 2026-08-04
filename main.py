@@ -699,10 +699,10 @@ def main():
         print(f"\n  ⚡ {len(changes)} change(s) detected:")
         for c in changes:
             print(f"     {c}")
-        send_email(
-            f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
-            changes, filtered, movie_info,
-        )
+        # send_email(
+        #     f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
+        #     changes, filtered, movie_info,
+        # )
         send_telegram(
             f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
             changes, filtered, movie_info,
