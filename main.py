@@ -683,7 +683,6 @@ def main():
         startup_message = (
             "🤖 Deployment successful!\n\n"
             f"🎬 {movie_info['name']}\n"
-            f"📅 Monitoring Date: {CONFIG['dates']}\n"
             f"📍 Theatre Filter: {CONFIG['theatre'] or 'All'}\n\n"
             "🔄 Checking every 5 minutes.\n\n"
             f"🎟️ {CONFIG['url']}"
