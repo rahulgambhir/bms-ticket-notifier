@@ -15,6 +15,12 @@ from datetime import datetime
 from dataclasses import dataclass, field
 from urllib.parse import urlparse
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
 
 # ──────────────────────────────────────────────────────────────────────
 # CONFIGURATION — edit these or set via env vars
@@ -22,11 +28,11 @@ import requests
 CONFIG = {
     "url": os.getenv(
         "BMS_URL",
-        "https://in.bookmyshow.com/movies/chennai/dhurandhar-the-revenge/buytickets/ET00478890"
+        "https://in.bookmyshow.com/movies/national-capital-region-ncr/spider-man-brand-new-day/buytickets/ET00502684"
     ),
-    "dates": os.getenv("BMS_DATES", ""),          # comma-separated YYYYMMDD, empty = from URL
+    "dates": os.getenv("BMS_DATES", "20260815"),          # comma-separated YYYYMMDD, empty = from URL
     "theatre": os.getenv("BMS_THEATRE", ""),       # substring filter, empty = all
-    "time_period": os.getenv("BMS_TIME", ""),      # e.g. "evening,night", empty = all
+    "time_period": os.getenv("BMS_TIME", ""),    # e.g. "evening,night", empty = all
 }
 
 RESEND_API_KEY = os.getenv("RESEND_API_KEY", "")
@@ -63,6 +69,13 @@ REGION_MAP = {
     "mumbai":     ("MUMBAI", "mumbai",     "19.076", "72.878", "te7"),
     "delhi-ncr":  ("NCR",    "delhi-ncr",  "28.613", "77.209", "ttn"),
     "delhi":      ("NCR",    "delhi-ncr",  "28.613", "77.209", "ttn"),
+    "national-capital-region-ncr": (
+    "NCR",
+    "national-capital-region-ncr",
+    "28.613",
+    "77.209",
+    "ttn",
+),
     "bengaluru":  ("BANG",   "bengaluru",  "12.972", "77.594", "tdr"),
     "bangalore":  ("BANG",   "bengaluru",  "12.972", "77.594", "tdr"),
     "hyderabad":  ("HYD",    "hyderabad",  "17.385", "78.487", "tep"),
@@ -121,6 +134,7 @@ def resolve_region(slug):
     key = (slug or "").lower().strip()
     if key in REGION_MAP:
         return REGION_MAP[key]
+    # return (key.upper()[:6], key, "0", "0", "")
     return (key.upper()[:6], key, "0", "0", "")
 
 
@@ -389,136 +403,203 @@ def _cat_status_label(status):
     return AVAIL_STATUS_MAP.get(status, ("UNKNOWN", ""))[0]
 
 
-def send_email(subject, changes, shows, movie_info):
-    api_key = RESEND_API_KEY.strip()
-    to = RESEND_TO_EMAIL.strip()
-    frm = RESEND_FROM_EMAIL.strip() or "onboarding@resend.dev"
+# def send_email(subject, changes, shows, movie_info):
+#     api_key = RESEND_API_KEY.strip()
+#     to = RESEND_TO_EMAIL.strip()
+#     frm = RESEND_FROM_EMAIL.strip() or "onboarding@resend.dev"
 
-    if not api_key or not to:
-        print("  ⚠️  Skipping email — RESEND_API_KEY or RESEND_TO_EMAIL not set.")
+#     if not api_key or not to:
+#         print("  ⚠️  Skipping email — RESEND_API_KEY or RESEND_TO_EMAIL not set.")
+#         return
+
+#     now_str = datetime.now().strftime("%d %b %Y, %I:%M %p")
+#     movie_name = movie_info.get("name", "Movie")
+
+#     # Build changes HTML
+#     changes_html = ""
+#     if changes:
+#         rows = "".join(
+#             f'<li style="padding:3px 0;font-size:14px;">{escape(c)}</li>'
+#             for c in changes
+#         )
+#         changes_html = f"""
+#         <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
+#             Changes Detected
+#         </h3>
+#         <ul style="margin:0 0 20px 0;padding-left:20px;line-height:1.6;color:#333;">
+#             {rows}
+#         </ul>"""
+
+#     # Build shows section grouped by venue
+#     venue_groups = {}
+#     for s in shows:
+#         venue_groups.setdefault(s.venue_name, []).append(s)
+
+#     shows_html = ""
+#     for vname, vshows in venue_groups.items():
+#         show_rows = ""
+#         for s in vshows:
+#             cats = " | ".join(
+#                 f"{escape(c.name)} Rs.{escape(c.price)} ({_cat_status_label(c.status)})"
+#                 for c in s.categories
+#             )
+#             fmt = f" [{escape(s.screen_attr)}]" if s.screen_attr else ""
+#             show_rows += (
+#                 f'<tr>'
+#                 f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
+#                 f'font-size:13px;vertical-align:top;">'
+#                 f'{escape(s.time)}{fmt}</td>'
+#                 f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
+#                 f'font-size:13px;vertical-align:top;">'
+#                 f'{cats}</td>'
+#                 f'</tr>'
+#             )
+
+#         shows_html += f"""
+#         <p style="margin:14px 0 4px 0;font-size:14px;font-weight:bold;color:#333;">
+#             {escape(vname)}
+#         </p>
+#         <table style="width:100%;border-collapse:collapse;font-size:13px;">
+#             <tr style="background:#f5f5f5;">
+#                 <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
+#                            font-weight:bold;">Time</th>
+#                 <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
+#                            font-weight:bold;">Categories</th>
+#             </tr>
+#             {show_rows}
+#         </table>"""
+
+#     html = f"""<!doctype html>
+# <html>
+# <head><meta charset="utf-8"></head>
+# <body style="margin:0;padding:24px;font-family:Arial,Helvetica,sans-serif;
+#              font-size:14px;color:#333;background:#fff;">
+#     <h2 style="margin:0 0 4px 0;font-size:18px;color:#111;">
+#         BMS Alert: {escape(movie_name)}
+#     </h2>
+#     <p style="margin:0 0 20px 0;font-size:13px;color:#666;">
+#         {escape(now_str)}
+#     </p>
+#     <hr style="border:none;border-top:1px solid #ddd;margin:0 0 20px 0;">
+#     {changes_html}
+#     <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
+#         Current Showtimes
+#     </h3>
+#     {shows_html}
+#     <p style="margin:24px 0 0 0;font-size:12px;color:#999;">
+#         This is an automated alert from BMS Ticket Notifier.
+#     </p>
+# </body>
+# </html>"""
+
+#     # Build plain-text version with full show details
+#     plain_lines = [subject, "", f"Checked at: {now_str}", ""]
+#     if changes:
+#         plain_lines.append("Changes Detected:")
+#         plain_lines.extend(f"  - {c}" for c in changes)
+#         plain_lines.append("")
+#     plain_lines.append("Current Showtimes:")
+#     for vname, vshows in venue_groups.items():
+#         plain_lines.append(f"\n{vname}")
+#         for s in vshows:
+#             cats = " | ".join(
+#                 f"{c.name} Rs.{c.price} ({_cat_status_label(c.status)})"
+#                 for c in s.categories
+#             )
+#             fmt = f" [{s.screen_attr}]" if s.screen_attr else ""
+#             plain_lines.append(f"  {s.time}{fmt} - {cats}")
+#     plain_lines.extend(["", "This is an automated alert from BMS Ticket Notifier."])
+#     plain = "\n".join(plain_lines)
+
+#     try:
+#         resp = requests.post(
+#             "https://api.resend.com/emails",
+#             headers={
+#                 "Authorization": f"Bearer {api_key}",
+#                 "Content-Type": "application/json",
+#             },
+#             json={
+#                 "from": frm, "to": [to],
+#                 "subject": subject,
+#                 "text": plain, "html": html,
+#             },
+#             timeout=15,
+#         )
+#         if resp.status_code in (200, 201):
+#             print(f"  ✅ Email sent to {to}")
+#         else:
+#             print(f"  ❌ Resend {resp.status_code}: {resp.text}")
+#             sys.exit(1)
+#     except requests.RequestException as e:
+#         print(f"  ❌ Email failed: {e}")
+#         sys.exit(1)
+
+
+def send_telegram(subject, changes, shows, movie_info):
+    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+        print("⚠️ Telegram credentials missing.")
         return
 
     now_str = datetime.now().strftime("%d %b %Y, %I:%M %p")
-    movie_name = movie_info.get("name", "Movie")
 
-    # Build changes HTML
-    changes_html = ""
-    if changes:
-        rows = "".join(
-            f'<li style="padding:3px 0;font-size:14px;">{escape(c)}</li>'
-            for c in changes
-        )
-        changes_html = f"""
-        <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
-            Changes Detected
-        </h3>
-        <ul style="margin:0 0 20px 0;padding-left:20px;line-height:1.6;color:#333;">
-            {rows}
-        </ul>"""
-
-    # Build shows section grouped by venue
+    # Group shows by venue
     venue_groups = {}
     for s in shows:
         venue_groups.setdefault(s.venue_name, []).append(s)
 
-    shows_html = ""
-    for vname, vshows in venue_groups.items():
-        show_rows = ""
-        for s in vshows:
-            cats = " | ".join(
-                f"{escape(c.name)} Rs.{escape(c.price)} ({_cat_status_label(c.status)})"
-                for c in s.categories
-            )
-            fmt = f" [{escape(s.screen_attr)}]" if s.screen_attr else ""
-            show_rows += (
-                f'<tr>'
-                f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
-                f'font-size:13px;vertical-align:top;">'
-                f'{escape(s.time)}{fmt}</td>'
-                f'<td style="padding:5px 8px;border-bottom:1px solid #ddd;'
-                f'font-size:13px;vertical-align:top;">'
-                f'{cats}</td>'
-                f'</tr>'
-            )
+    # Build plain text message
+    lines = [
+        subject,
+        "",
+        f"Checked at: {now_str}",
+        "",
+    ]
 
-        shows_html += f"""
-        <p style="margin:14px 0 4px 0;font-size:14px;font-weight:bold;color:#333;">
-            {escape(vname)}
-        </p>
-        <table style="width:100%;border-collapse:collapse;font-size:13px;">
-            <tr style="background:#f5f5f5;">
-                <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
-                           font-weight:bold;">Time</th>
-                <th style="padding:5px 8px;text-align:left;border-bottom:1px solid #ddd;
-                           font-weight:bold;">Categories</th>
-            </tr>
-            {show_rows}
-        </table>"""
-
-    html = f"""<!doctype html>
-<html>
-<head><meta charset="utf-8"></head>
-<body style="margin:0;padding:24px;font-family:Arial,Helvetica,sans-serif;
-             font-size:14px;color:#333;background:#fff;">
-    <h2 style="margin:0 0 4px 0;font-size:18px;color:#111;">
-        BMS Alert: {escape(movie_name)}
-    </h2>
-    <p style="margin:0 0 20px 0;font-size:13px;color:#666;">
-        {escape(now_str)}
-    </p>
-    <hr style="border:none;border-top:1px solid #ddd;margin:0 0 20px 0;">
-    {changes_html}
-    <h3 style="margin:0 0 8px 0;font-size:15px;font-weight:bold;color:#333;">
-        Current Showtimes
-    </h3>
-    {shows_html}
-    <p style="margin:24px 0 0 0;font-size:12px;color:#999;">
-        This is an automated alert from BMS Ticket Notifier.
-    </p>
-</body>
-</html>"""
-
-    # Build plain-text version with full show details
-    plain_lines = [subject, "", f"Checked at: {now_str}", ""]
     if changes:
-        plain_lines.append("Changes Detected:")
-        plain_lines.extend(f"  - {c}" for c in changes)
-        plain_lines.append("")
-    plain_lines.append("Current Showtimes:")
-    for vname, vshows in venue_groups.items():
-        plain_lines.append(f"\n{vname}")
-        for s in vshows:
+        lines.append("Changes Detected:")
+        lines.extend(f"  • {c}" for c in changes)
+        lines.append("")
+
+    lines.append("Current Showtimes:")
+
+    for venue, venue_shows in venue_groups.items():
+        lines.append("")
+        lines.append(f"📍 {venue}")
+
+        for s in venue_shows:
             cats = " | ".join(
-                f"{c.name} Rs.{c.price} ({_cat_status_label(c.status)})"
+                f"{c.name} ₹{c.price} ({_cat_status_label(c.status)})"
                 for c in s.categories
             )
+
             fmt = f" [{s.screen_attr}]" if s.screen_attr else ""
-            plain_lines.append(f"  {s.time}{fmt} - {cats}")
-    plain_lines.extend(["", "This is an automated alert from BMS Ticket Notifier."])
-    plain = "\n".join(plain_lines)
+
+            lines.append(f"  • {s.time}{fmt} - {cats}")
+
+    lines.append("")
+    lines.append(CONFIG["url"])
+
+    message = "\n".join(lines)
+
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": message,
+        "disable_web_page_preview": True,
+    }
 
     try:
-        resp = requests.post(
-            "https://api.resend.com/emails",
-            headers={
-                "Authorization": f"Bearer {api_key}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "from": frm, "to": [to],
-                "subject": subject,
-                "text": plain, "html": html,
-            },
-            timeout=15,
-        )
-        if resp.status_code in (200, 201):
-            print(f"  ✅ Email sent to {to}")
+        resp = requests.post(url, json=payload, timeout=15)
+
+        if resp.status_code == 200:
+            print("✅ Telegram message sent.")
         else:
-            print(f"  ❌ Resend {resp.status_code}: {resp.text}")
-            sys.exit(1)
+            print(f"❌ Telegram failed: {resp.status_code}")
+            print(resp.text)
+
     except requests.RequestException as e:
-        print(f"  ❌ Email failed: {e}")
-        sys.exit(1)
+        print(f"❌ Telegram failed: {e}")
 
 
 # ──────────────────────────────────────────────────────────────────────
@@ -601,7 +682,11 @@ def main():
         print(f"\n  ⚡ {len(changes)} change(s) detected:")
         for c in changes:
             print(f"     {c}")
-        send_email(
+        # send_email(
+        #     f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
+        #     changes, filtered, movie_info,
+        # )
+        send_telegram(
             f"BMS Alert: {movie_info['name']} - {len(changes)} change(s)",
             changes, filtered, movie_info,
         )
