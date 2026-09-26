@@ -1160,14 +1160,6 @@
       "price": "470.00",
       "status": "3"
     },
-    "PTCW|34405|20261002|RECLINER PRIME": {
-      "venue": "PVR: Select City Walk, Delhi",
-      "time": "07:45 PM",
-      "date": "20261002",
-      "cat": "RECLINER PRIME",
-      "price": "2200.00",
-      "status": "2"
-    },
     "PTCW|34405|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
       "time": "07:45 PM",
@@ -1175,6 +1167,14 @@
       "cat": "RECLINER",
       "price": "2200.00",
       "status": "3"
+    },
+    "PTCW|34405|20261002|RECLINER PRIME": {
+      "venue": "PVR: Select City Walk, Delhi",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "RECLINER PRIME",
+      "price": "2200.00",
+      "status": "2"
     },
     "PTCW|34400|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
@@ -3598,7 +3598,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "1000.00",
-      "status": "3"
+      "status": "2"
     },
     "CRGM|14577|20261002|NORMAL": {
       "venue": "Cinepolis: Airia Mall, Sohna Road, Gurgaon",
@@ -4125,7 +4125,7 @@
       "time": "01:30 PM",
       "date": "20261002",
       "cat": "RECLINER ROWS",
-      "price": "750.00",
+      "price": "810.00",
       "status": "2"
     },
     "PGGM|40350|20261002|PICTURE PERFECT": {
@@ -5200,324 +5200,404 @@
       "price": "410.00",
       "status": "3"
     },
-    "CPGV|7687|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5572|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "230.00",
+      "status": "3"
+    },
+    "FNSD|5572|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "FNSD|5572|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "330.00",
+      "status": "3"
+    },
+    "FNSD|5572|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "370.00",
+      "status": "3"
+    },
+    "FNSD|5572|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FNSD|5572|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "800.00",
+      "status": "3"
+    },
+    "FNSD|5607|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "10:00 AM",
       "date": "20261002",
       "cat": "NORMAL",
       "price": "270.00",
       "status": "3"
     },
-    "CPGV|7687|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "09:00 AM",
+    "FNSD|5607|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "10:00 AM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "290.00",
+      "price": "350.00",
       "status": "3"
     },
-    "CPGV|7687|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "09:00 AM",
+    "FNSD|5607|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "10:00 AM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "300.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7687|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "09:00 AM",
+    "FNSD|5607|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
+      "cat": "RECLINER",
+      "price": "850.00",
+      "status": "3"
+    },
+    "FNSD|5573|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "230.00",
+      "status": "3"
+    },
+    "FNSD|5573|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "FNSD|5573|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "330.00",
       "status": "3"
     },
-    "CPGV|7702|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "10:00 AM",
+    "FNSD|5573|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "370.00",
+      "status": "3"
+    },
+    "FNSD|5573|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FNSD|5573|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "800.00",
+      "status": "3"
+    },
+    "FNSD|5608|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "01:00 PM",
       "date": "20261002",
       "cat": "NORMAL",
       "price": "270.00",
       "status": "3"
     },
-    "CPGV|7702|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "10:00 AM",
+    "FNSD|5608|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "01:00 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "290.00",
+      "price": "350.00",
       "status": "3"
     },
-    "CPGV|7702|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "10:00 AM",
+    "FNSD|5608|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "01:00 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "300.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7702|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "10:00 AM",
+    "FNSD|5608|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
+      "cat": "RECLINER",
+      "price": "850.00",
+      "status": "3"
+    },
+    "FNSD|5574|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "230.00",
+      "status": "3"
+    },
+    "FNSD|5574|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "FNSD|5574|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "330.00",
       "status": "3"
     },
-    "CPGV|7688|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "310.00",
-      "status": "3"
-    },
-    "CPGV|7688|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CPGV|7688|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CPGV|7688|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "400.00",
-      "status": "3"
-    },
-    "CPGV|7703|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "310.00",
-      "status": "3"
-    },
-    "CPGV|7703|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CPGV|7703|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CPGV|7703|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "400.00",
-      "status": "3"
-    },
-    "CPGV|7689|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "310.00",
-      "status": "3"
-    },
-    "CPGV|7689|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CPGV|7689|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CPGV|7689|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5574|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "03:20 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "400.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7704|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5574|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FNSD|5574|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "800.00",
+      "status": "3"
+    },
+    "FNSD|5609|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "04:20 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "310.00",
+      "price": "270.00",
       "status": "3"
     },
-    "CPGV|7704|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5609|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "04:20 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "340.00",
+      "price": "350.00",
       "status": "3"
     },
-    "CPGV|7704|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5609|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "04:20 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "360.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7704|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5609|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "04:20 PM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "400.00",
+      "cat": "RECLINER",
+      "price": "850.00",
       "status": "3"
     },
-    "CPGV|7690|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5575|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "310.00",
+      "price": "230.00",
       "status": "3"
     },
-    "CPGV|7690|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5575|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "340.00",
+      "price": "310.00",
       "status": "3"
     },
-    "CPGV|7690|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5575|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "360.00",
+      "price": "330.00",
       "status": "3"
     },
-    "CPGV|7690|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5575|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "400.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7705|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5575|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FNSD|5575|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "800.00",
+      "status": "3"
+    },
+    "FNSD|5610|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "07:40 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "310.00",
+      "price": "270.00",
       "status": "3"
     },
-    "CPGV|7705|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5610|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "07:40 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "340.00",
+      "price": "350.00",
       "status": "3"
     },
-    "CPGV|7705|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5610|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "07:40 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "360.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7705|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5610|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "07:40 PM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "400.00",
+      "cat": "RECLINER",
+      "price": "850.00",
       "status": "3"
     },
-    "CPGV|7691|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5576|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "10:00 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "310.00",
+      "price": "230.00",
       "status": "3"
     },
-    "CPGV|7691|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5576|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "10:00 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "340.00",
+      "price": "310.00",
       "status": "3"
     },
-    "CPGV|7691|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5576|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "10:00 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "360.00",
+      "price": "330.00",
       "status": "3"
     },
-    "CPGV|7691|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5576|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "10:00 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "400.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7706|20261002|NORMAL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5576|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FNSD|5576|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "800.00",
+      "status": "3"
+    },
+    "FNSD|5611|20261002|NORMAL": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "11:00 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "310.00",
+      "price": "270.00",
       "status": "3"
     },
-    "CPGV|7706|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5611|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "11:00 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "340.00",
+      "price": "350.00",
       "status": "3"
     },
-    "CPGV|7706|20261002|PREMIUM": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5611|20261002|PREMIUM": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "11:00 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "360.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CPGV|7706|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+    "FNSD|5611|20261002|RECLINER": {
+      "venue": "Cinepolis: Cross River Mall, Shahdara",
       "time": "11:00 PM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "400.00",
+      "cat": "RECLINER",
+      "price": "850.00",
       "status": "3"
     },
     "PPDA|30360|20261002|PRIME ROWS": {
@@ -6000,164 +6080,324 @@
       "price": "410.00",
       "status": "3"
     },
-    "MCTI|39409|20261002|GOLD": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "10:00 AM",
+    "CPGV|7687|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "200.00",
+      "cat": "NORMAL",
+      "price": "270.00",
       "status": "3"
     },
-    "MCTI|39409|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "10:00 AM",
+    "CPGV|7687|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "400.00",
-      "status": "2"
+      "cat": "EXECUTIVE",
+      "price": "290.00",
+      "status": "3"
     },
-    "MCTI|39414|20261002|SOFA": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "10:45 AM",
+    "CPGV|7687|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "SOFA",
+      "cat": "PREMIUM",
       "price": "300.00",
       "status": "3"
     },
-    "MCTI|39414|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "10:45 AM",
+    "CPGV|7687|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "RECLINER",
+      "cat": "PREMIUM XL",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CPGV|7702|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "270.00",
+      "status": "3"
+    },
+    "CPGV|7702|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "290.00",
+      "status": "3"
+    },
+    "CPGV|7702|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CPGV|7702|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CPGV|7688|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "310.00",
+      "status": "3"
+    },
+    "CPGV|7688|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CPGV|7688|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CPGV|7688|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
       "price": "400.00",
       "status": "3"
     },
-    "MCTI|39410|20261002|GOLD": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "01:15 PM",
+    "CPGV|7703|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "280.00",
+      "cat": "NORMAL",
+      "price": "310.00",
       "status": "3"
     },
-    "MCTI|39410|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "01:15 PM",
+    "CPGV|7703|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "550.00",
-      "status": "2"
-    },
-    "MCTI|39415|20261002|SOFA": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "SOFA",
-      "price": "450.00",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
       "status": "3"
     },
-    "MCTI|39415|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "02:00 PM",
+    "CPGV|7703|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "550.00",
+      "cat": "PREMIUM",
+      "price": "360.00",
       "status": "3"
     },
-    "MCTI|39411|20261002|GOLD": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "04:30 PM",
+    "CPGV|7703|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "320.00",
+      "cat": "PREMIUM XL",
+      "price": "400.00",
       "status": "3"
     },
-    "MCTI|39411|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "04:30 PM",
+    "CPGV|7689|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "03:20 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "600.00",
-      "status": "2"
-    },
-    "MCTI|39416|20261002|SOFA": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "05:15 PM",
-      "date": "20261002",
-      "cat": "SOFA",
-      "price": "520.00",
+      "cat": "NORMAL",
+      "price": "310.00",
       "status": "3"
     },
-    "MCTI|39416|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "05:15 PM",
+    "CPGV|7689|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "03:20 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "600.00",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
       "status": "3"
     },
-    "MCTI|39412|20261002|GOLD": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "07:45 PM",
+    "CPGV|7689|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "03:20 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "320.00",
+      "cat": "PREMIUM",
+      "price": "360.00",
       "status": "3"
     },
-    "MCTI|39412|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "07:45 PM",
+    "CPGV|7689|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "03:20 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "600.00",
-      "status": "2"
-    },
-    "MCTI|39417|20261002|SOFA": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "08:30 PM",
-      "date": "20261002",
-      "cat": "SOFA",
-      "price": "520.00",
+      "cat": "PREMIUM XL",
+      "price": "400.00",
       "status": "3"
     },
-    "MCTI|39417|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "08:30 PM",
+    "CPGV|7704|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "04:20 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "600.00",
+      "cat": "NORMAL",
+      "price": "310.00",
       "status": "3"
     },
-    "MCTI|39413|20261002|GOLD": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
+    "CPGV|7704|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CPGV|7704|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CPGV|7704|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CPGV|7690|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "310.00",
+      "status": "3"
+    },
+    "CPGV|7690|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CPGV|7690|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CPGV|7690|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CPGV|7705|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "310.00",
+      "status": "3"
+    },
+    "CPGV|7705|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CPGV|7705|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CPGV|7705|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CPGV|7691|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "310.00",
+      "status": "3"
+    },
+    "CPGV|7691|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CPGV|7691|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CPGV|7691|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CPGV|7706|20261002|NORMAL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
       "time": "11:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "320.00",
+      "cat": "NORMAL",
+      "price": "310.00",
       "status": "3"
     },
-    "MCTI|39413|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
+    "CPGV|7706|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
       "time": "11:00 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "600.00",
-      "status": "2"
-    },
-    "MCTI|39418|20261002|SOFA": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "11:45 PM",
-      "date": "20261002",
-      "cat": "SOFA",
-      "price": "520.00",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
       "status": "3"
     },
-    "MCTI|39418|20261002|RECLINER": {
-      "venue": "Miraj Cinemas: TGIP, Noida",
-      "time": "11:45 PM",
+    "CPGV|7706|20261002|PREMIUM": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "11:00 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "600.00",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CPGV|7706|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: Grand Venice Mall, Greater Noida",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "400.00",
       "status": "3"
     },
     "PBLL|21946|20261002|RECLINER ROWS": {
@@ -6800,404 +7040,164 @@
       "price": "360.00",
       "status": "3"
     },
-    "CTEE|10920|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CTEE|10920|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
-      "status": "3"
-    },
-    "CTEE|10920|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "310.00",
-      "status": "3"
-    },
-    "CTEE|10920|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10920|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10915|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
+    "MCTI|39409|20261002|GOLD": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
       "time": "10:00 AM",
       "date": "20261002",
-      "cat": "NORMAL",
-      "price": "240.00",
+      "cat": "GOLD",
+      "price": "200.00",
       "status": "3"
     },
-    "CTEE|10915|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
+    "MCTI|39409|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
       "time": "10:00 AM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "290.00",
+      "cat": "RECLINER",
+      "price": "400.00",
+      "status": "2"
+    },
+    "MCTI|39414|20261002|SOFA": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "10:45 AM",
+      "date": "20261002",
+      "cat": "SOFA",
+      "price": "300.00",
       "status": "3"
     },
-    "CTEE|10915|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:00 AM",
+    "MCTI|39414|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "10:45 AM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "310.00",
+      "cat": "RECLINER",
+      "price": "400.00",
       "status": "3"
     },
-    "CTEE|10915|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:00 AM",
+    "MCTI|39410|20261002|GOLD": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "01:15 PM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10915|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10921|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "12:05 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
+      "cat": "GOLD",
       "price": "280.00",
       "status": "3"
     },
-    "CTEE|10921|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "12:05 PM",
+    "MCTI|39410|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "01:15 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
+      "cat": "RECLINER",
+      "price": "550.00",
+      "status": "2"
+    },
+    "MCTI|39415|20261002|SOFA": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "SOFA",
+      "price": "450.00",
       "status": "3"
     },
-    "CTEE|10921|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "12:05 PM",
+    "MCTI|39415|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "02:00 PM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
+      "cat": "RECLINER",
+      "price": "550.00",
       "status": "3"
     },
-    "CTEE|10921|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "12:05 PM",
+    "MCTI|39411|20261002|GOLD": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "04:30 PM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
+      "cat": "GOLD",
+      "price": "320.00",
       "status": "3"
     },
-    "CTEE|10921|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "12:05 PM",
+    "MCTI|39411|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "04:30 PM",
       "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
+      "cat": "RECLINER",
+      "price": "600.00",
+      "status": "2"
+    },
+    "MCTI|39416|20261002|SOFA": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "05:15 PM",
+      "date": "20261002",
+      "cat": "SOFA",
+      "price": "520.00",
       "status": "3"
     },
-    "CTEE|10916|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "01:05 PM",
+    "MCTI|39416|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "05:15 PM",
       "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
+      "cat": "RECLINER",
+      "price": "600.00",
       "status": "3"
     },
-    "CTEE|10916|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "01:05 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10916|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "01:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10916|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "01:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CTEE|10916|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "01:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CTEE|10922|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "03:25 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CTEE|10922|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "03:25 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10922|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "03:25 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10922|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "03:25 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CTEE|10922|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "03:25 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CTEE|10917|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "04:25 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CTEE|10917|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "04:25 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10917|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "04:25 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10917|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "04:25 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CTEE|10917|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "04:25 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CTEE|10923|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CTEE|10923|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10923|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10923|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CTEE|10923|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CTEE|10918|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
+    "MCTI|39412|20261002|GOLD": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
       "time": "07:45 PM",
       "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
+      "cat": "GOLD",
+      "price": "320.00",
       "status": "3"
     },
-    "CTEE|10918|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
+    "MCTI|39412|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
       "time": "07:45 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
+      "cat": "RECLINER",
+      "price": "600.00",
+      "status": "2"
+    },
+    "MCTI|39417|20261002|SOFA": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "08:30 PM",
+      "date": "20261002",
+      "cat": "SOFA",
+      "price": "520.00",
       "status": "3"
     },
-    "CTEE|10918|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "07:45 PM",
+    "MCTI|39417|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "08:30 PM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
+      "cat": "RECLINER",
+      "price": "600.00",
       "status": "3"
     },
-    "CTEE|10918|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "07:45 PM",
+    "MCTI|39413|20261002|GOLD": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "11:00 PM",
       "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
+      "cat": "GOLD",
+      "price": "320.00",
       "status": "3"
     },
-    "CTEE|10918|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "07:45 PM",
+    "MCTI|39413|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "11:00 PM",
       "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
+      "cat": "RECLINER",
+      "price": "600.00",
+      "status": "2"
+    },
+    "MCTI|39418|20261002|SOFA": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "11:45 PM",
+      "date": "20261002",
+      "cat": "SOFA",
+      "price": "520.00",
       "status": "3"
     },
-    "CTEE|10924|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:05 PM",
+    "MCTI|39418|20261002|RECLINER": {
+      "venue": "Miraj Cinemas: TGIP, Noida",
+      "time": "11:45 PM",
       "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CTEE|10924|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:05 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10924|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10924|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CTEE|10924|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "10:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CTEE|10919|20261002|NORMAL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CTEE|10919|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "330.00",
-      "status": "3"
-    },
-    "CTEE|10919|20261002|PREMIUM": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CTEE|10919|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CTEE|10919|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: The Esplanade, Gurugram",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
+      "cat": "RECLINER",
+      "price": "600.00",
       "status": "3"
     },
     "SCND|94832|20261002|Royale Recliner": {
@@ -7272,19 +7272,19 @@
       "price": "1000.00",
       "status": "3"
     },
-    "SCND|94833|20261002|Club": {
-      "venue": "INOX: Nehru Place",
-      "time": "12:40 PM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "450.00",
-      "status": "3"
-    },
     "SCND|94833|20261002|Royal": {
       "venue": "INOX: Nehru Place",
       "time": "12:40 PM",
       "date": "20261002",
       "cat": "Royal",
+      "price": "450.00",
+      "status": "3"
+    },
+    "SCND|94833|20261002|Club": {
+      "venue": "INOX: Nehru Place",
+      "time": "12:40 PM",
+      "date": "20261002",
+      "cat": "Club",
       "price": "450.00",
       "status": "3"
     },
@@ -7368,19 +7368,19 @@
       "price": "470.00",
       "status": "3"
     },
-    "SCND|94839|20261002|Royal": {
-      "venue": "INOX: Nehru Place",
-      "time": "05:25 PM",
-      "date": "20261002",
-      "cat": "Royal",
-      "price": "450.00",
-      "status": "3"
-    },
     "SCND|94839|20261002|Club": {
       "venue": "INOX: Nehru Place",
       "time": "05:25 PM",
       "date": "20261002",
       "cat": "Club",
+      "price": "450.00",
+      "status": "3"
+    },
+    "SCND|94839|20261002|Royal": {
+      "venue": "INOX: Nehru Place",
+      "time": "05:25 PM",
+      "date": "20261002",
+      "cat": "Royal",
       "price": "450.00",
       "status": "3"
     },
@@ -7432,19 +7432,19 @@
       "price": "470.00",
       "status": "3"
     },
-    "SCND|94840|20261002|Royal": {
-      "venue": "INOX: Nehru Place",
-      "time": "08:35 PM",
-      "date": "20261002",
-      "cat": "Royal",
-      "price": "450.00",
-      "status": "3"
-    },
     "SCND|94840|20261002|Club": {
       "venue": "INOX: Nehru Place",
       "time": "08:35 PM",
       "date": "20261002",
       "cat": "Club",
+      "price": "450.00",
+      "status": "3"
+    },
+    "SCND|94840|20261002|Royal": {
+      "venue": "INOX: Nehru Place",
+      "time": "08:35 PM",
+      "date": "20261002",
+      "cat": "Royal",
       "price": "450.00",
       "status": "3"
     },
@@ -8040,484 +8040,404 @@
       "price": "380.00",
       "status": "3"
     },
-    "CEST|6878|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
+    "CTEE|10920|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
       "time": "09:00 AM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "240.00",
+      "status": "3"
+    },
+    "CTEE|10920|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
       "price": "290.00",
       "status": "3"
     },
-    "CEST|6878|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "310.00",
-      "status": "3"
-    },
-    "CEST|6878|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
+    "CTEE|10920|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
       "time": "09:00 AM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "330.00",
+      "price": "310.00",
       "status": "3"
     },
-    "CEST|6878|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
+    "CTEE|10920|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
       "time": "09:00 AM",
       "date": "20261002",
       "cat": "PREMIUM XL",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6878|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
+    "CTEE|10920|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
       "time": "09:00 AM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "370.00",
+      "price": "330.00",
       "status": "3"
     },
-    "CEST|6878|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "740.00",
-      "status": "3"
-    },
-    "CEST|6894|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
+    "CTEE|10915|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "240.00",
+      "status": "3"
+    },
+    "CTEE|10915|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
       "price": "290.00",
       "status": "3"
     },
-    "CEST|6894|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
+    "CTEE|10915|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
       "time": "10:00 AM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
+      "cat": "PREMIUM",
       "price": "310.00",
       "status": "3"
     },
-    "CEST|6894|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
+    "CTEE|10915|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
       "time": "10:00 AM",
       "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CTEE|10915|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
       "price": "330.00",
       "status": "3"
     },
-    "CEST|6894|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CEST|6894|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "370.00",
-      "status": "2"
-    },
-    "CEST|6894|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "740.00",
-      "status": "3"
-    },
-    "CEST|6879|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "12:00 PM",
+    "CTEE|10921|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "12:05 PM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10921|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "12:05 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10921|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "12:05 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6879|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "12:00 PM",
+    "CTEE|10921|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "12:05 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CEST|6879|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
       "price": "390.00",
       "status": "3"
     },
-    "CEST|6879|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6879|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "12:00 PM",
+    "CTEE|10921|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "12:05 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
-      "status": "3"
-    },
-    "CEST|6879|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
-      "status": "3"
-    },
-    "CEST|6895|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "350.00",
-      "status": "3"
-    },
-    "CEST|6895|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
       "price": "370.00",
       "status": "3"
     },
-    "CEST|6895|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "390.00",
-      "status": "3"
-    },
-    "CEST|6895|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6895|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "430.00",
-      "status": "2"
-    },
-    "CEST|6895|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
-      "status": "3"
-    },
-    "CEST|6880|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "03:20 PM",
+    "CTEE|10916|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "01:05 PM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10916|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "01:05 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10916|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "01:05 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6880|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "03:20 PM",
+    "CTEE|10916|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "01:05 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CEST|6880|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
       "price": "390.00",
       "status": "3"
     },
-    "CEST|6880|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6880|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "03:20 PM",
+    "CTEE|10916|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "01:05 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CEST|6880|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
-      "status": "3"
-    },
-    "CEST|6896|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "04:20 PM",
+    "CTEE|10922|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "03:25 PM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10922|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "03:25 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10922|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "03:25 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6896|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "04:20 PM",
+    "CTEE|10922|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "03:25 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CEST|6896|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
       "price": "390.00",
       "status": "3"
     },
-    "CEST|6896|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6896|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "04:20 PM",
+    "CTEE|10922|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "03:25 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
-      "status": "2"
-    },
-    "CEST|6896|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CEST|6881|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "06:40 PM",
+    "CTEE|10917|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "04:25 PM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10917|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "04:25 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10917|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "04:25 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6881|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "06:40 PM",
+    "CTEE|10917|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "04:25 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CEST|6881|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
       "price": "390.00",
       "status": "3"
     },
-    "CEST|6881|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6881|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "06:40 PM",
+    "CTEE|10917|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "04:25 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CEST|6881|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
-      "status": "3"
-    },
-    "CEST|6897|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "07:40 PM",
+    "CTEE|10923|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "06:45 PM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10923|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10923|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6897|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "07:40 PM",
+    "CTEE|10923|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CEST|6897|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
       "price": "390.00",
       "status": "3"
     },
-    "CEST|6897|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6897|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "07:40 PM",
+    "CTEE|10923|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "06:45 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
-      "status": "2"
-    },
-    "CEST|6897|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CEST|6882|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 PM",
+    "CTEE|10918|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "07:45 PM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10918|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10918|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6882|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 PM",
+    "CTEE|10918|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "07:45 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CEST|6882|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
       "price": "390.00",
       "status": "3"
     },
-    "CEST|6882|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6882|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 PM",
+    "CTEE|10918|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "07:45 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
+      "price": "370.00",
       "status": "3"
     },
-    "CEST|6882|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
-      "status": "3"
-    },
-    "CEST|6898|20261002|NORMAL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "11:00 PM",
+    "CTEE|10924|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "10:05 PM",
       "date": "20261002",
       "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10924|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "10:05 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10924|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "10:05 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
       "price": "350.00",
       "status": "3"
     },
-    "CEST|6898|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "11:00 PM",
+    "CTEE|10924|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "10:05 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "370.00",
-      "status": "3"
-    },
-    "CEST|6898|20261002|PREMIUM": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "11:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
+      "cat": "PREMIUM XL",
       "price": "390.00",
       "status": "3"
     },
-    "CEST|6898|20261002|PREMIUM XL": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "11:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM XL",
-      "price": "410.00",
-      "status": "3"
-    },
-    "CEST|6898|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "11:00 PM",
+    "CTEE|10924|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "10:05 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
-      "status": "2"
+      "price": "370.00",
+      "status": "3"
     },
-    "CEST|6898|20261002|RECLINER": {
-      "venue": "Cinepolis: V3S East Centre (New)",
-      "time": "11:00 PM",
+    "CTEE|10919|20261002|NORMAL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "11:05 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "860.00",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CTEE|10919|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CTEE|10919|20261002|PREMIUM": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CTEE|10919|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CTEE|10919|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: The Esplanade, Gurugram",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "370.00",
       "status": "3"
     },
     "PPMF|29946|20261002|PICTURE PERFECT": {
@@ -9440,6 +9360,766 @@
       "price": "850.00",
       "status": "3"
     },
+    "CEST|6878|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "290.00",
+      "status": "3"
+    },
+    "CEST|6878|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "CEST|6878|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CEST|6878|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6878|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6878|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "740.00",
+      "status": "3"
+    },
+    "CEST|6894|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "290.00",
+      "status": "3"
+    },
+    "CEST|6894|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "310.00",
+      "status": "3"
+    },
+    "CEST|6894|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "330.00",
+      "status": "3"
+    },
+    "CEST|6894|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6894|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "370.00",
+      "status": "2"
+    },
+    "CEST|6894|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "740.00",
+      "status": "3"
+    },
+    "CEST|6879|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6879|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6879|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6879|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6879|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "CEST|6879|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "CEST|6895|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6895|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6895|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6895|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6895|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "2"
+    },
+    "CEST|6895|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "CEST|6880|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6880|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6880|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6880|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6880|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "CEST|6880|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "CEST|6896|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6896|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6896|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6896|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6896|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "2"
+    },
+    "CEST|6896|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "CEST|6881|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6881|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6881|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6881|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6881|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "CEST|6881|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "CEST|6897|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6897|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6897|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6897|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6897|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "2"
+    },
+    "CEST|6897|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "CEST|6882|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6882|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6882|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6882|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6882|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "CEST|6882|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "CEST|6898|20261002|NORMAL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "350.00",
+      "status": "3"
+    },
+    "CEST|6898|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "370.00",
+      "status": "3"
+    },
+    "CEST|6898|20261002|PREMIUM": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "390.00",
+      "status": "3"
+    },
+    "CEST|6898|20261002|PREMIUM XL": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM XL",
+      "price": "410.00",
+      "status": "3"
+    },
+    "CEST|6898|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "430.00",
+      "status": "2"
+    },
+    "CEST|6898|20261002|RECLINER": {
+      "venue": "Cinepolis: V3S East Centre (New)",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "860.00",
+      "status": "3"
+    },
+    "ISMG|45313|20261002|LOUNGE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "10:35 AM",
+      "date": "20261002",
+      "cat": "LOUNGE",
+      "price": "530.00",
+      "status": "3"
+    },
+    "ISMG|45313|20261002|EXECUTIVE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "10:35 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "260.00",
+      "status": "3"
+    },
+    "ISMG|45313|20261002|CLASSIC": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "10:35 AM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "240.00",
+      "status": "3"
+    },
+    "ISMG|45314|20261002|LOUNGE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "01:45 PM",
+      "date": "20261002",
+      "cat": "LOUNGE",
+      "price": "580.00",
+      "status": "3"
+    },
+    "ISMG|45314|20261002|EXECUTIVE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "01:45 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "ISMG|45314|20261002|CLASSIC": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "01:45 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ISMG|45315|20261002|LOUNGE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "LOUNGE",
+      "price": "580.00",
+      "status": "3"
+    },
+    "ISMG|45315|20261002|EXECUTIVE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "ISMG|45315|20261002|CLASSIC": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ISMG|45316|20261002|LOUNGE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "08:05 PM",
+      "date": "20261002",
+      "cat": "LOUNGE",
+      "price": "630.00",
+      "status": "3"
+    },
+    "ISMG|45316|20261002|EXECUTIVE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "08:05 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ISMG|45316|20261002|CLASSIC": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "08:05 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "310.00",
+      "status": "3"
+    },
+    "ISMG|45317|20261002|LOUNGE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "LOUNGE",
+      "price": "630.00",
+      "status": "3"
+    },
+    "ISMG|45317|20261002|EXECUTIVE": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ISMG|45317|20261002|CLASSIC": {
+      "venue": "INOX: Shipra Mall, Ghaziabad",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "310.00",
+      "status": "3"
+    },
+    "IOMG|78734|20261002|Insignia": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "09:50 AM",
+      "date": "20261002",
+      "cat": "Insignia",
+      "price": "470.00",
+      "status": "3"
+    },
+    "IOMG|78739|20261002|Royale Recliners": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "10:35 AM",
+      "date": "20261002",
+      "cat": "Royale Recliners",
+      "price": "440.00",
+      "status": "3"
+    },
+    "IOMG|78739|20261002|Royale": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "10:35 AM",
+      "date": "20261002",
+      "cat": "Royale",
+      "price": "250.00",
+      "status": "3"
+    },
+    "IOMG|78739|20261002|Club": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "10:35 AM",
+      "date": "20261002",
+      "cat": "Club",
+      "price": "220.00",
+      "status": "3"
+    },
+    "IOMG|78735|20261002|Insignia": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "Insignia",
+      "price": "770.00",
+      "status": "3"
+    },
+    "IOMG|78740|20261002|Royale Recliners": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "01:45 PM",
+      "date": "20261002",
+      "cat": "Royale Recliners",
+      "price": "580.00",
+      "status": "3"
+    },
+    "IOMG|78740|20261002|Royale": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "01:45 PM",
+      "date": "20261002",
+      "cat": "Royale",
+      "price": "330.00",
+      "status": "3"
+    },
+    "IOMG|78740|20261002|Club": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "01:45 PM",
+      "date": "20261002",
+      "cat": "Club",
+      "price": "310.00",
+      "status": "3"
+    },
+    "IOMG|78736|20261002|Insignia": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "04:10 PM",
+      "date": "20261002",
+      "cat": "Insignia",
+      "price": "770.00",
+      "status": "3"
+    },
+    "IOMG|78741|20261002|Royale Recliners": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "Royale Recliners",
+      "price": "580.00",
+      "status": "3"
+    },
+    "IOMG|78741|20261002|Royale": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "Royale",
+      "price": "330.00",
+      "status": "3"
+    },
+    "IOMG|78741|20261002|Club": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "Club",
+      "price": "310.00",
+      "status": "3"
+    },
+    "IOMG|78737|20261002|Insignia": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "07:20 PM",
+      "date": "20261002",
+      "cat": "Insignia",
+      "price": "770.00",
+      "status": "3"
+    },
+    "IOMG|78742|20261002|Royale Recliners": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "08:05 PM",
+      "date": "20261002",
+      "cat": "Royale Recliners",
+      "price": "600.00",
+      "status": "3"
+    },
+    "IOMG|78742|20261002|Royale": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "08:05 PM",
+      "date": "20261002",
+      "cat": "Royale",
+      "price": "340.00",
+      "status": "3"
+    },
+    "IOMG|78742|20261002|Club": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "08:05 PM",
+      "date": "20261002",
+      "cat": "Club",
+      "price": "320.00",
+      "status": "3"
+    },
+    "IOMG|78738|20261002|Insignia": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "10:30 PM",
+      "date": "20261002",
+      "cat": "Insignia",
+      "price": "770.00",
+      "status": "3"
+    },
+    "IOMG|78743|20261002|Royale Recliners": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "Royale Recliners",
+      "price": "600.00",
+      "status": "3"
+    },
+    "IOMG|78743|20261002|Royale": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "Royale",
+      "price": "340.00",
+      "status": "3"
+    },
+    "IOMG|78743|20261002|Club": {
+      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "Club",
+      "price": "320.00",
+      "status": "3"
+    },
     "CIJA|5705|20261002|NORMAL": {
       "venue": "Cinepolis: Janak Cinema, New Delhi",
       "time": "09:00 AM",
@@ -9838,366 +10518,6 @@
       "date": "20261002",
       "cat": "PREMIUM PLUS",
       "price": "420.00",
-      "status": "3"
-    },
-    "ISMG|45313|20261002|LOUNGE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "10:35 AM",
-      "date": "20261002",
-      "cat": "LOUNGE",
-      "price": "530.00",
-      "status": "3"
-    },
-    "ISMG|45313|20261002|EXECUTIVE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "10:35 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "260.00",
-      "status": "3"
-    },
-    "ISMG|45313|20261002|CLASSIC": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "10:35 AM",
-      "date": "20261002",
-      "cat": "CLASSIC",
-      "price": "240.00",
-      "status": "3"
-    },
-    "ISMG|45314|20261002|LOUNGE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "01:45 PM",
-      "date": "20261002",
-      "cat": "LOUNGE",
-      "price": "580.00",
-      "status": "3"
-    },
-    "ISMG|45314|20261002|EXECUTIVE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "01:45 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "ISMG|45314|20261002|CLASSIC": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "01:45 PM",
-      "date": "20261002",
-      "cat": "CLASSIC",
-      "price": "300.00",
-      "status": "3"
-    },
-    "ISMG|45315|20261002|LOUNGE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "LOUNGE",
-      "price": "580.00",
-      "status": "3"
-    },
-    "ISMG|45315|20261002|EXECUTIVE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "ISMG|45315|20261002|CLASSIC": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "CLASSIC",
-      "price": "300.00",
-      "status": "3"
-    },
-    "ISMG|45316|20261002|LOUNGE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "08:05 PM",
-      "date": "20261002",
-      "cat": "LOUNGE",
-      "price": "630.00",
-      "status": "3"
-    },
-    "ISMG|45316|20261002|EXECUTIVE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "08:05 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
-      "status": "3"
-    },
-    "ISMG|45316|20261002|CLASSIC": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "08:05 PM",
-      "date": "20261002",
-      "cat": "CLASSIC",
-      "price": "310.00",
-      "status": "3"
-    },
-    "ISMG|45317|20261002|LOUNGE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "11:15 PM",
-      "date": "20261002",
-      "cat": "LOUNGE",
-      "price": "630.00",
-      "status": "3"
-    },
-    "ISMG|45317|20261002|EXECUTIVE": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "11:15 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
-      "status": "3"
-    },
-    "ISMG|45317|20261002|CLASSIC": {
-      "venue": "INOX: Shipra Mall, Ghaziabad",
-      "time": "11:15 PM",
-      "date": "20261002",
-      "cat": "CLASSIC",
-      "price": "310.00",
-      "status": "3"
-    },
-    "IOMG|78734|20261002|Insignia": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "09:50 AM",
-      "date": "20261002",
-      "cat": "Insignia",
-      "price": "470.00",
-      "status": "3"
-    },
-    "IOMG|78739|20261002|Royale Recliners": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "10:35 AM",
-      "date": "20261002",
-      "cat": "Royale Recliners",
-      "price": "440.00",
-      "status": "3"
-    },
-    "IOMG|78739|20261002|Royale": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "10:35 AM",
-      "date": "20261002",
-      "cat": "Royale",
-      "price": "250.00",
-      "status": "3"
-    },
-    "IOMG|78739|20261002|Club": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "10:35 AM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "220.00",
-      "status": "3"
-    },
-    "IOMG|78735|20261002|Insignia": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "Insignia",
-      "price": "770.00",
-      "status": "3"
-    },
-    "IOMG|78740|20261002|Royale Recliners": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "01:45 PM",
-      "date": "20261002",
-      "cat": "Royale Recliners",
-      "price": "580.00",
-      "status": "3"
-    },
-    "IOMG|78740|20261002|Royale": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "01:45 PM",
-      "date": "20261002",
-      "cat": "Royale",
-      "price": "330.00",
-      "status": "3"
-    },
-    "IOMG|78740|20261002|Club": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "01:45 PM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "310.00",
-      "status": "3"
-    },
-    "IOMG|78736|20261002|Insignia": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "04:10 PM",
-      "date": "20261002",
-      "cat": "Insignia",
-      "price": "770.00",
-      "status": "3"
-    },
-    "IOMG|78741|20261002|Royale Recliners": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "Royale Recliners",
-      "price": "580.00",
-      "status": "3"
-    },
-    "IOMG|78741|20261002|Royale": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "Royale",
-      "price": "330.00",
-      "status": "3"
-    },
-    "IOMG|78741|20261002|Club": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "310.00",
-      "status": "3"
-    },
-    "IOMG|78737|20261002|Insignia": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "07:20 PM",
-      "date": "20261002",
-      "cat": "Insignia",
-      "price": "770.00",
-      "status": "3"
-    },
-    "IOMG|78742|20261002|Royale Recliners": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "08:05 PM",
-      "date": "20261002",
-      "cat": "Royale Recliners",
-      "price": "600.00",
-      "status": "3"
-    },
-    "IOMG|78742|20261002|Royale": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "08:05 PM",
-      "date": "20261002",
-      "cat": "Royale",
-      "price": "340.00",
-      "status": "3"
-    },
-    "IOMG|78742|20261002|Club": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "08:05 PM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "320.00",
-      "status": "3"
-    },
-    "IOMG|78738|20261002|Insignia": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "10:30 PM",
-      "date": "20261002",
-      "cat": "Insignia",
-      "price": "770.00",
-      "status": "3"
-    },
-    "IOMG|78743|20261002|Royale Recliners": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "11:15 PM",
-      "date": "20261002",
-      "cat": "Royale Recliners",
-      "price": "600.00",
-      "status": "3"
-    },
-    "IOMG|78743|20261002|Royale": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "11:15 PM",
-      "date": "20261002",
-      "cat": "Royale",
-      "price": "340.00",
-      "status": "3"
-    },
-    "IOMG|78743|20261002|Club": {
-      "venue": "INOX: Omaxe Connaught Place Mall, Greater Noida",
-      "time": "11:15 PM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30314|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "250.00",
-      "status": "3"
-    },
-    "MDDC|30314|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30315|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "12:15 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30315|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "12:15 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30316|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "03:30 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30316|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "03:30 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30317|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30317|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30318|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30318|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
       "status": "3"
     },
     "EMPS|16853|20261002|RECLINER ROWS": {
@@ -10790,7 +11110,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "480.00",
-      "status": "2"
+      "status": "3"
     },
     "PECD|15706|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: ECX Chanakyapuri, Delhi",
@@ -10838,85 +11158,85 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "480.00",
-      "status": "2"
-    },
-    "MCDE|42868|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "SILVER",
-      "price": "260.00",
       "status": "3"
     },
-    "MCDE|42868|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "10:00 AM",
+    "MDDC|30314|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "260.00",
+      "cat": "SPECIAL",
+      "price": "250.00",
       "status": "3"
     },
-    "MCDE|42869|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "01:15 PM",
+    "MDDC|30314|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "EXECUTIVE",
+      "price": "280.00",
       "status": "3"
     },
-    "MCDE|42869|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "01:15 PM",
+    "MDDC|30315|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "12:15 PM",
       "date": "20261002",
-      "cat": "CLUB",
+      "cat": "SPECIAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MDDC|30315|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "12:15 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
       "price": "320.00",
       "status": "3"
     },
-    "MCDE|42870|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "04:30 PM",
+    "MDDC|30316|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "03:30 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "SPECIAL",
+      "price": "280.00",
       "status": "3"
     },
-    "MCDE|42870|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "04:30 PM",
+    "MDDC|30316|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "03:30 PM",
       "date": "20261002",
-      "cat": "CLUB",
+      "cat": "EXECUTIVE",
       "price": "320.00",
       "status": "3"
     },
-    "MCDE|42871|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "07:45 PM",
+    "MDDC|30317|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "SPECIAL",
+      "price": "280.00",
       "status": "3"
     },
-    "MCDE|42871|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "07:45 PM",
+    "MDDC|30317|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "CLUB",
+      "cat": "EXECUTIVE",
       "price": "320.00",
       "status": "3"
     },
-    "MCDE|42872|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "11:00 PM",
+    "MDDC|30318|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "SPECIAL",
+      "price": "280.00",
       "status": "3"
     },
-    "MCDE|42872|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "11:00 PM",
+    "MDDC|30318|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "CLUB",
+      "cat": "EXECUTIVE",
       "price": "320.00",
       "status": "3"
     },
@@ -11560,84 +11880,84 @@
       "price": "380.00",
       "status": "3"
     },
-    "MIMU|49930|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "09:00 AM",
+    "MCDE|42868|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "170.00",
+      "cat": "SILVER",
+      "price": "260.00",
       "status": "3"
     },
-    "MIMU|49930|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "09:00 AM",
+    "MCDE|42868|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "190.00",
+      "cat": "CLUB",
+      "price": "260.00",
       "status": "3"
     },
-    "MIMU|49931|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "12:15 PM",
+    "MCDE|42869|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "01:15 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "190.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49931|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "12:15 PM",
+    "MCDE|42869|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "01:15 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "210.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
-    "MIMU|49932|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "03:30 PM",
+    "MCDE|42870|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "04:30 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "210.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49932|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "03:30 PM",
+    "MCDE|42870|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "04:30 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
-    "MIMU|49933|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "06:45 PM",
+    "MCDE|42871|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "07:45 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "230.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49933|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "06:45 PM",
+    "MCDE|42871|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "07:45 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
-    "MIMU|49934|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "10:00 PM",
+    "MCDE|42872|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "11:00 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "230.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49934|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "10:00 PM",
+    "MCDE|42872|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "11:00 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
     "PDIV|17655|20261002|PRIME PLUS ROWS": {
@@ -11974,6 +12294,86 @@
       "date": "20261002",
       "cat": "RECLINERS",
       "price": "2000.00",
+      "status": "3"
+    },
+    "MIMU|49930|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "170.00",
+      "status": "3"
+    },
+    "MIMU|49930|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "190.00",
+      "status": "3"
+    },
+    "MIMU|49931|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "12:15 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "190.00",
+      "status": "3"
+    },
+    "MIMU|49931|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "12:15 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "210.00",
+      "status": "3"
+    },
+    "MIMU|49932|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "03:30 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "210.00",
+      "status": "3"
+    },
+    "MIMU|49932|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "03:30 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "230.00",
+      "status": "3"
+    },
+    "MIMU|49933|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "230.00",
+      "status": "3"
+    },
+    "MIMU|49933|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "250.00",
+      "status": "3"
+    },
+    "MIMU|49934|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "230.00",
+      "status": "3"
+    },
+    "MIMU|49934|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "250.00",
       "status": "3"
     },
     "INFR|94747|20261002|RECLINER ROWS": {
@@ -12462,7 +12862,7 @@
       "date": "20261002",
       "cat": "Recliners",
       "price": "580.00",
-      "status": "3"
+      "status": "2"
     },
     "IOTG|11008|20261002|Prime": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -12510,7 +12910,7 @@
       "date": "20261002",
       "cat": "Recliners",
       "price": "580.00",
-      "status": "3"
+      "status": "2"
     },
     "IOTG|11010|20261002|Prime": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -14510,7 +14910,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "340.00",
-      "status": "2"
+      "status": "3"
     },
     "INSG|39885|20261002|CLASSIC ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
@@ -14864,19 +15264,19 @@
       "price": "320.00",
       "status": "3"
     },
-    "PSDD|11140|20261002|PRIME ROWS": {
-      "venue": "PVR: Sangam, Delhi",
-      "time": "10:15 AM",
-      "date": "20261002",
-      "cat": "PRIME ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
     "PSDD|11140|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: Sangam, Delhi",
       "time": "10:15 AM",
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PSDD|11140|20261002|PRIME ROWS": {
+      "venue": "PVR: Sangam, Delhi",
+      "time": "10:15 AM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
       "price": "360.00",
       "status": "3"
     },
@@ -14888,19 +15288,19 @@
       "price": "330.00",
       "status": "3"
     },
-    "PSDD|11141|20261002|PRIME ROWS": {
-      "venue": "PVR: Sangam, Delhi",
-      "time": "01:25 PM",
-      "date": "20261002",
-      "cat": "PRIME ROWS",
-      "price": "460.00",
-      "status": "3"
-    },
     "PSDD|11141|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: Sangam, Delhi",
       "time": "01:25 PM",
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
+      "price": "460.00",
+      "status": "3"
+    },
+    "PSDD|11141|20261002|PRIME ROWS": {
+      "venue": "PVR: Sangam, Delhi",
+      "time": "01:25 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
       "price": "460.00",
       "status": "3"
     },
@@ -14912,19 +15312,19 @@
       "price": "410.00",
       "status": "3"
     },
-    "PSDD|11142|20261002|PRIME PLUS ROWS": {
-      "venue": "PVR: Sangam, Delhi",
-      "time": "04:35 PM",
-      "date": "20261002",
-      "cat": "PRIME PLUS ROWS",
-      "price": "460.00",
-      "status": "3"
-    },
     "PSDD|11142|20261002|PRIME ROWS": {
       "venue": "PVR: Sangam, Delhi",
       "time": "04:35 PM",
       "date": "20261002",
       "cat": "PRIME ROWS",
+      "price": "460.00",
+      "status": "3"
+    },
+    "PSDD|11142|20261002|PRIME PLUS ROWS": {
+      "venue": "PVR: Sangam, Delhi",
+      "time": "04:35 PM",
+      "date": "20261002",
+      "cat": "PRIME PLUS ROWS",
       "price": "460.00",
       "status": "3"
     },
@@ -14936,19 +15336,19 @@
       "price": "410.00",
       "status": "3"
     },
-    "PSDD|11143|20261002|PRIME PLUS ROWS": {
-      "venue": "PVR: Sangam, Delhi",
-      "time": "07:45 PM",
-      "date": "20261002",
-      "cat": "PRIME PLUS ROWS",
-      "price": "460.00",
-      "status": "3"
-    },
     "PSDD|11143|20261002|PRIME ROWS": {
       "venue": "PVR: Sangam, Delhi",
       "time": "07:45 PM",
       "date": "20261002",
       "cat": "PRIME ROWS",
+      "price": "460.00",
+      "status": "3"
+    },
+    "PSDD|11143|20261002|PRIME PLUS ROWS": {
+      "venue": "PVR: Sangam, Delhi",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "PRIME PLUS ROWS",
       "price": "460.00",
       "status": "3"
     },
@@ -15192,19 +15592,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21930|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "340.00",
-      "status": "3"
-    },
     "PETA|21930|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "02:00 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PETA|21930|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "340.00",
       "status": "3"
     },
@@ -15312,19 +15712,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21927|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "06:50 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
     "PETA|21927|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "06:50 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PETA|21927|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "06:50 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "360.00",
       "status": "3"
     },
@@ -15352,19 +15752,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21932|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "08:20 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "360.00",
-      "status": "3"
-    },
     "PETA|21932|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "08:20 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PETA|21932|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "08:20 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "360.00",
       "status": "3"
     },
@@ -15392,19 +15792,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21928|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "360.00",
-      "status": "3"
-    },
     "PETA|21928|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "10:00 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PETA|21928|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "360.00",
       "status": "3"
     },
@@ -15432,19 +15832,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21933|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "11:30 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "360.00",
-      "status": "3"
-    },
     "PETA|21933|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "11:30 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PETA|21933|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "11:30 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "360.00",
       "status": "3"
     },
@@ -15472,19 +15872,19 @@
       "price": "420.00",
       "status": "3"
     },
-    "PVMS|28219|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "09:50 AM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
     "PVMS|28219|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "09:50 AM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVMS|28219|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "09:50 AM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "280.00",
       "status": "3"
     },
@@ -15632,19 +16032,19 @@
       "price": "500.00",
       "status": "3"
     },
-    "PVMS|28221|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "04:10 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "370.00",
-      "status": "3"
-    },
     "PVMS|28221|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "04:10 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PVMS|28221|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "04:10 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "370.00",
       "status": "3"
     },
@@ -15712,19 +16112,19 @@
       "price": "500.00",
       "status": "3"
     },
-    "PVMS|28222|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "07:20 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "370.00",
-      "status": "3"
-    },
     "PVMS|28222|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "07:20 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PVMS|28222|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "07:20 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "370.00",
       "status": "3"
     },
@@ -16718,7 +17118,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
     "PFDN|183|20261002|CLASSIC ROWS": {
       "venue": "PVR: DLF Summit Plaza, Gurugram",
