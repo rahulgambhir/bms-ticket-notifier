@@ -14,7 +14,7 @@
       "date": "20261002",
       "cat": "EXECUTIVE ROWS",
       "price": "980.00",
-      "status": "3"
+      "status": "2"
     },
     "PVVW|62685|20261002|PRIME ROWS": {
       "venue": "PVR: Vegas Dwarka",
@@ -566,7 +566,7 @@
       "date": "20261002",
       "cat": "PREMIUM PLUS",
       "price": "540.00",
-      "status": "1"
+      "status": "2"
     },
     "CPNS|12931|20261002|RECLINER": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
@@ -990,7 +990,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "420.00",
-      "status": "3"
+      "status": "2"
     },
     "DTYN|35370|20261002|CLASSIC": {
       "venue": "PVR: Superplex Mall Of India, Noida",
@@ -1630,7 +1630,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "1100.00",
-      "status": "2"
+      "status": "3"
     },
     "PAEG|55972|20261002|RECLINERS": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -1800,19 +1800,19 @@
       "price": "480.00",
       "status": "3"
     },
-    "PAEG|55969|20261002|XTRA LEGROOM": {
-      "venue": "Gurugram Pepsi PVR Ambience",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "XTRA LEGROOM",
-      "price": "720.00",
-      "status": "3"
-    },
     "PAEG|55969|20261002|PICTURE PERFECT": {
       "venue": "Gurugram Pepsi PVR Ambience",
       "time": "04:55 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "720.00",
+      "status": "3"
+    },
+    "PAEG|55969|20261002|XTRA LEGROOM": {
+      "venue": "Gurugram Pepsi PVR Ambience",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "XTRA LEGROOM",
       "price": "720.00",
       "status": "3"
     },
@@ -1838,7 +1838,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "1800.00",
-      "status": "3"
+      "status": "2"
     },
     "PAEG|55974|20261002|RECLINERS": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -1862,7 +1862,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "590.00",
-      "status": "3"
+      "status": "2"
     },
     "PAEG|55979|20261002|CLASSIC": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -2310,7 +2310,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "370.00",
-      "status": "1"
+      "status": "2"
     },
     "PGND|42219|20261002|CLASSIC": {
       "venue": "PVR: Gaur City, Greater Noida",
@@ -2880,6 +2880,14 @@
       "price": "470.00",
       "status": "3"
     },
+    "PTCW|34405|20261002|RECLINER PRIME": {
+      "venue": "PVR: Select City Walk, Delhi",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "RECLINER PRIME",
+      "price": "2300.00",
+      "status": "1"
+    },
     "PTCW|34405|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
       "time": "07:45 PM",
@@ -2887,14 +2895,6 @@
       "cat": "RECLINER",
       "price": "2200.00",
       "status": "3"
-    },
-    "PTCW|34405|20261002|RECLINER PRIME": {
-      "venue": "PVR: Select City Walk, Delhi",
-      "time": "07:45 PM",
-      "date": "20261002",
-      "cat": "RECLINER PRIME",
-      "price": "2200.00",
-      "status": "1"
     },
     "PTCW|34400|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
@@ -2920,14 +2920,6 @@
       "price": "470.00",
       "status": "3"
     },
-    "PTCW|34406|20261002|RECLINER PRIME": {
-      "venue": "PVR: Select City Walk, Delhi",
-      "time": "10:55 PM",
-      "date": "20261002",
-      "cat": "RECLINER PRIME",
-      "price": "2200.00",
-      "status": "2"
-    },
     "PTCW|34406|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
       "time": "10:55 PM",
@@ -2935,6 +2927,14 @@
       "cat": "RECLINER",
       "price": "2200.00",
       "status": "3"
+    },
+    "PTCW|34406|20261002|RECLINER PRIME": {
+      "venue": "PVR: Select City Walk, Delhi",
+      "time": "10:55 PM",
+      "date": "20261002",
+      "cat": "RECLINER PRIME",
+      "price": "2200.00",
+      "status": "2"
     },
     "PTCW|34401|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
@@ -3302,7 +3302,7 @@
       "date": "20261002",
       "cat": "NORMAL",
       "price": "280.00",
-      "status": "3"
+      "status": "0"
     },
     "SPIA|13756|20261002|EXECUTIVE": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -3366,7 +3366,7 @@
       "date": "20261002",
       "cat": "NORMAL",
       "price": "280.00",
-      "status": "0"
+      "status": "3"
     },
     "SPIA|13757|20261002|EXECUTIVE": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -4400,14 +4400,6 @@
       "price": "630.00",
       "status": "1"
     },
-    "PCSN|27988|20261002|PRIME PLUS ROWS": {
-      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
-      "time": "10:05 AM",
-      "date": "20261002",
-      "cat": "PRIME PLUS ROWS",
-      "price": "400.00",
-      "status": "1"
-    },
     "PCSN|27988|20261002|PRIME ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
       "time": "10:05 AM",
@@ -4415,6 +4407,14 @@
       "cat": "PRIME ROWS",
       "price": "400.00",
       "status": "3"
+    },
+    "PCSN|27988|20261002|PRIME PLUS ROWS": {
+      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
+      "time": "10:05 AM",
+      "date": "20261002",
+      "cat": "PRIME PLUS ROWS",
+      "price": "400.00",
+      "status": "1"
     },
     "PCSN|27988|20261002|CLASSIC ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
@@ -4437,7 +4437,7 @@
       "time": "11:05 AM",
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
-      "price": "410.00",
+      "price": "460.00",
       "status": "1"
     },
     "PCSN|28070|20261002|PRIME ROWS": {
@@ -4688,19 +4688,19 @@
       "price": "820.00",
       "status": "2"
     },
-    "PCSN|28074|20261002|PRIME ROWS": {
-      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
-      "time": "11:45 PM",
-      "date": "20261002",
-      "cat": "PRIME ROWS",
-      "price": "550.00",
-      "status": "3"
-    },
     "PCSN|28074|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
       "time": "11:45 PM",
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
+      "price": "550.00",
+      "status": "3"
+    },
+    "PCSN|28074|20261002|PRIME ROWS": {
+      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
+      "time": "11:45 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
       "price": "550.00",
       "status": "3"
     },
@@ -5389,7 +5389,7 @@
       "time": "02:15 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
-      "price": "600.00",
+      "price": "630.00",
       "status": "3"
     },
     "PGGM|40345|20261002|PRIME ROWS": {
@@ -8430,7 +8430,7 @@
       "date": "20261002",
       "cat": "PREMIUM XL",
       "price": "560.00",
-      "status": "2"
+      "status": "1"
     },
     "CPUM|6153|20261002|PREMIUM PLUS": {
       "venue": "Cinepolis: Unity One Mall Rohini, Delhi",
@@ -8616,14 +8616,6 @@
       "price": "470.00",
       "status": "3"
     },
-    "SCND|94838|20261002|Club": {
-      "venue": "INOX: Nehru Place",
-      "time": "02:15 PM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "450.00",
-      "status": "3"
-    },
     "SCND|94838|20261002|Royal": {
       "venue": "INOX: Nehru Place",
       "time": "02:15 PM",
@@ -8631,6 +8623,14 @@
       "cat": "Royal",
       "price": "450.00",
       "status": "2"
+    },
+    "SCND|94838|20261002|Club": {
+      "venue": "INOX: Nehru Place",
+      "time": "02:15 PM",
+      "date": "20261002",
+      "cat": "Club",
+      "price": "450.00",
+      "status": "3"
     },
     "SCND|94838|20261002|Executive": {
       "venue": "INOX: Nehru Place",
@@ -9534,7 +9534,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "500.00",
-      "status": "3"
+      "status": "2"
     },
     "INWM|48044|20261002|CLASSIC PLUS ROWS": {
       "venue": "INOX: World Mark, Gurugram",
@@ -13112,6 +13112,406 @@
       "price": "360.00",
       "status": "3"
     },
+    "CIJA|5705|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "240.00",
+      "status": "3"
+    },
+    "CIJA|5705|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CIJA|5705|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5705|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CIJA|5705|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5710|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "240.00",
+      "status": "3"
+    },
+    "CIJA|5710|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "300.00",
+      "status": "3"
+    },
+    "CIJA|5710|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5710|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CIJA|5710|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5706|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CIJA|5706|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5706|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5706|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CIJA|5706|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5711|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CIJA|5711|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5711|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5711|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CIJA|5711|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5707|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CIJA|5707|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5707|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5707|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "2"
+    },
+    "CIJA|5707|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "03:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5712|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CIJA|5712|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5712|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5712|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CIJA|5712|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "04:20 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5708|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CIJA|5708|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5708|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5708|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CIJA|5708|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "06:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5713|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "CIJA|5713|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "340.00",
+      "status": "3"
+    },
+    "CIJA|5713|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5713|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "360.00",
+      "status": "3"
+    },
+    "CIJA|5713|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5709|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CIJA|5709|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5709|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "420.00",
+      "status": "3"
+    },
+    "CIJA|5709|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CIJA|5709|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "420.00",
+      "status": "3"
+    },
+    "CIJA|5714|20261002|NORMAL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "NORMAL",
+      "price": "320.00",
+      "status": "3"
+    },
+    "CIJA|5714|20261002|EXECUTIVE": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "380.00",
+      "status": "3"
+    },
+    "CIJA|5714|20261002|EXECUTIVE XL": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE XL",
+      "price": "420.00",
+      "status": "3"
+    },
+    "CIJA|5714|20261002|PREMIUM": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "400.00",
+      "status": "3"
+    },
+    "CIJA|5714|20261002|PREMIUM PLUS": {
+      "venue": "Cinepolis: Janak Cinema, New Delhi",
+      "time": "11:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM PLUS",
+      "price": "420.00",
+      "status": "3"
+    },
     "CEST|6878|20261002|NORMAL": {
       "venue": "Cinepolis: V3S East Centre (New)",
       "time": "09:00 AM",
@@ -13592,406 +13992,6 @@
       "price": "860.00",
       "status": "3"
     },
-    "CIJA|5705|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CIJA|5705|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CIJA|5705|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5705|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CIJA|5705|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5710|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "240.00",
-      "status": "3"
-    },
-    "CIJA|5710|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
-      "status": "3"
-    },
-    "CIJA|5710|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5710|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CIJA|5710|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5706|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CIJA|5706|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5706|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5706|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CIJA|5706|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "12:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5711|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CIJA|5711|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5711|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5711|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CIJA|5711|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5707|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CIJA|5707|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5707|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5707|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "2"
-    },
-    "CIJA|5707|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "03:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5712|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CIJA|5712|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5712|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5712|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CIJA|5712|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "04:20 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5708|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CIJA|5708|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5708|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5708|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CIJA|5708|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "06:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5713|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "CIJA|5713|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "340.00",
-      "status": "3"
-    },
-    "CIJA|5713|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5713|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "360.00",
-      "status": "3"
-    },
-    "CIJA|5713|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "07:40 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5709|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CIJA|5709|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5709|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "420.00",
-      "status": "3"
-    },
-    "CIJA|5709|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
-      "status": "3"
-    },
-    "CIJA|5709|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "420.00",
-      "status": "3"
-    },
-    "CIJA|5714|20261002|NORMAL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "11:00 PM",
-      "date": "20261002",
-      "cat": "NORMAL",
-      "price": "320.00",
-      "status": "3"
-    },
-    "CIJA|5714|20261002|EXECUTIVE": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "11:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "380.00",
-      "status": "3"
-    },
-    "CIJA|5714|20261002|EXECUTIVE XL": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "11:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE XL",
-      "price": "420.00",
-      "status": "3"
-    },
-    "CIJA|5714|20261002|PREMIUM": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "11:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
-      "status": "3"
-    },
-    "CIJA|5714|20261002|PREMIUM PLUS": {
-      "venue": "Cinepolis: Janak Cinema, New Delhi",
-      "time": "11:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM PLUS",
-      "price": "420.00",
-      "status": "3"
-    },
     "PECD|15703|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: ECX Chanakyapuri, Delhi",
       "time": "10:35 AM",
@@ -14014,7 +14014,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "340.00",
-      "status": "3"
+      "status": "2"
     },
     "PECD|15704|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: ECX Chanakyapuri, Delhi",
@@ -14022,7 +14022,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "640.00",
-      "status": "2"
+      "status": "1"
     },
     "PECD|15704|20261002|PRIME ROWS": {
       "venue": "PVR: ECX Chanakyapuri, Delhi",
@@ -14038,7 +14038,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "480.00",
-      "status": "3"
+      "status": "2"
     },
     "PECD|15705|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: ECX Chanakyapuri, Delhi",
@@ -16024,6 +16024,86 @@
       "price": "1400.00",
       "status": "3"
     },
+    "MDDC|30314|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "250.00",
+      "status": "3"
+    },
+    "MDDC|30314|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "09:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MDDC|30315|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "12:15 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MDDC|30315|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "12:15 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "MDDC|30316|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "03:30 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MDDC|30316|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "03:30 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "MDDC|30317|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MDDC|30317|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
+    "MDDC|30318|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "SPECIAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MDDC|30318|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "320.00",
+      "status": "3"
+    },
     "USCG|58377|20261002|LUXURY": {
       "venue": "US CINEMAS: Eros Mall, Indirapuram",
       "time": "09:00 AM",
@@ -16117,86 +16197,6 @@
       "time": "11:30 PM",
       "date": "20261002",
       "cat": "LUX.PLUS",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30314|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "250.00",
-      "status": "3"
-    },
-    "MDDC|30314|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "09:00 AM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30315|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "12:15 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30315|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "12:15 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30316|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "03:30 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30316|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "03:30 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30317|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30317|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "320.00",
-      "status": "3"
-    },
-    "MDDC|30318|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MDDC|30318|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Vikas Cinemall, Shahdara",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
       "price": "320.00",
       "status": "3"
     },
@@ -16662,7 +16662,7 @@
       "date": "20261002",
       "cat": "Platinum",
       "price": "670.00",
-      "status": "3"
+      "status": "2"
     },
     "IOCP|15004|20261002|Gold": {
       "venue": "INOX: Odeon, Connaught Place",
@@ -16942,7 +16942,7 @@
       "date": "20261002",
       "cat": "Recliners",
       "price": "440.00",
-      "status": "2"
+      "status": "3"
     },
     "IOTG|11006|20261002|Prime": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -16966,7 +16966,7 @@
       "date": "20261002",
       "cat": "Recliners",
       "price": "470.00",
-      "status": "2"
+      "status": "3"
     },
     "IOTG|11007|20261002|Prime": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -16974,7 +16974,7 @@
       "date": "20261002",
       "cat": "Prime",
       "price": "260.00",
-      "status": "2"
+      "status": "3"
     },
     "IOTG|11007|20261002|Classic": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -17334,7 +17334,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "360.00",
-      "status": "3"
+      "status": "2"
     },
     "PNAD|22286|20261002|PRIME ROWS": {
       "venue": "PVR: Naraina, Delhi",
@@ -17382,7 +17382,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "360.00",
-      "status": "3"
+      "status": "2"
     },
     "PNAD|22287|20261002|PRIME ROWS": {
       "venue": "PVR: Naraina, Delhi",
@@ -21104,19 +21104,19 @@
       "price": "410.00",
       "status": "3"
     },
-    "PSDD|11144|20261002|PRIME ROWS": {
-      "venue": "PVR: Sangam, Delhi",
-      "time": "10:55 PM",
-      "date": "20261002",
-      "cat": "PRIME ROWS",
-      "price": "460.00",
-      "status": "3"
-    },
     "PSDD|11144|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: Sangam, Delhi",
       "time": "10:55 PM",
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
+      "price": "460.00",
+      "status": "3"
+    },
+    "PSDD|11144|20261002|PRIME ROWS": {
+      "venue": "PVR: Sangam, Delhi",
+      "time": "10:55 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
       "price": "460.00",
       "status": "3"
     },
@@ -21216,19 +21216,19 @@
       "price": "490.00",
       "status": "3"
     },
-    "PETA|21924|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "09:20 AM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
     "PETA|21924|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "09:20 AM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PETA|21924|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "09:20 AM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "280.00",
       "status": "3"
     },
@@ -21296,19 +21296,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21925|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "12:30 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "340.00",
-      "status": "3"
-    },
     "PETA|21925|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "12:30 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PETA|21925|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "12:30 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "340.00",
       "status": "3"
     },
@@ -21336,19 +21336,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21930|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "340.00",
-      "status": "3"
-    },
     "PETA|21930|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "02:00 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PETA|21930|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "340.00",
       "status": "3"
     },
@@ -21416,19 +21416,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21931|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "05:10 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "340.00",
-      "status": "3"
-    },
     "PETA|21931|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "05:10 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "340.00",
+      "status": "3"
+    },
+    "PETA|21931|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "05:10 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "340.00",
       "status": "3"
     },
@@ -21456,19 +21456,19 @@
       "price": "650.00",
       "status": "2"
     },
-    "PETA|21927|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "06:50 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "360.00",
-      "status": "3"
-    },
     "PETA|21927|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "06:50 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PETA|21927|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "06:50 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "360.00",
       "status": "3"
     },
@@ -21496,19 +21496,19 @@
       "price": "610.00",
       "status": "3"
     },
-    "PETA|21932|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "08:20 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "360.00",
-      "status": "3"
-    },
     "PETA|21932|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "08:20 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "PETA|21932|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "08:20 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "360.00",
       "status": "3"
     },
@@ -21704,19 +21704,19 @@
       "price": "420.00",
       "status": "3"
     },
-    "PVMS|28219|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "09:50 AM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "280.00",
-      "status": "3"
-    },
     "PVMS|28219|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "09:50 AM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "280.00",
+      "status": "3"
+    },
+    "PVMS|28219|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "09:50 AM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "280.00",
       "status": "3"
     },
@@ -21784,19 +21784,19 @@
       "price": "450.00",
       "status": "1"
     },
-    "PVMS|28220|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "350.00",
-      "status": "3"
-    },
     "PVMS|28220|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "01:00 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVMS|28220|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "350.00",
       "status": "3"
     },
@@ -21822,7 +21822,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "430.00",
-      "status": "3"
+      "status": "2"
     },
     "PVMS|28225|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
@@ -21941,15 +21941,7 @@
       "time": "07:20 PM",
       "date": "20261002",
       "cat": "RECLINER ROWS",
-      "price": "500.00",
-      "status": "3"
-    },
-    "PVMS|28222|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "07:20 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "370.00",
+      "price": "510.00",
       "status": "3"
     },
     "PVMS|28222|20261002|EXTRA LEGROOM ROWS": {
@@ -21957,6 +21949,14 @@
       "time": "07:20 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PVMS|28222|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "07:20 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "370.00",
       "status": "3"
     },
@@ -22286,7 +22286,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "850.00",
-      "status": "2"
+      "status": "3"
     },
     "IGAM|46187|20261002|RECLINER PRIME": {
       "venue": "INOX: Ardee Mall, Gurugram",
