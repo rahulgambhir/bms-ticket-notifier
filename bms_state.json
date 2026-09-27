@@ -790,7 +790,7 @@
       "date": "20261002",
       "cat": "FAMILY BOX",
       "price": "500.00",
-      "status": "3"
+      "status": "0"
     },
     "G3SR|96982|20261002|SILVER": {
       "venue": "G3S Cinema: Rohini (Newly Renovated)",
@@ -2150,7 +2150,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "410.00",
-      "status": "2"
+      "status": "3"
     },
     "PGND|42216|20261002|PRIME": {
       "venue": "PVR: Gaur City, Greater Noida",
@@ -2173,7 +2173,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "RECLINER",
-      "price": "450.00",
+      "price": "470.00",
       "status": "0"
     },
     "PGND|42221|20261002|PRIME": {
@@ -2798,7 +2798,7 @@
       "date": "20261002",
       "cat": "NORMAL",
       "price": "320.00",
-      "status": "0"
+      "status": "3"
     },
     "SPIA|13759|20261002|EXECUTIVE": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -2998,7 +2998,7 @@
       "date": "20261002",
       "cat": "RECLINER PRIME",
       "price": "2200.00",
-      "status": "2"
+      "status": "3"
     },
     "PTCW|34401|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
@@ -4014,7 +4014,7 @@
       "date": "20261002",
       "cat": "Club",
       "price": "510.00",
-      "status": "2"
+      "status": "3"
     },
     "INVM|41850|20261002|Executive": {
       "venue": "INOX: Vishal Mall, Rajouri Garden",
@@ -4598,7 +4598,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "820.00",
-      "status": "1"
+      "status": "3"
     },
     "PCSN|27992|20261002|PRIME ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
@@ -4614,7 +4614,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "550.00",
-      "status": "2"
+      "status": "3"
     },
     "PCSN|27992|20261002|CLASSIC ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
@@ -14070,7 +14070,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "790.00",
-      "status": "1"
+      "status": "3"
     },
     "MHNU|24002|20261002|PRIME": {
       "venue": "PVR: Mahagun, Ghaziabad",
@@ -14358,7 +14358,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "390.00",
-      "status": "2"
+      "status": "3"
     },
     "PDIV|17658|20261002|PRIME ROWS": {
       "venue": "PVR: Vikaspuri, Delhi",
@@ -15846,7 +15846,7 @@
       "date": "20261002",
       "cat": "Prime",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "IOTG|11008|20261002|Classic": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -18558,7 +18558,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "800.00",
-      "status": "3"
+      "status": "2"
     },
     "PMTN|3148|20261002|PRIME ROWS": {
       "venue": "PVR: Midtown, Moti Nagar, Delhi",
@@ -18582,7 +18582,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "950.00",
-      "status": "3"
+      "status": "2"
     },
     "INRD|41537|20261002|RECLINERS": {
       "venue": "INOX: RCube, Monad Mall: Delhi",
@@ -21104,6 +21104,86 @@
       "price": "2000.00",
       "status": "3"
     },
+    "ONEG|1866|20261002|PREMIUM RECLINER": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "11:15 AM",
+      "date": "20261002",
+      "cat": "PREMIUM RECLINER",
+      "price": "370.00",
+      "status": "3"
+    },
+    "ONEG|1866|20261002|GOLD": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "11:15 AM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "270.00",
+      "status": "3"
+    },
+    "ONEG|1867|20261002|PREMIUM RECLINER": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ONEG|1867|20261002|GOLD": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ONEG|1868|20261002|PREMIUM RECLINER": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "04:50 PM",
+      "date": "20261002",
+      "cat": "PREMIUM RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "ONEG|1868|20261002|GOLD": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "04:50 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "300.00",
+      "status": "3"
+    },
+    "ONEG|1869|20261002|PREMIUM RECLINER": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "PREMIUM RECLINER",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ONEG|1869|20261002|GOLD": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
+    "ONEG|1870|20261002|PREMIUM RECLINER": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "10:40 PM",
+      "date": "20261002",
+      "cat": "PREMIUM RECLINER",
+      "price": "450.00",
+      "status": "3"
+    },
+    "ONEG|1870|20261002|GOLD": {
+      "venue": "1 Cinema Powered by Mukta A2, Star Mall: Gurugram",
+      "time": "10:40 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "350.00",
+      "status": "3"
+    },
     "ATSM|822|20261002|SILVER": {
       "venue": "Miraj Cinemas: ATS Khyber Range Mall, Ghaziabad",
       "time": "09:00 AM",
@@ -21870,7 +21950,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
     "PFDN|183|20261002|CLASSIC ROWS": {
       "venue": "PVR: DLF Summit Plaza, Gurugram",
