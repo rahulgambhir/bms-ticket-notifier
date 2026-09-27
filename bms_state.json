@@ -1774,7 +1774,7 @@
       "date": "20261002",
       "cat": "NORMAL",
       "price": "260.00",
-      "status": "0"
+      "status": "3"
     },
     "SPIA|13759|20261002|EXECUTIVE": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -2590,7 +2590,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "540.00",
-      "status": "3"
+      "status": "2"
     },
     "PGND|42214|20261002|PRIME": {
       "venue": "PVR: Gaur City, Greater Noida",
@@ -5926,7 +5926,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "750.00",
-      "status": "3"
+      "status": "2"
     },
     "PGGM|40355|20261002|PICTURE PERFECT": {
       "venue": "HDFC Millennia PVR: MGF, Gurugram",
@@ -8350,7 +8350,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "550.00",
-      "status": "1"
+      "status": "2"
     },
     "MCTI|39415|20261002|SOFA": {
       "venue": "Miraj Cinemas: TGIP, Noida",
@@ -8926,7 +8926,7 @@
       "date": "20261002",
       "cat": "Royal",
       "price": "450.00",
-      "status": "2"
+      "status": "3"
     },
     "SCND|94839|20261002|Club": {
       "venue": "INOX: Nehru Place",
@@ -9726,7 +9726,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "470.00",
-      "status": "3"
+      "status": "2"
     },
     "INWM|48039|20261002|CLASSIC PLUS ROWS": {
       "venue": "INOX: World Mark, Gurugram",
@@ -13974,7 +13974,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "790.00",
-      "status": "3"
+      "status": "2"
     },
     "MHNU|24003|20261002|PRIME": {
       "venue": "PVR: Mahagun, Ghaziabad",
@@ -14486,7 +14486,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "2200.00",
-      "status": "2"
+      "status": "3"
     },
     "DPDC|24618|20261002|RECLINERS": {
       "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
@@ -15208,124 +15208,84 @@
       "price": "1400.00",
       "status": "3"
     },
-    "MMZG|31998|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 AM",
+    "MTND|53516|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:30 AM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "340.00",
+      "cat": "SILVER",
+      "price": "180.00",
       "status": "3"
     },
-    "MMZG|31998|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 AM",
+    "MTND|53516|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:30 AM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "340.00",
+      "cat": "GOLD",
+      "price": "200.00",
       "status": "3"
     },
-    "MMZG|31998|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 AM",
+    "MTND|53517|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "12:35 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|31999|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "01:00 PM",
+    "MTND|53517|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "12:35 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "MMZG|31999|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "01:00 PM",
+    "MTND|53518|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "03:40 PM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|31999|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "01:00 PM",
+    "MTND|53518|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "03:40 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "MMZG|32000|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "04:00 PM",
+    "MTND|53519|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|32000|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "04:00 PM",
+    "MTND|53519|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "MMZG|32000|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "04:00 PM",
+    "MTND|53520|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:50 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|32001|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "07:00 PM",
+    "MTND|53520|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:50 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32001|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "07:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32001|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "07:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
-      "status": "3"
-    },
-    "MMZG|32002|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32002|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32002|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
     "IOCP|15003|20261002|Platinum": {
@@ -15478,6 +15438,126 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "410.00",
+      "status": "3"
+    },
+    "MMZG|31998|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "CLUB",
+      "price": "340.00",
+      "status": "3"
+    },
+    "MMZG|31998|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "340.00",
+      "status": "3"
+    },
+    "MMZG|31998|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "300.00",
+      "status": "3"
+    },
+    "MMZG|31999|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "CLUB",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|31999|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|31999|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MMZG|32000|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "04:00 PM",
+      "date": "20261002",
+      "cat": "CLUB",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|32000|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "04:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|32000|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "04:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MMZG|32001|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "07:00 PM",
+      "date": "20261002",
+      "cat": "CLUB",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|32001|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "07:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|32001|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "07:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
+      "status": "3"
+    },
+    "MMZG|32002|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "CLUB",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|32002|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "PREMIUM",
+      "price": "400.00",
+      "status": "3"
+    },
+    "MMZG|32002|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
       "status": "3"
     },
     "IOTG|11006|20261002|Recliners": {
@@ -16814,7 +16894,7 @@
       "date": "20261002",
       "cat": "PICTURE PERFECT",
       "price": "2400.00",
-      "status": "2"
+      "status": "3"
     },
     "GPDC|23436|20261002|RECLINERS PRIME": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -16838,7 +16918,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "2400.00",
-      "status": "3"
+      "status": "2"
     },
     "GPDC|23431|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -16846,7 +16926,7 @@
       "date": "20261002",
       "cat": "PICTURE PERFECT",
       "price": "2400.00",
-      "status": "3"
+      "status": "2"
     },
     "GPDC|23431|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -18310,7 +18390,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "360.00",
-      "status": "3"
+      "status": "2"
     },
     "INSG|39887|20261002|CLASSIC ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
@@ -18406,7 +18486,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "360.00",
-      "status": "3"
+      "status": "2"
     },
     "INSG|39888|20261002|CLASSIC ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
@@ -19838,6 +19918,246 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "1250.00",
+      "status": "3"
+    },
+    "HVCD|10521|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "10:30 AM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "260.00",
+      "status": "3"
+    },
+    "HVCD|10521|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "10:30 AM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10521|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "10:30 AM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "400.00",
+      "status": "3"
+    },
+    "HVCD|10526|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "11:30 AM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10526|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "11:30 AM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10526|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "11:30 AM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10522|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "01:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10522|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "01:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10522|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "01:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10527|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "02:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10527|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "02:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10527|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "02:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10523|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "04:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10523|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "04:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10523|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "04:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10528|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "05:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10528|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "05:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10528|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "05:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10524|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "07:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10524|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "07:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10524|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "07:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10529|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "08:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10529|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "08:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10529|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "08:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10525|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "10:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10525|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "10:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10525|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "10:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "HVCD|10530|20261002|CLASSIC": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "11:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC",
+      "price": "280.00",
+      "status": "3"
+    },
+    "HVCD|10530|20261002|PRIME": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "11:30 PM",
+      "date": "20261002",
+      "cat": "PRIME",
+      "price": "300.00",
+      "status": "3"
+    },
+    "HVCD|10530|20261002|RECLINER": {
+      "venue": "Cineport Cinemas: SVH Metro Street, Sector 83",
+      "time": "11:30 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
       "status": "3"
     },
     "ISML|42700|20261002|RECLINER ROWS": {
