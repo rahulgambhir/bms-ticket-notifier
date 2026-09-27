@@ -1102,7 +1102,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "490.00",
-      "status": "2"
+      "status": "3"
     },
     "DTYN|35374|20261002|CLASSIC": {
       "venue": "PVR: Superplex Mall Of India, Noida",
@@ -2374,7 +2374,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "370.00",
-      "status": "1"
+      "status": "2"
     },
     "PGND|42219|20261002|CLASSIC": {
       "venue": "PVR: Gaur City, Greater Noida",
@@ -2798,7 +2798,7 @@
       "date": "20261002",
       "cat": "NORMAL",
       "price": "320.00",
-      "status": "0"
+      "status": "3"
     },
     "SPIA|13759|20261002|EXECUTIVE": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -2998,7 +2998,7 @@
       "date": "20261002",
       "cat": "RECLINER PRIME",
       "price": "2200.00",
-      "status": "2"
+      "status": "3"
     },
     "PTCW|34401|20261002|RECLINER": {
       "venue": "PVR: Select City Walk, Delhi",
@@ -3030,7 +3030,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "400.00",
-      "status": "3"
+      "status": "2"
     },
     "PPGV|37088|20261002|CLASSIC ROWS": {
       "venue": "PVR: Promenade, Vasant Kunj",
@@ -3094,7 +3094,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "620.00",
-      "status": "2"
+      "status": "3"
     },
     "PPGV|37099|20261002|CLASSIC ROWS": {
       "venue": "PVR: Promenade, Vasant Kunj",
@@ -4630,7 +4630,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "820.00",
-      "status": "3"
+      "status": "2"
     },
     "PCSN|28074|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
@@ -8558,7 +8558,7 @@
       "date": "20261002",
       "cat": "Royal",
       "price": "450.00",
-      "status": "2"
+      "status": "3"
     },
     "SCND|94839|20261002|Executive": {
       "venue": "INOX: Nehru Place",
@@ -12406,7 +12406,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "590.00",
-      "status": "0"
+      "status": "2"
     },
     "EMPS|16861|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Miracle, Sec 84, Gurugram",
@@ -14558,7 +14558,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
     "PDIV|17658|20261002|PRIME ROWS": {
       "venue": "PVR: Vikaspuri, Delhi",
@@ -15472,124 +15472,148 @@
       "price": "1400.00",
       "status": "3"
     },
-    "PCCF|105633|20261002|PLATINUM": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "11:00 AM",
+    "RRJM|74034|20261002|PREMIUM SOFA": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "09:40 AM",
       "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "250.00",
+      "cat": "PREMIUM SOFA",
+      "price": "360.00",
       "status": "3"
     },
-    "PCCF|105633|20261002|GOLD": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "11:00 AM",
+    "RRJM|74034|20261002|GOLD": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "09:40 AM",
       "date": "20261002",
       "cat": "GOLD",
-      "price": "250.00",
+      "price": "230.00",
       "status": "3"
     },
-    "PCCF|105633|20261002|SILVER": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "11:00 AM",
+    "RRJM|74034|20261002|SILVER": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "09:40 AM",
       "date": "20261002",
       "cat": "SILVER",
-      "price": "250.00",
+      "price": "210.00",
       "status": "3"
     },
-    "PCCF|105634|20261002|PLATINUM": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "01:55 PM",
+    "RRJM|74035|20261002|PREMIUM SOFA": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "12:25 PM",
       "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "290.00",
+      "cat": "PREMIUM SOFA",
+      "price": "440.00",
       "status": "3"
     },
-    "PCCF|105634|20261002|GOLD": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "01:55 PM",
+    "RRJM|74035|20261002|GOLD": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "12:25 PM",
       "date": "20261002",
       "cat": "GOLD",
+      "price": "310.00",
+      "status": "3"
+    },
+    "RRJM|74035|20261002|SILVER": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "12:25 PM",
+      "date": "20261002",
+      "cat": "SILVER",
       "price": "270.00",
       "status": "3"
     },
-    "PCCF|105634|20261002|SILVER": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "01:55 PM",
+    "RRJM|74036|20261002|PREMIUM SOFA": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "03:10 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "250.00",
+      "cat": "PREMIUM SOFA",
+      "price": "440.00",
       "status": "3"
     },
-    "PCCF|105635|20261002|PLATINUM": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "04:50 PM",
-      "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "290.00",
-      "status": "3"
-    },
-    "PCCF|105635|20261002|GOLD": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "04:50 PM",
+    "RRJM|74036|20261002|GOLD": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "03:10 PM",
       "date": "20261002",
       "cat": "GOLD",
+      "price": "310.00",
+      "status": "3"
+    },
+    "RRJM|74036|20261002|SILVER": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "03:10 PM",
+      "date": "20261002",
+      "cat": "SILVER",
       "price": "270.00",
       "status": "3"
     },
-    "PCCF|105635|20261002|SILVER": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "04:50 PM",
+    "RRJM|74037|20261002|PREMIUM SOFA": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "05:55 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "250.00",
+      "cat": "PREMIUM SOFA",
+      "price": "440.00",
       "status": "3"
     },
-    "PCCF|105636|20261002|PLATINUM": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "07:50 PM",
-      "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "290.00",
-      "status": "3"
-    },
-    "PCCF|105636|20261002|GOLD": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "07:50 PM",
+    "RRJM|74037|20261002|GOLD": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "05:55 PM",
       "date": "20261002",
       "cat": "GOLD",
+      "price": "310.00",
+      "status": "3"
+    },
+    "RRJM|74037|20261002|SILVER": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "05:55 PM",
+      "date": "20261002",
+      "cat": "SILVER",
       "price": "270.00",
       "status": "3"
     },
-    "PCCF|105636|20261002|SILVER": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "07:50 PM",
+    "RRJM|74038|20261002|PREMIUM SOFA": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "08:40 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "250.00",
+      "cat": "PREMIUM SOFA",
+      "price": "450.00",
       "status": "3"
     },
-    "PCCF|105637|20261002|PLATINUM": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "10:50 PM",
-      "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "290.00",
-      "status": "3"
-    },
-    "PCCF|105637|20261002|GOLD": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "10:50 PM",
+    "RRJM|74038|20261002|GOLD": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "08:40 PM",
       "date": "20261002",
       "cat": "GOLD",
-      "price": "270.00",
+      "price": "320.00",
       "status": "3"
     },
-    "PCCF|105637|20261002|SILVER": {
-      "venue": "Pristine Mall: Sec-31, Faridabad",
-      "time": "10:50 PM",
+    "RRJM|74038|20261002|SILVER": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "08:40 PM",
       "date": "20261002",
       "cat": "SILVER",
-      "price": "250.00",
+      "price": "280.00",
+      "status": "3"
+    },
+    "RRJM|74039|20261002|PREMIUM SOFA": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "11:25 PM",
+      "date": "20261002",
+      "cat": "PREMIUM SOFA",
+      "price": "450.00",
+      "status": "3"
+    },
+    "RRJM|74039|20261002|GOLD": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "11:25 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "320.00",
+      "status": "3"
+    },
+    "RRJM|74039|20261002|SILVER": {
+      "venue": "RR Cinema: Jaipuria Mall, Indirapuram",
+      "time": "11:25 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "280.00",
       "status": "3"
     },
     "IOCP|15003|20261002|Platinum": {
@@ -15744,84 +15768,124 @@
       "price": "410.00",
       "status": "3"
     },
-    "MCEF|24408|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "09:00 AM",
+    "PCCF|105633|20261002|PLATINUM": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "11:00 AM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "200.00",
+      "cat": "PLATINUM",
+      "price": "250.00",
       "status": "3"
     },
-    "MCEF|24408|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "09:00 AM",
+    "PCCF|105633|20261002|GOLD": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "11:00 AM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "220.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "MCEF|24409|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "12:15 PM",
+    "PCCF|105633|20261002|SILVER": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "11:00 AM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "200.00",
+      "cat": "SILVER",
+      "price": "250.00",
       "status": "3"
     },
-    "MCEF|24409|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "12:15 PM",
+    "PCCF|105634|20261002|PLATINUM": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "01:55 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "220.00",
+      "cat": "PLATINUM",
+      "price": "290.00",
       "status": "3"
     },
-    "MCEF|24410|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "03:30 PM",
+    "PCCF|105634|20261002|GOLD": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "01:55 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "220.00",
+      "cat": "GOLD",
+      "price": "270.00",
       "status": "3"
     },
-    "MCEF|24410|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "03:30 PM",
+    "PCCF|105634|20261002|SILVER": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "01:55 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
+      "cat": "SILVER",
+      "price": "250.00",
       "status": "3"
     },
-    "MCEF|24411|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "06:45 PM",
+    "PCCF|105635|20261002|PLATINUM": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "04:50 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "220.00",
+      "cat": "PLATINUM",
+      "price": "290.00",
       "status": "3"
     },
-    "MCEF|24411|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "06:45 PM",
+    "PCCF|105635|20261002|GOLD": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "04:50 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
+      "cat": "GOLD",
+      "price": "270.00",
       "status": "3"
     },
-    "MCEF|24412|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "10:00 PM",
+    "PCCF|105635|20261002|SILVER": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "04:50 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "220.00",
+      "cat": "SILVER",
+      "price": "250.00",
       "status": "3"
     },
-    "MCEF|24412|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
-      "time": "10:00 PM",
+    "PCCF|105636|20261002|PLATINUM": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "07:50 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "240.00",
+      "cat": "PLATINUM",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PCCF|105636|20261002|GOLD": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "07:50 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PCCF|105636|20261002|SILVER": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "07:50 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "PCCF|105637|20261002|PLATINUM": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "10:50 PM",
+      "date": "20261002",
+      "cat": "PLATINUM",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PCCF|105637|20261002|GOLD": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "10:50 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PCCF|105637|20261002|SILVER": {
+      "venue": "Pristine Mall: Sec-31, Faridabad",
+      "time": "10:50 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "250.00",
       "status": "3"
     },
     "WUPG|38396|20261002|CLASSIC": {
@@ -15934,7 +15998,7 @@
       "date": "20261002",
       "cat": "Recliners",
       "price": "470.00",
-      "status": "3"
+      "status": "2"
     },
     "IOTG|11007|20261002|Prime": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -15942,7 +16006,7 @@
       "date": "20261002",
       "cat": "Prime",
       "price": "260.00",
-      "status": "3"
+      "status": "2"
     },
     "IOTG|11007|20261002|Classic": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -15982,7 +16046,7 @@
       "date": "20261002",
       "cat": "Recliners",
       "price": "580.00",
-      "status": "3"
+      "status": "2"
     },
     "IOTG|11009|20261002|Prime": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -16024,84 +16088,84 @@
       "price": "275.00",
       "status": "3"
     },
-    "MCDE|42868|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "10:00 AM",
+    "MCEF|24408|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "260.00",
+      "cat": "SPECIAL",
+      "price": "200.00",
       "status": "3"
     },
-    "MCDE|42868|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "10:00 AM",
+    "MCEF|24408|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "260.00",
+      "cat": "EXECUTIVE",
+      "price": "220.00",
       "status": "3"
     },
-    "MCDE|42869|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "01:15 PM",
+    "MCEF|24409|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "12:15 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "SPECIAL",
+      "price": "200.00",
       "status": "3"
     },
-    "MCDE|42869|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "01:15 PM",
+    "MCEF|24409|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "12:15 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "320.00",
+      "cat": "EXECUTIVE",
+      "price": "220.00",
       "status": "3"
     },
-    "MCDE|42870|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "04:30 PM",
+    "MCEF|24410|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "03:30 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "SPECIAL",
+      "price": "220.00",
       "status": "3"
     },
-    "MCDE|42870|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "04:30 PM",
+    "MCEF|24410|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "03:30 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "320.00",
+      "cat": "EXECUTIVE",
+      "price": "240.00",
       "status": "3"
     },
-    "MCDE|42871|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "07:45 PM",
+    "MCEF|24411|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "SPECIAL",
+      "price": "220.00",
       "status": "3"
     },
-    "MCDE|42871|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "07:45 PM",
+    "MCEF|24411|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "320.00",
+      "cat": "EXECUTIVE",
+      "price": "240.00",
       "status": "3"
     },
-    "MCDE|42872|20261002|SILVER": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "11:00 PM",
+    "MCEF|24412|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "300.00",
+      "cat": "SPECIAL",
+      "price": "220.00",
       "status": "3"
     },
-    "MCDE|42872|20261002|CLUB": {
-      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
-      "time": "11:00 PM",
+    "MCEF|24412|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: Eldeco mall, Faridabad",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "320.00",
+      "cat": "EXECUTIVE",
+      "price": "240.00",
       "status": "3"
     },
     "PNAD|22280|20261002|PRIME PLUS ROWS": {
@@ -16544,84 +16608,84 @@
       "price": "300.00",
       "status": "3"
     },
-    "MIMU|49930|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "09:00 AM",
+    "MCDE|42868|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "170.00",
+      "cat": "SILVER",
+      "price": "260.00",
       "status": "3"
     },
-    "MIMU|49930|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "09:00 AM",
+    "MCDE|42868|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "190.00",
+      "cat": "CLUB",
+      "price": "260.00",
       "status": "3"
     },
-    "MIMU|49931|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "12:15 PM",
+    "MCDE|42869|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "01:15 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "190.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49931|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "12:15 PM",
+    "MCDE|42869|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "01:15 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "210.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
-    "MIMU|49932|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "03:30 PM",
+    "MCDE|42870|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "04:30 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "210.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49932|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "03:30 PM",
+    "MCDE|42870|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "04:30 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "230.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
-    "MIMU|49933|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "06:45 PM",
+    "MCDE|42871|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "07:45 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "230.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49933|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "06:45 PM",
+    "MCDE|42871|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "07:45 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
-    "MIMU|49934|20261002|SPECIAL": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "10:00 PM",
+    "MCDE|42872|20261002|SILVER": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "11:00 PM",
       "date": "20261002",
-      "cat": "SPECIAL",
-      "price": "230.00",
+      "cat": "SILVER",
+      "price": "300.00",
       "status": "3"
     },
-    "MIMU|49934|20261002|EXECUTIVE": {
-      "venue": "Miraj Cinemas: M4U, Sahibabad",
-      "time": "10:00 PM",
+    "MCDE|42872|20261002|CLUB": {
+      "venue": "Miraj Cinemas: Ivory Tower, Subhash Nagar",
+      "time": "11:00 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "250.00",
+      "cat": "CLUB",
+      "price": "320.00",
       "status": "3"
     },
     "DCMV|14963|20261002|RECLINERS PRIME": {
@@ -17000,83 +17064,83 @@
       "price": "800.00",
       "status": "3"
     },
-    "MTND|53516|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:30 AM",
+    "MIMU|49930|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "180.00",
+      "cat": "SPECIAL",
+      "price": "170.00",
       "status": "3"
     },
-    "MTND|53516|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:30 AM",
+    "MIMU|49930|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "200.00",
+      "cat": "EXECUTIVE",
+      "price": "190.00",
       "status": "3"
     },
-    "MTND|53517|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "12:35 PM",
+    "MIMU|49931|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "12:15 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
+      "cat": "SPECIAL",
+      "price": "190.00",
       "status": "3"
     },
-    "MTND|53517|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "12:35 PM",
+    "MIMU|49931|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "12:15 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "250.00",
+      "cat": "EXECUTIVE",
+      "price": "210.00",
       "status": "3"
     },
-    "MTND|53518|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "03:40 PM",
+    "MIMU|49932|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "03:30 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
+      "cat": "SPECIAL",
+      "price": "210.00",
       "status": "3"
     },
-    "MTND|53518|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "03:40 PM",
+    "MIMU|49932|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "03:30 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "250.00",
+      "cat": "EXECUTIVE",
+      "price": "230.00",
       "status": "3"
     },
-    "MTND|53519|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
+    "MIMU|49933|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
       "time": "06:45 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
+      "cat": "SPECIAL",
+      "price": "230.00",
       "status": "3"
     },
-    "MTND|53519|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
+    "MIMU|49933|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
       "time": "06:45 PM",
       "date": "20261002",
-      "cat": "GOLD",
+      "cat": "EXECUTIVE",
       "price": "250.00",
       "status": "3"
     },
-    "MTND|53520|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:50 PM",
+    "MIMU|49934|20261002|SPECIAL": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
+      "cat": "SPECIAL",
+      "price": "230.00",
       "status": "3"
     },
-    "MTND|53520|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:50 PM",
+    "MIMU|49934|20261002|EXECUTIVE": {
+      "venue": "Miraj Cinemas: M4U, Sahibabad",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
+      "cat": "EXECUTIVE",
       "price": "250.00",
       "status": "3"
     },
@@ -17352,124 +17416,84 @@
       "price": "350.00",
       "status": "3"
     },
-    "MMZG|31998|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 AM",
+    "MTND|53516|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:30 AM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "340.00",
+      "cat": "SILVER",
+      "price": "180.00",
       "status": "3"
     },
-    "MMZG|31998|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 AM",
+    "MTND|53516|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:30 AM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "340.00",
+      "cat": "GOLD",
+      "price": "200.00",
       "status": "3"
     },
-    "MMZG|31998|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 AM",
+    "MTND|53517|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "12:35 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "300.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|31999|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "01:00 PM",
+    "MTND|53517|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "12:35 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "MMZG|31999|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "01:00 PM",
+    "MTND|53518|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "03:40 PM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|31999|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "01:00 PM",
+    "MTND|53518|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "03:40 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "MMZG|32000|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "04:00 PM",
+    "MTND|53519|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|32000|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "04:00 PM",
+    "MTND|53519|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "06:45 PM",
       "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
-    "MMZG|32000|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "04:00 PM",
+    "MTND|53520|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:50 PM",
       "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
+      "cat": "SILVER",
+      "price": "220.00",
       "status": "3"
     },
-    "MMZG|32001|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "07:00 PM",
+    "MTND|53520|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:50 PM",
       "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32001|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "07:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32001|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "07:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
-      "status": "3"
-    },
-    "MMZG|32002|20261002|CLUB": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "CLUB",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32002|20261002|PREMIUM": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "PREMIUM",
-      "price": "400.00",
-      "status": "3"
-    },
-    "MMZG|32002|20261002|EXECUTIVE": {
-      "venue": "MovieMax: Pacific Mall Ghaziabad",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "EXECUTIVE",
-      "price": "350.00",
+      "cat": "GOLD",
+      "price": "250.00",
       "status": "3"
     },
     "GPDC|23428|20261002|PICTURE PERFECT": {
@@ -17856,164 +17880,124 @@
       "price": "330.00",
       "status": "3"
     },
-    "MCGN|19530|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "10:45 AM",
+    "MMZG|31998|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
+      "cat": "CLUB",
+      "price": "340.00",
       "status": "3"
     },
-    "MCGN|19530|20261002|EXTRA LEGSPACE": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "10:45 AM",
+    "MMZG|31998|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "EXTRA LEGSPACE",
-      "price": "260.00",
+      "cat": "PREMIUM",
+      "price": "340.00",
       "status": "3"
     },
-    "MCGN|19530|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "10:45 AM",
+    "MMZG|31998|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "240.00",
+      "cat": "EXECUTIVE",
+      "price": "300.00",
       "status": "3"
     },
-    "MCGN|19530|20261002|RECLINER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "10:45 AM",
+    "MMZG|31999|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "500.00",
+      "cat": "CLUB",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19531|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "01:50 PM",
+    "MMZG|31999|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "240.00",
+      "cat": "PREMIUM",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19531|20261002|EXTRA LEGSPACE": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "01:50 PM",
+    "MMZG|31999|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "EXTRA LEGSPACE",
-      "price": "280.00",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
       "status": "3"
     },
-    "MCGN|19531|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "01:50 PM",
+    "MMZG|32000|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "04:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "260.00",
+      "cat": "CLUB",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19531|20261002|RECLINER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "01:50 PM",
+    "MMZG|32000|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "04:00 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "500.00",
+      "cat": "PREMIUM",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19532|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "04:55 PM",
+    "MMZG|32000|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "04:00 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "240.00",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
       "status": "3"
     },
-    "MCGN|19532|20261002|EXTRA LEGSPACE": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "04:55 PM",
+    "MMZG|32001|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "07:00 PM",
       "date": "20261002",
-      "cat": "EXTRA LEGSPACE",
-      "price": "280.00",
+      "cat": "CLUB",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19532|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "04:55 PM",
+    "MMZG|32001|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "07:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "260.00",
+      "cat": "PREMIUM",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19532|20261002|RECLINER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "04:55 PM",
+    "MMZG|32001|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "07:00 PM",
       "date": "20261002",
-      "cat": "RECLINER",
-      "price": "500.00",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
       "status": "3"
     },
-    "MCGN|19533|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "08:00 PM",
+    "MMZG|32002|20261002|CLUB": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "SILVER",
-      "price": "240.00",
+      "cat": "CLUB",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19533|20261002|EXTRA LEGSPACE": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "08:00 PM",
+    "MMZG|32002|20261002|PREMIUM": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "EXTRA LEGSPACE",
-      "price": "280.00",
+      "cat": "PREMIUM",
+      "price": "400.00",
       "status": "3"
     },
-    "MCGN|19533|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "08:00 PM",
+    "MMZG|32002|20261002|EXECUTIVE": {
+      "venue": "MovieMax: Pacific Mall Ghaziabad",
+      "time": "10:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
-      "price": "260.00",
-      "status": "3"
-    },
-    "MCGN|19533|20261002|RECLINER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "08:00 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "500.00",
-      "status": "3"
-    },
-    "MCGN|19534|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "SILVER",
-      "price": "240.00",
-      "status": "3"
-    },
-    "MCGN|19534|20261002|EXTRA LEGSPACE": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGSPACE",
-      "price": "280.00",
-      "status": "3"
-    },
-    "MCGN|19534|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "GOLD",
-      "price": "260.00",
-      "status": "3"
-    },
-    "MCGN|19534|20261002|RECLINER": {
-      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
-      "time": "11:05 PM",
-      "date": "20261002",
-      "cat": "RECLINER",
-      "price": "500.00",
+      "cat": "EXECUTIVE",
+      "price": "350.00",
       "status": "3"
     },
     "IEFM|67068|20261002|RECLINER ROWS": {
@@ -18656,100 +18640,164 @@
       "price": "690.00",
       "status": "3"
     },
-    "RRCO|87193|20261002|GOLD": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "09:45 AM",
+    "MCGN|19530|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "220.00",
+      "status": "3"
+    },
+    "MCGN|19530|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
+      "date": "20261002",
+      "cat": "EXTRA LEGSPACE",
+      "price": "260.00",
+      "status": "3"
+    },
+    "MCGN|19530|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
       "date": "20261002",
       "cat": "GOLD",
       "price": "240.00",
       "status": "3"
     },
-    "RRCO|87193|20261002|PLATINUM": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "09:45 AM",
+    "MCGN|19530|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
       "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "260.00",
+      "cat": "RECLINER",
+      "price": "500.00",
       "status": "3"
     },
-    "RRCO|87194|20261002|GOLD": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "12:30 PM",
+    "MCGN|19531|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
       "date": "20261002",
-      "cat": "GOLD",
+      "cat": "SILVER",
       "price": "240.00",
       "status": "3"
     },
-    "RRCO|87194|20261002|PLATINUM": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "12:30 PM",
+    "MCGN|19531|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
       "date": "20261002",
-      "cat": "PLATINUM",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCGN|19531|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
+      "date": "20261002",
+      "cat": "GOLD",
       "price": "260.00",
       "status": "3"
     },
-    "RRCO|87195|20261002|GOLD": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "03:15 PM",
+    "MCGN|19531|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
       "date": "20261002",
-      "cat": "GOLD",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "MCGN|19532|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "SILVER",
       "price": "240.00",
       "status": "3"
     },
-    "RRCO|87195|20261002|PLATINUM": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "03:15 PM",
+    "MCGN|19532|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
       "date": "20261002",
-      "cat": "PLATINUM",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCGN|19532|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "GOLD",
       "price": "260.00",
       "status": "3"
     },
-    "RRCO|87196|20261002|GOLD": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "06:00 PM",
+    "MCGN|19532|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
       "date": "20261002",
-      "cat": "GOLD",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "MCGN|19533|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "SILVER",
       "price": "240.00",
       "status": "3"
     },
-    "RRCO|87196|20261002|PLATINUM": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "06:00 PM",
+    "MCGN|19533|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
       "date": "20261002",
-      "cat": "PLATINUM",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCGN|19533|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "GOLD",
       "price": "260.00",
       "status": "3"
     },
-    "RRCO|87197|20261002|GOLD": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "08:45 PM",
+    "MCGN|19533|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
       "date": "20261002",
-      "cat": "GOLD",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "MCGN|19534|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "SILVER",
       "price": "240.00",
       "status": "3"
     },
-    "RRCO|87197|20261002|PLATINUM": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "08:45 PM",
+    "MCGN|19534|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
       "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "260.00",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
       "status": "3"
     },
-    "RRCO|87198|20261002|GOLD": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "11:35 PM",
+    "MCGN|19534|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
       "date": "20261002",
       "cat": "GOLD",
-      "price": "240.00",
+      "price": "260.00",
       "status": "3"
     },
-    "RRCO|87198|20261002|PLATINUM": {
-      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
-      "time": "11:35 PM",
+    "MCGN|19534|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
       "date": "20261002",
-      "cat": "PLATINUM",
-      "price": "260.00",
+      "cat": "RECLINER",
+      "price": "500.00",
       "status": "3"
     },
     "PMTN|3144|20261002|RECLINER ROWS": {
@@ -18854,7 +18902,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "800.00",
-      "status": "2"
+      "status": "3"
     },
     "PMTN|3148|20261002|PRIME ROWS": {
       "venue": "PVR: Midtown, Moti Nagar, Delhi",
@@ -19352,13 +19400,109 @@
       "price": "320.00",
       "status": "3"
     },
+    "RRCO|87193|20261002|GOLD": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "09:45 AM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RRCO|87193|20261002|PLATINUM": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "09:45 AM",
+      "date": "20261002",
+      "cat": "PLATINUM",
+      "price": "260.00",
+      "status": "3"
+    },
+    "RRCO|87194|20261002|GOLD": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "12:30 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RRCO|87194|20261002|PLATINUM": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "12:30 PM",
+      "date": "20261002",
+      "cat": "PLATINUM",
+      "price": "260.00",
+      "status": "3"
+    },
+    "RRCO|87195|20261002|GOLD": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "03:15 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RRCO|87195|20261002|PLATINUM": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "03:15 PM",
+      "date": "20261002",
+      "cat": "PLATINUM",
+      "price": "260.00",
+      "status": "3"
+    },
+    "RRCO|87196|20261002|GOLD": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "06:00 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RRCO|87196|20261002|PLATINUM": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "06:00 PM",
+      "date": "20261002",
+      "cat": "PLATINUM",
+      "price": "260.00",
+      "status": "3"
+    },
+    "RRCO|87197|20261002|GOLD": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "08:45 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RRCO|87197|20261002|PLATINUM": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "08:45 PM",
+      "date": "20261002",
+      "cat": "PLATINUM",
+      "price": "260.00",
+      "status": "3"
+    },
+    "RRCO|87198|20261002|GOLD": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "11:35 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "240.00",
+      "status": "3"
+    },
+    "RRCO|87198|20261002|PLATINUM": {
+      "venue": "RR Cinema: Omaxe Gurgaon Mall, Gurgaon",
+      "time": "11:35 PM",
+      "date": "20261002",
+      "cat": "PLATINUM",
+      "price": "260.00",
+      "status": "3"
+    },
     "INRD|41537|20261002|RECLINERS PRIME": {
       "venue": "INOX: RCube, Monad Mall: Delhi",
       "time": "09:50 AM",
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "950.00",
-      "status": "3"
+      "status": "2"
     },
     "INRD|41537|20261002|RECLINERS": {
       "venue": "INOX: RCube, Monad Mall: Delhi",
