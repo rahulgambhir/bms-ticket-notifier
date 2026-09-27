@@ -526,7 +526,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "1140.00",
-      "status": "0"
+      "status": "1"
     },
     "CPNS|12931|20261002|NORMAL": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
@@ -2398,7 +2398,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "430.00",
-      "status": "1"
+      "status": "2"
     },
     "PGND|42217|20261002|PRIME": {
       "venue": "PVR: Gaur City, Greater Noida",
@@ -4446,7 +4446,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "950.00",
-      "status": "2"
+      "status": "3"
     },
     "CRGM|14580|20261002|NORMAL": {
       "venue": "Cinepolis: Airia Mall, Sohna Road, Gurgaon",
@@ -4870,7 +4870,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "680.00",
-      "status": "1"
+      "status": "0"
     },
     "PCSN|28070|20261002|PRIME ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
@@ -6046,7 +6046,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "810.00",
-      "status": "2"
+      "status": "0"
     },
     "PGGM|40351|20261002|PICTURE PERFECT": {
       "venue": "HDFC Millennia PVR: MGF, Gurugram",
@@ -8598,7 +8598,7 @@
       "date": "20261002",
       "cat": "Royale Recliner",
       "price": "700.00",
-      "status": "3"
+      "status": "2"
     },
     "SCND|94832|20261002|Royal": {
       "venue": "INOX: Nehru Place",
@@ -13294,7 +13294,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "340.00",
-      "status": "2"
+      "status": "3"
     },
     "PECD|15704|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: ECX Chanakyapuri, Delhi",
@@ -13390,7 +13390,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "480.00",
-      "status": "2"
+      "status": "3"
     },
     "WVRG|142703|20261002|CLASSIC": {
       "venue": "Wave: Raja Garden",
@@ -15790,7 +15790,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "270.00",
-      "status": "3"
+      "status": "2"
     },
     "PNAD|22285|20261002|PRIME ROWS": {
       "venue": "PVR: Naraina, Delhi",
@@ -17512,6 +17512,166 @@
       "price": "330.00",
       "status": "3"
     },
+    "MCGN|19530|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "220.00",
+      "status": "3"
+    },
+    "MCGN|19530|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
+      "date": "20261002",
+      "cat": "EXTRA LEGSPACE",
+      "price": "260.00",
+      "status": "3"
+    },
+    "MCGN|19530|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "240.00",
+      "status": "3"
+    },
+    "MCGN|19530|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "10:45 AM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "MCGN|19531|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "240.00",
+      "status": "3"
+    },
+    "MCGN|19531|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCGN|19531|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "260.00",
+      "status": "3"
+    },
+    "MCGN|19531|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "01:50 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "MCGN|19532|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "240.00",
+      "status": "3"
+    },
+    "MCGN|19532|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCGN|19532|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "260.00",
+      "status": "3"
+    },
+    "MCGN|19532|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "MCGN|19533|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "240.00",
+      "status": "3"
+    },
+    "MCGN|19533|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCGN|19533|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "260.00",
+      "status": "3"
+    },
+    "MCGN|19533|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
+    "MCGN|19534|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "240.00",
+      "status": "3"
+    },
+    "MCGN|19534|20261002|EXTRA LEGSPACE": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGSPACE",
+      "price": "280.00",
+      "status": "3"
+    },
+    "MCGN|19534|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "260.00",
+      "status": "3"
+    },
+    "MCGN|19534|20261002|RECLINER": {
+      "venue": "Movietime Cinemas: Celebration Mall, Gurgaon",
+      "time": "11:05 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "500.00",
+      "status": "3"
+    },
     "IEFM|67068|20261002|RECLINER ROWS": {
       "venue": "INOX: EF3 Mall, Faridabad",
       "time": "10:15 AM",
@@ -18750,7 +18910,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "360.00",
-      "status": "3"
+      "status": "2"
     },
     "INSG|39887|20261002|CLASSIC ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
@@ -18846,7 +19006,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "360.00",
-      "status": "2"
+      "status": "3"
     },
     "INSG|39888|20261002|CLASSIC ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
