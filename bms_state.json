@@ -46,7 +46,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "410.00",
-      "status": "3"
+      "status": "2"
     },
     "PVVW|62691|20261002|ROYAL ROWS": {
       "venue": "PVR: Vegas Dwarka",
@@ -62,7 +62,7 @@
       "date": "20261002",
       "cat": "EXECUTIVE ROWS",
       "price": "1680.00",
-      "status": "3"
+      "status": "2"
     },
     "PVVW|62686|20261002|PRIME ROWS": {
       "venue": "PVR: Vegas Dwarka",
@@ -110,7 +110,7 @@
       "date": "20261002",
       "cat": "EXECUTIVE ROWS",
       "price": "1680.00",
-      "status": "2"
+      "status": "3"
     },
     "PVVW|62687|20261002|PRIME ROWS": {
       "venue": "PVR: Vegas Dwarka",
@@ -1350,7 +1350,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "1630.00",
-      "status": "3"
+      "status": "2"
     },
     "PVLE|75880|20261002|CLASSIC": {
       "venue": "PVR: Superplex Logix, Noida",
@@ -3550,7 +3550,7 @@
       "date": "20261002",
       "cat": "INSIGNIA ROYAL",
       "price": "1380.00",
-      "status": "3"
+      "status": "2"
     },
     "IPMJ|58089|20261002|INSIGNIA CLUB": {
       "venue": "INOX: Pacific Mall, Jasola",
@@ -6158,7 +6158,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "1000.00",
-      "status": "3"
+      "status": "2"
     },
     "CRGM|14581|20261002|NORMAL": {
       "venue": "Cinepolis: Airia Mall, Sohna Road, Gurgaon",
@@ -10622,7 +10622,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "850.00",
-      "status": "3"
+      "status": "2"
     },
     "CUNT|6080|20261002|NORMAL": {
       "venue": "Cinepolis: City Centre Dwarka,Delhi (Newly Opened)",
@@ -11550,7 +11550,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "740.00",
-      "status": "0"
+      "status": "1"
     },
     "IAJS|53971|20261002|PICTURE PERFECT": {
       "venue": "INOX: AIPL Joy Street, Gurgaon",
@@ -12422,7 +12422,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "360.00",
-      "status": "3"
+      "status": "2"
     },
     "EMPS|16864|20261002|CLASSIC ROWS": {
       "venue": "PVR: Elan Miracle, Sec 84, Gurugram",
@@ -13366,7 +13366,7 @@
       "date": "20261002",
       "cat": "EXECUTIVE XL",
       "price": "380.00",
-      "status": "3"
+      "status": "2"
     },
     "CIJA|5712|20261002|PREMIUM": {
       "venue": "Cinepolis: Janak Cinema, New Delhi",
@@ -14784,100 +14784,84 @@
       "price": "310.00",
       "status": "3"
     },
-    "USCO|20114|20261002|LUXURY": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "09:00 AM",
+    "WVKS|160037|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "10:00 AM",
       "date": "20261002",
-      "cat": "LUXURY",
-      "price": "210.00",
+      "cat": "Classic",
+      "price": "300.00",
       "status": "3"
     },
-    "USCO|20114|20261002|LUX PLUS": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "09:00 AM",
+    "WVKS|159998|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "11:00 AM",
       "date": "20261002",
-      "cat": "LUX PLUS",
-      "price": "230.00",
+      "cat": "Classic",
+      "price": "300.00",
       "status": "3"
     },
-    "USCO|20115|20261002|LUXURY": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "11:50 AM",
+    "WVKS|160033|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "01:00 PM",
       "date": "20261002",
-      "cat": "LUXURY",
-      "price": "210.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
-    "USCO|20115|20261002|LUX PLUS": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "11:50 AM",
+    "WVKS|159999|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "02:00 PM",
       "date": "20261002",
-      "cat": "LUX PLUS",
-      "price": "230.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
-    "USCO|20116|20261002|LUXURY": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "02:40 PM",
+    "WVKS|160034|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "04:00 PM",
       "date": "20261002",
-      "cat": "LUXURY",
-      "price": "270.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
-    "USCO|20116|20261002|LUX PLUS": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "02:40 PM",
+    "WVKS|160000|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "05:05 PM",
       "date": "20261002",
-      "cat": "LUX PLUS",
-      "price": "310.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
-    "USCO|20117|20261002|LUXURY": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "05:30 PM",
+    "WVKS|160035|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "07:00 PM",
       "date": "20261002",
-      "cat": "LUXURY",
-      "price": "270.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
-    "USCO|20117|20261002|LUX PLUS": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "05:30 PM",
+    "WVKS|160001|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "08:00 PM",
       "date": "20261002",
-      "cat": "LUX PLUS",
-      "price": "310.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
-    "USCO|20118|20261002|LUXURY": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "08:20 PM",
+    "WVKS|160036|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "09:55 PM",
       "date": "20261002",
-      "cat": "LUXURY",
-      "price": "280.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
-    "USCO|20118|20261002|LUX PLUS": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "08:20 PM",
+    "WVKS|160002|20261002|Classic": {
+      "venue": "Wave: The Wave Mall, Kaushambi",
+      "time": "10:55 PM",
       "date": "20261002",
-      "cat": "LUX PLUS",
-      "price": "320.00",
-      "status": "3"
-    },
-    "USCO|20119|20261002|LUXURY": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "11:10 PM",
-      "date": "20261002",
-      "cat": "LUXURY",
-      "price": "280.00",
-      "status": "3"
-    },
-    "USCO|20119|20261002|LUX PLUS": {
-      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
-      "time": "11:10 PM",
-      "date": "20261002",
-      "cat": "LUX PLUS",
-      "price": "320.00",
+      "cat": "Classic",
+      "price": "350.00",
       "status": "3"
     },
     "MHNU|24001|20261002|RECLINER": {
@@ -14966,7 +14950,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "420.00",
-      "status": "3"
+      "status": "2"
     },
     "MHNU|24007|20261002|CLASSIC": {
       "venue": "PVR: Mahagun, Ghaziabad",
@@ -15296,84 +15280,100 @@
       "price": "2000.00",
       "status": "3"
     },
-    "WVKS|160037|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "10:00 AM",
+    "USCO|20114|20261002|LUXURY": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "300.00",
+      "cat": "LUXURY",
+      "price": "210.00",
       "status": "3"
     },
-    "WVKS|159998|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "11:00 AM",
+    "USCO|20114|20261002|LUX PLUS": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "09:00 AM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "300.00",
+      "cat": "LUX PLUS",
+      "price": "230.00",
       "status": "3"
     },
-    "WVKS|160033|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "01:00 PM",
+    "USCO|20115|20261002|LUXURY": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "11:50 AM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUXURY",
+      "price": "210.00",
       "status": "3"
     },
-    "WVKS|159999|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "02:00 PM",
+    "USCO|20115|20261002|LUX PLUS": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "11:50 AM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUX PLUS",
+      "price": "230.00",
       "status": "3"
     },
-    "WVKS|160034|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "04:00 PM",
+    "USCO|20116|20261002|LUXURY": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "02:40 PM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUXURY",
+      "price": "270.00",
       "status": "3"
     },
-    "WVKS|160000|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "05:05 PM",
+    "USCO|20116|20261002|LUX PLUS": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "02:40 PM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUX PLUS",
+      "price": "310.00",
       "status": "3"
     },
-    "WVKS|160035|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "07:00 PM",
+    "USCO|20117|20261002|LUXURY": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "05:30 PM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUXURY",
+      "price": "270.00",
       "status": "3"
     },
-    "WVKS|160001|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "08:00 PM",
+    "USCO|20117|20261002|LUX PLUS": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "05:30 PM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUX PLUS",
+      "price": "310.00",
       "status": "3"
     },
-    "WVKS|160036|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "09:55 PM",
+    "USCO|20118|20261002|LUXURY": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "08:20 PM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUXURY",
+      "price": "280.00",
       "status": "3"
     },
-    "WVKS|160002|20261002|Classic": {
-      "venue": "Wave: The Wave Mall, Kaushambi",
-      "time": "10:55 PM",
+    "USCO|20118|20261002|LUX PLUS": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "08:20 PM",
       "date": "20261002",
-      "cat": "Classic",
-      "price": "350.00",
+      "cat": "LUX PLUS",
+      "price": "320.00",
+      "status": "3"
+    },
+    "USCO|20119|20261002|LUXURY": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "11:10 PM",
+      "date": "20261002",
+      "cat": "LUXURY",
+      "price": "280.00",
+      "status": "3"
+    },
+    "USCO|20119|20261002|LUX PLUS": {
+      "venue": "US CINEMAS: Aditya Mall, Indirapuram",
+      "time": "11:10 PM",
+      "date": "20261002",
+      "cat": "LUX PLUS",
+      "price": "320.00",
       "status": "3"
     },
     "INFR|94747|20261002|RECLINER ROWS": {
@@ -17126,7 +17126,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "360.00",
-      "status": "2"
+      "status": "3"
     },
     "PNAD|22286|20261002|PRIME ROWS": {
       "venue": "PVR: Naraina, Delhi",
@@ -19022,7 +19022,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "2400.00",
-      "status": "2"
+      "status": "1"
     },
     "GPDC|23430|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -19070,7 +19070,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "2400.00",
-      "status": "2"
+      "status": "3"
     },
     "GPDC|23431|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -19078,7 +19078,7 @@
       "date": "20261002",
       "cat": "PICTURE PERFECT",
       "price": "2400.00",
-      "status": "1"
+      "status": "2"
     },
     "GPDC|23431|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -19126,7 +19126,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "2400.00",
-      "status": "1"
+      "status": "2"
     },
     "GPDC|23432|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -19662,7 +19662,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "670.00",
-      "status": "2"
+      "status": "1"
     },
     "CNVG|8080|20261002|NORMAL": {
       "venue": "Cinepolis: Grand View High Street, Gurugram",
@@ -19782,7 +19782,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "750.00",
-      "status": "2"
+      "status": "1"
     },
     "CNVG|8076|20261002|NORMAL": {
       "venue": "Cinepolis: Grand View High Street, Gurugram",
@@ -22110,7 +22110,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "490.00",
-      "status": "3"
+      "status": "2"
     },
     "PETA|21929|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
@@ -22854,7 +22854,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "520.00",
-      "status": "1"
+      "status": "2"
     },
     "PVMS|28226|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
@@ -25990,7 +25990,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "2"
+      "status": "3"
     },
     "PFDN|183|20261002|CLASSIC ROWS": {
       "venue": "PVR: DLF Summit Plaza, Gurugram",
@@ -26038,7 +26038,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "580.00",
-      "status": "2"
+      "status": "3"
     },
     "PFDN|185|20261002|CLASSIC ROWS": {
       "venue": "PVR: DLF Summit Plaza, Gurugram",
