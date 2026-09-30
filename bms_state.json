@@ -278,7 +278,7 @@
       "date": "20261002",
       "cat": "PREMIUM PLUS",
       "price": "460.00",
-      "status": "2"
+      "status": "1"
     },
     "CPNS|12928|20261002|RECLINER": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
@@ -485,7 +485,7 @@
       "time": "12:30 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "340.00",
+      "price": "360.00",
       "status": "3"
     },
     "CPNS|12965|20261002|EXECUTIVE": {
@@ -493,7 +493,7 @@
       "time": "12:30 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "420.00",
+      "price": "440.00",
       "status": "3"
     },
     "CPNS|12965|20261002|PREMIUM": {
@@ -501,7 +501,7 @@
       "time": "12:30 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "460.00",
+      "price": "480.00",
       "status": "3"
     },
     "CPNS|12965|20261002|PREMIUM XL": {
@@ -509,7 +509,7 @@
       "time": "12:30 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "500.00",
+      "price": "520.00",
       "status": "2"
     },
     "CPNS|12965|20261002|PREMIUM PLUS": {
@@ -517,15 +517,15 @@
       "time": "12:30 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "480.00",
-      "status": "1"
+      "price": "500.00",
+      "status": "2"
     },
     "CPNS|12965|20261002|RECLINER": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
       "time": "12:30 PM",
       "date": "20261002",
       "cat": "RECLINER",
-      "price": "1020.00",
+      "price": "1080.00",
       "status": "1"
     },
     "CPNS|12924|20261002|NORMAL": {
@@ -598,7 +598,7 @@
       "date": "20261002",
       "cat": "PREMIUM",
       "price": "520.00",
-      "status": "3"
+      "status": "2"
     },
     "CPNS|12960|20261002|PREMIUM XL": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
@@ -693,7 +693,7 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "540.00",
+      "price": "520.00",
       "status": "3"
     },
     "CPNS|12966|20261002|PREMIUM XL": {
@@ -701,7 +701,7 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "600.00",
+      "price": "580.00",
       "status": "0"
     },
     "CPNS|12966|20261002|PREMIUM PLUS": {
@@ -709,7 +709,7 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "560.00",
+      "price": "540.00",
       "status": "1"
     },
     "CPNS|12966|20261002|RECLINER": {
@@ -717,7 +717,7 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "RECLINER",
-      "price": "1220.00",
+      "price": "1180.00",
       "status": "0"
     },
     "CPNS|12925|20261002|NORMAL": {
@@ -734,7 +734,7 @@
       "date": "20261002",
       "cat": "EXECUTIVE",
       "price": "460.00",
-      "status": "2"
+      "status": "3"
     },
     "CPNS|12925|20261002|PREMIUM": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
@@ -886,7 +886,7 @@
       "date": "20261002",
       "cat": "PREMIUM",
       "price": "520.00",
-      "status": "3"
+      "status": "2"
     },
     "CPNS|12967|20261002|PREMIUM XL": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
@@ -1030,7 +1030,7 @@
       "date": "20261002",
       "cat": "PREMIUM",
       "price": "520.00",
-      "status": "3"
+      "status": "2"
     },
     "CPNS|12932|20261002|PREMIUM XL": {
       "venue": "Cinepolis: Pacific NSP2, Delhi",
@@ -1949,7 +1949,7 @@
       "time": "07:35 PM",
       "date": "20261002",
       "cat": "RECLINER",
-      "price": "1630.00",
+      "price": "1700.00",
       "status": "1"
     },
     "PVLE|75881|20261002|CLASSIC": {
@@ -2288,14 +2288,6 @@
       "price": "860.00",
       "status": "1"
     },
-    "PAEG|55968|20261002|SUPERIOR": {
-      "venue": "Gurugram Pepsi PVR Ambience",
-      "time": "01:45 PM",
-      "date": "20261002",
-      "cat": "SUPERIOR",
-      "price": "720.00",
-      "status": "1"
-    },
     "PAEG|55968|20261002|XTRA LEGROOM": {
       "venue": "Gurugram Pepsi PVR Ambience",
       "time": "01:45 PM",
@@ -2303,6 +2295,14 @@
       "cat": "XTRA LEGROOM",
       "price": "720.00",
       "status": "3"
+    },
+    "PAEG|55968|20261002|SUPERIOR": {
+      "venue": "Gurugram Pepsi PVR Ambience",
+      "time": "01:45 PM",
+      "date": "20261002",
+      "cat": "SUPERIOR",
+      "price": "720.00",
+      "status": "1"
     },
     "PAEG|55968|20261002|CLASSIC": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -2352,6 +2352,14 @@
       "price": "480.00",
       "status": "3"
     },
+    "PAEG|55964|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram Pepsi PVR Ambience",
+      "time": "04:10 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
+      "price": "860.00",
+      "status": "1"
+    },
     "PAEG|55964|20261002|XTRA LEGROOM": {
       "venue": "Gurugram Pepsi PVR Ambience",
       "time": "04:10 PM",
@@ -2359,14 +2367,6 @@
       "cat": "XTRA LEGROOM",
       "price": "790.00",
       "status": "3"
-    },
-    "PAEG|55964|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram Pepsi PVR Ambience",
-      "time": "04:10 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "790.00",
-      "status": "1"
     },
     "PAEG|55964|20261002|SUPERIOR": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -2392,14 +2392,6 @@
       "price": "860.00",
       "status": "1"
     },
-    "PAEG|55969|20261002|SUPERIOR": {
-      "venue": "Gurugram Pepsi PVR Ambience",
-      "time": "04:55 PM",
-      "date": "20261002",
-      "cat": "SUPERIOR",
-      "price": "720.00",
-      "status": "1"
-    },
     "PAEG|55969|20261002|XTRA LEGROOM": {
       "venue": "Gurugram Pepsi PVR Ambience",
       "time": "04:55 PM",
@@ -2407,6 +2399,14 @@
       "cat": "XTRA LEGROOM",
       "price": "720.00",
       "status": "3"
+    },
+    "PAEG|55969|20261002|SUPERIOR": {
+      "venue": "Gurugram Pepsi PVR Ambience",
+      "time": "04:55 PM",
+      "date": "20261002",
+      "cat": "SUPERIOR",
+      "price": "720.00",
+      "status": "1"
     },
     "PAEG|55969|20261002|CLASSIC": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -2464,14 +2464,6 @@
       "price": "770.00",
       "status": "1"
     },
-    "PAEG|55965|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram Pepsi PVR Ambience",
-      "time": "07:20 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "750.00",
-      "status": "2"
-    },
     "PAEG|55965|20261002|XTRA LEGROOM": {
       "venue": "Gurugram Pepsi PVR Ambience",
       "time": "07:20 PM",
@@ -2479,6 +2471,14 @@
       "cat": "XTRA LEGROOM",
       "price": "750.00",
       "status": "3"
+    },
+    "PAEG|55965|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram Pepsi PVR Ambience",
+      "time": "07:20 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
+      "price": "750.00",
+      "status": "2"
     },
     "PAEG|55965|20261002|CLASSIC": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -2560,14 +2560,6 @@
       "price": "510.00",
       "status": "3"
     },
-    "PAEG|55966|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram Pepsi PVR Ambience",
-      "time": "10:30 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "750.00",
-      "status": "2"
-    },
     "PAEG|55966|20261002|XTRA LEGROOM": {
       "venue": "Gurugram Pepsi PVR Ambience",
       "time": "10:30 PM",
@@ -2575,6 +2567,14 @@
       "cat": "XTRA LEGROOM",
       "price": "750.00",
       "status": "3"
+    },
+    "PAEG|55966|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram Pepsi PVR Ambience",
+      "time": "10:30 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
+      "price": "750.00",
+      "status": "2"
     },
     "PAEG|55966|20261002|SUPERIOR": {
       "venue": "Gurugram Pepsi PVR Ambience",
@@ -2592,19 +2592,19 @@
       "price": "510.00",
       "status": "3"
     },
-    "PAEG|55971|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram Pepsi PVR Ambience",
-      "time": "11:15 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "750.00",
-      "status": "3"
-    },
     "PAEG|55971|20261002|XTRA LEGROOM": {
       "venue": "Gurugram Pepsi PVR Ambience",
       "time": "11:15 PM",
       "date": "20261002",
       "cat": "XTRA LEGROOM",
+      "price": "750.00",
+      "status": "3"
+    },
+    "PAEG|55971|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram Pepsi PVR Ambience",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "750.00",
       "status": "3"
     },
@@ -4670,7 +4670,7 @@
       "date": "20261002",
       "cat": "NORMAL",
       "price": "320.00",
-      "status": "3"
+      "status": "0"
     },
     "SPIA|13761|20261002|EXECUTIVE": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -4773,7 +4773,7 @@
       "time": "01:30 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "500.00",
+      "price": "700.00",
       "status": "3"
     },
     "SPIA|13762|20261002|NORMAL": {
@@ -4813,7 +4813,7 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "260.00",
+      "price": "290.00",
       "status": "3"
     },
     "SPIA|13805|20261002|EXECUTIVE": {
@@ -4821,7 +4821,7 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "260.00",
+      "price": "290.00",
       "status": "2"
     },
     "SPIA|13805|20261002|PREMIUM XL": {
@@ -4829,15 +4829,15 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "300.00",
-      "status": "3"
+      "price": "330.00",
+      "status": "2"
     },
     "SPIA|13805|20261002|PREMIUM": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "280.00",
+      "price": "310.00",
       "status": "2"
     },
     "SPIA|13805|20261002|PREMIUM PLUS": {
@@ -4845,7 +4845,7 @@
       "time": "03:50 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "300.00",
+      "price": "330.00",
       "status": "3"
     },
     "SPIA|13757|20261002|NORMAL": {
@@ -5110,7 +5110,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "460.00",
-      "status": "2"
+      "status": "1"
     },
     "PCSN|28070|20261002|CLASSIC ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
@@ -5160,14 +5160,6 @@
       "price": "980.00",
       "status": "0"
     },
-    "PCSN|28071|20261002|PRIME ROWS": {
-      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
-      "time": "02:15 PM",
-      "date": "20261002",
-      "cat": "PRIME ROWS",
-      "price": "630.00",
-      "status": "2"
-    },
     "PCSN|28071|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
       "time": "02:15 PM",
@@ -5175,6 +5167,14 @@
       "cat": "PRIME PLUS ROWS",
       "price": "630.00",
       "status": "0"
+    },
+    "PCSN|28071|20261002|PRIME ROWS": {
+      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
+      "time": "02:15 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
+      "price": "630.00",
+      "status": "2"
     },
     "PCSN|28071|20261002|CLASSIC ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
@@ -5192,19 +5192,19 @@
       "price": "930.00",
       "status": "0"
     },
-    "PCSN|27990|20261002|PRIME ROWS": {
-      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
-      "time": "04:25 PM",
-      "date": "20261002",
-      "cat": "PRIME ROWS",
-      "price": "580.00",
-      "status": "1"
-    },
     "PCSN|27990|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: Pacific, Subhash Nagar, Delhi",
       "time": "04:25 PM",
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
+      "price": "580.00",
+      "status": "1"
+    },
+    "PCSN|27990|20261002|PRIME ROWS": {
+      "venue": "PVR: Pacific, Subhash Nagar, Delhi",
+      "time": "04:25 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
       "price": "580.00",
       "status": "1"
     },
@@ -5990,7 +5990,7 @@
       "date": "20261002",
       "cat": "MAX RECLINER",
       "price": "1100.00",
-      "status": "3"
+      "status": "2"
     },
     "MXGN|45099|20261002|EXECUTIVE": {
       "venue": "MovieMax Laserplex: Gulshan One 29 Mall, Noida",
@@ -6269,7 +6269,7 @@
       "time": "04:40 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
-      "price": "630.00",
+      "price": "660.00",
       "status": "2"
     },
     "PGGM|40351|20261002|PRIME ROWS": {
@@ -6830,7 +6830,7 @@
       "date": "20261002",
       "cat": "BALCONY",
       "price": "260.00",
-      "status": "3"
+      "status": "2"
     },
     "LBDL|25803|20261002|UPPER STALL": {
       "venue": "Liberty Cinema: Karol Bagh",
@@ -6933,7 +6933,7 @@
       "time": "12:00 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "350.00",
+      "price": "380.00",
       "status": "3"
     },
     "FNLN|6993|20261002|EXECUTIVE": {
@@ -6941,7 +6941,7 @@
       "time": "12:00 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "370.00",
+      "price": "400.00",
       "status": "3"
     },
     "FNLN|6993|20261002|EXECUTIVE XL": {
@@ -6949,7 +6949,7 @@
       "time": "12:00 PM",
       "date": "20261002",
       "cat": "EXECUTIVE XL",
-      "price": "390.00",
+      "price": "420.00",
       "status": "3"
     },
     "FNLN|6993|20261002|PREMIUM": {
@@ -6957,7 +6957,7 @@
       "time": "12:00 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "410.00",
+      "price": "440.00",
       "status": "3"
     },
     "FNLN|6993|20261002|PREMIUM PLUS": {
@@ -6965,7 +6965,7 @@
       "time": "12:00 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "450.00",
+      "price": "480.00",
       "status": "2"
     },
     "FNLN|6994|20261002|NORMAL": {
@@ -7013,7 +7013,7 @@
       "time": "04:35 PM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "250.00",
+      "price": "280.00",
       "status": "3"
     },
     "FNLN|7032|20261002|EXECUTIVE": {
@@ -7021,7 +7021,7 @@
       "time": "04:35 PM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "330.00",
+      "price": "340.00",
       "status": "3"
     },
     "FNLN|7032|20261002|PREMIUM": {
@@ -7029,7 +7029,7 @@
       "time": "04:35 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "350.00",
+      "price": "360.00",
       "status": "3"
     },
     "FNLN|7032|20261002|PREMIUM XL": {
@@ -7037,7 +7037,7 @@
       "time": "04:35 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "390.00",
+      "price": "400.00",
       "status": "3"
     },
     "FNLN|7032|20261002|PREMIUM PLUS": {
@@ -7045,8 +7045,8 @@
       "time": "04:35 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "370.00",
-      "status": "2"
+      "price": "380.00",
+      "status": "3"
     },
     "FNLN|6995|20261002|NORMAL": {
       "venue": "Cinepolis: V3S Mall, Laxmi Nagar",
@@ -7206,7 +7206,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "340.00",
-      "status": "3"
+      "status": "2"
     },
     "PMMS|20337|20261002|CLASSIC ROWS": {
       "venue": "PVR: Shalimar Bagh",
@@ -7294,7 +7294,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "370.00",
-      "status": "2"
+      "status": "3"
     },
     "PMMS|20340|20261002|PRIME ROWS": {
       "venue": "PVR: Shalimar Bagh",
@@ -7894,7 +7894,7 @@
       "date": "20261002",
       "cat": "PREMIUM XL",
       "price": "440.00",
-      "status": "3"
+      "status": "2"
     },
     "CRGM|14582|20261002|RECLINER": {
       "venue": "Cinepolis: Airia Mall, Sohna Road, Gurgaon",
@@ -8174,7 +8174,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "350.00",
-      "status": "2"
+      "status": "3"
     },
     "PPDA|30370|20261002|PRIME ROWS": {
       "venue": "PVR: Pacific, Dwarka",
@@ -8222,7 +8222,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "480.00",
-      "status": "2"
+      "status": "3"
     },
     "PPDA|30371|20261002|PRIME ROWS": {
       "venue": "PVR: Pacific, Dwarka",
@@ -9038,7 +9038,7 @@
       "date": "20261002",
       "cat": "PICTURE PERFECT",
       "price": "470.00",
-      "status": "1"
+      "status": "0"
     },
     "PBLL|21950|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Pebble Downtown Sec-12, Faridabad",
@@ -9814,7 +9814,7 @@
       "date": "20261002",
       "cat": "GOLD",
       "price": "380.00",
-      "status": "2"
+      "status": "3"
     },
     "M2PP|119672|20261002|PLATINUM": {
       "venue": "M2K: Pitampura",
@@ -9846,7 +9846,7 @@
       "date": "20261002",
       "cat": "SILVER",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "M2RH|63589|20261002|GOLD": {
       "venue": "M2K: Rohini",
@@ -10040,14 +10040,6 @@
       "price": "1200.00",
       "status": "0"
     },
-    "SCND|94834|20261002|Royal": {
-      "venue": "INOX: Nehru Place",
-      "time": "03:50 PM",
-      "date": "20261002",
-      "cat": "Royal",
-      "price": "600.00",
-      "status": "1"
-    },
     "SCND|94834|20261002|Club": {
       "venue": "INOX: Nehru Place",
       "time": "03:50 PM",
@@ -10055,6 +10047,14 @@
       "cat": "Club",
       "price": "600.00",
       "status": "2"
+    },
+    "SCND|94834|20261002|Royal": {
+      "venue": "INOX: Nehru Place",
+      "time": "03:50 PM",
+      "date": "20261002",
+      "cat": "Royal",
+      "price": "600.00",
+      "status": "1"
     },
     "SCND|94834|20261002|Executive": {
       "venue": "INOX: Nehru Place",
@@ -10072,19 +10072,19 @@
       "price": "620.00",
       "status": "1"
     },
-    "SCND|94839|20261002|Royal": {
-      "venue": "INOX: Nehru Place",
-      "time": "05:25 PM",
-      "date": "20261002",
-      "cat": "Royal",
-      "price": "600.00",
-      "status": "1"
-    },
     "SCND|94839|20261002|Club": {
       "venue": "INOX: Nehru Place",
       "time": "05:25 PM",
       "date": "20261002",
       "cat": "Club",
+      "price": "600.00",
+      "status": "1"
+    },
+    "SCND|94839|20261002|Royal": {
+      "venue": "INOX: Nehru Place",
+      "time": "05:25 PM",
+      "date": "20261002",
+      "cat": "Royal",
       "price": "600.00",
       "status": "1"
     },
@@ -10200,19 +10200,19 @@
       "price": "470.00",
       "status": "3"
     },
-    "SCND|94841|20261002|Club": {
-      "venue": "INOX: Nehru Place",
-      "time": "11:45 PM",
-      "date": "20261002",
-      "cat": "Club",
-      "price": "450.00",
-      "status": "3"
-    },
     "SCND|94841|20261002|Royal": {
       "venue": "INOX: Nehru Place",
       "time": "11:45 PM",
       "date": "20261002",
       "cat": "Royal",
+      "price": "450.00",
+      "status": "3"
+    },
+    "SCND|94841|20261002|Club": {
+      "venue": "INOX: Nehru Place",
+      "time": "11:45 PM",
+      "date": "20261002",
+      "cat": "Club",
       "price": "450.00",
       "status": "3"
     },
@@ -10293,7 +10293,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "370.00",
+      "price": "390.00",
       "status": "3"
     },
     "FNSD|5607|20261002|RECLINER": {
@@ -10301,8 +10301,8 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "RECLINER",
-      "price": "850.00",
-      "status": "3"
+      "price": "900.00",
+      "status": "2"
     },
     "FNSD|5573|20261002|NORMAL": {
       "venue": "Cinepolis: Cross River Mall, Shahdara",
@@ -10485,7 +10485,7 @@
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "350.00",
+      "price": "370.00",
       "status": "3"
     },
     "FNSD|5575|20261002|PREMIUM XL": {
@@ -10493,7 +10493,7 @@
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "390.00",
+      "price": "410.00",
       "status": "2"
     },
     "FNSD|5575|20261002|PREMIUM PLUS": {
@@ -10501,7 +10501,7 @@
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "370.00",
+      "price": "390.00",
       "status": "2"
     },
     "FNSD|5575|20261002|RECLINER": {
@@ -10509,7 +10509,7 @@
       "time": "06:40 PM",
       "date": "20261002",
       "cat": "RECLINER",
-      "price": "850.00",
+      "price": "900.00",
       "status": "1"
     },
     "FNSD|5610|20261002|NORMAL": {
@@ -10998,7 +10998,7 @@
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "550.00",
-      "status": "1"
+      "status": "0"
     },
     "INWM|48039|20261002|PRIME ROWS": {
       "venue": "INOX: World Mark, Gurugram",
@@ -11109,7 +11109,7 @@
       "time": "07:30 PM",
       "date": "20261002",
       "cat": "PRIME ROWS",
-      "price": "500.00",
+      "price": "530.00",
       "status": "2"
     },
     "INWM|48040|20261002|CLASSIC PLUS ROWS": {
@@ -12318,7 +12318,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "700.00",
-      "status": "1"
+      "status": "0"
     },
     "CUNT|6078|20261002|NORMAL": {
       "venue": "Cinepolis: City Centre Dwarka,Delhi (Newly Opened)",
@@ -13270,7 +13270,7 @@
       "date": "20261002",
       "cat": "PICTURE PERFECT",
       "price": "330.00",
-      "status": "2"
+      "status": "1"
     },
     "EMPS|16853|20261002|PRIME ROWS": {
       "venue": "PVR: Elan Miracle, Sec 84, Gurugram",
@@ -13710,7 +13710,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "590.00",
-      "status": "2"
+      "status": "1"
     },
     "EMPS|16862|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Miracle, Sec 84, Gurugram",
@@ -13926,7 +13926,7 @@
       "date": "20261002",
       "cat": "PREMIUM XL",
       "price": "410.00",
-      "status": "3"
+      "status": "2"
     },
     "CTEE|10916|20261002|PREMIUM PLUS": {
       "venue": "Cinepolis: The Esplanade, Gurugram",
@@ -14829,7 +14829,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "NORMAL",
-      "price": "350.00",
+      "price": "390.00",
       "status": "3"
     },
     "CEST|6894|20261002|EXECUTIVE": {
@@ -14837,7 +14837,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "EXECUTIVE",
-      "price": "370.00",
+      "price": "410.00",
       "status": "3"
     },
     "CEST|6894|20261002|PREMIUM": {
@@ -14845,7 +14845,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "PREMIUM",
-      "price": "390.00",
+      "price": "430.00",
       "status": "1"
     },
     "CEST|6894|20261002|PREMIUM XL": {
@@ -14853,7 +14853,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "PREMIUM XL",
-      "price": "410.00",
+      "price": "450.00",
       "status": "1"
     },
     "CEST|6894|20261002|PREMIUM PLUS": {
@@ -14861,7 +14861,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "PREMIUM PLUS",
-      "price": "430.00",
+      "price": "470.00",
       "status": "1"
     },
     "CEST|6894|20261002|RECLINER": {
@@ -14869,7 +14869,7 @@
       "time": "10:00 AM",
       "date": "20261002",
       "cat": "RECLINER",
-      "price": "860.00",
+      "price": "940.00",
       "status": "2"
     },
     "CEST|6879|20261002|NORMAL": {
@@ -16230,7 +16230,7 @@
       "date": "20261002",
       "cat": "PREMIUM",
       "price": "320.00",
-      "status": "3"
+      "status": "2"
     },
     "CPMF|7972|20261002|PREMIUM XL": {
       "venue": "Cinepolis: Pacific Mall, Faridabad",
@@ -16454,7 +16454,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "610.00",
-      "status": "2"
+      "status": "3"
     },
     "MHNU|24001|20261002|PRIME": {
       "venue": "PVR: Mahagun, Ghaziabad",
@@ -16533,7 +16533,7 @@
       "time": "01:45 PM",
       "date": "20261002",
       "cat": "PRIME",
-      "price": "420.00",
+      "price": "450.00",
       "status": "2"
     },
     "MHNU|24007|20261002|CLASSIC": {
@@ -16581,7 +16581,7 @@
       "time": "04:55 PM",
       "date": "20261002",
       "cat": "PRIME",
-      "price": "420.00",
+      "price": "450.00",
       "status": "2"
     },
     "MHNU|24008|20261002|CLASSIC": {
@@ -16854,7 +16854,7 @@
       "date": "20261002",
       "cat": "CLASSIC PLUS ROWS",
       "price": "330.00",
-      "status": "2"
+      "status": "3"
     },
     "PDIV|17657|20261002|CLASSIC ROWS": {
       "venue": "PVR: Vikaspuri, Delhi",
@@ -17118,7 +17118,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "370.00",
-      "status": "2"
+      "status": "3"
     },
     "INFR|94749|20261002|CLASSIC ROWS": {
       "venue": "INOX: Crown Interiorz Mall, Delhi Mathura Road",
@@ -17157,7 +17157,7 @@
       "time": "04:55 PM",
       "date": "20261002",
       "cat": "PRIME ROWS",
-      "price": "350.00",
+      "price": "370.00",
       "status": "3"
     },
     "INFR|94744|20261002|CLASSIC ROWS": {
@@ -17216,19 +17216,19 @@
       "price": "840.00",
       "status": "3"
     },
-    "INFR|94745|20261002|PICTURE PERFECT": {
-      "venue": "INOX: Crown Interiorz Mall, Delhi Mathura Road",
-      "time": "08:05 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "370.00",
-      "status": "3"
-    },
     "INFR|94745|20261002|EXTRA LEGROOM ROWS": {
       "venue": "INOX: Crown Interiorz Mall, Delhi Mathura Road",
       "time": "08:05 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "INFR|94745|20261002|PICTURE PERFECT": {
+      "venue": "INOX: Crown Interiorz Mall, Delhi Mathura Road",
+      "time": "08:05 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "370.00",
       "status": "3"
     },
@@ -17552,6 +17552,14 @@
       "price": "2000.00",
       "status": "2"
     },
+    "DPDC|24616|20261002|RECLINERS PRIME": {
+      "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
+      "time": "03:10 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "1"
+    },
     "DPDC|24616|20261002|RECLINERS": {
       "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
       "time": "03:10 PM",
@@ -17560,11 +17568,11 @@
       "price": "2400.00",
       "status": "1"
     },
-    "DPDC|24616|20261002|RECLINERS PRIME": {
+    "DPDC|24611|20261002|RECLINERS": {
       "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
-      "time": "03:10 PM",
+      "time": "04:40 PM",
       "date": "20261002",
-      "cat": "RECLINERS PRIME",
+      "cat": "RECLINERS",
       "price": "2400.00",
       "status": "1"
     },
@@ -17575,14 +17583,6 @@
       "cat": "RECLINERS PRIME",
       "price": "2400.00",
       "status": "0"
-    },
-    "DPDC|24611|20261002|RECLINERS": {
-      "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
-      "time": "04:40 PM",
-      "date": "20261002",
-      "cat": "RECLINERS",
-      "price": "2400.00",
-      "status": "2"
     },
     "DPDC|24617|20261002|RECLINERS": {
       "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
@@ -17766,7 +17766,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "400.00",
-      "status": "3"
+      "status": "2"
     },
     "NYCG|26468|20261002|CLASSIC": {
       "venue": "Devgn CineX: Elan Epic, Gurugram",
@@ -18760,6 +18760,38 @@
       "price": "650.00",
       "status": "3"
     },
+    "RONC|54743|20261002|RECLINER": {
+      "venue": "Rajhans Cinemas:Galaxy Diamond Plaza,Greater Noida",
+      "time": "11:55 PM",
+      "date": "20261002",
+      "cat": "RECLINER",
+      "price": "550.00",
+      "status": "3"
+    },
+    "RONC|54743|20261002|EXECUTIVE": {
+      "venue": "Rajhans Cinemas:Galaxy Diamond Plaza,Greater Noida",
+      "time": "11:55 PM",
+      "date": "20261002",
+      "cat": "EXECUTIVE",
+      "price": "300.00",
+      "status": "3"
+    },
+    "RONC|54743|20261002|ROYAL": {
+      "venue": "Rajhans Cinemas:Galaxy Diamond Plaza,Greater Noida",
+      "time": "11:55 PM",
+      "date": "20261002",
+      "cat": "ROYAL",
+      "price": "280.00",
+      "status": "3"
+    },
+    "RONC|54743|20261002|MARVEL": {
+      "venue": "Rajhans Cinemas:Galaxy Diamond Plaza,Greater Noida",
+      "time": "11:55 PM",
+      "date": "20261002",
+      "cat": "MARVEL",
+      "price": "260.00",
+      "status": "3"
+    },
     "IOCP|15000|20261002|Platinum": {
       "venue": "INOX: Odeon, Connaught Place",
       "time": "10:40 AM",
@@ -19334,7 +19366,7 @@
       "date": "20261002",
       "cat": "Recliners",
       "price": "620.00",
-      "status": "2"
+      "status": "0"
     },
     "IOTG|11010|20261002|Prime": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -19342,7 +19374,7 @@
       "date": "20261002",
       "cat": "Prime",
       "price": "300.00",
-      "status": "3"
+      "status": "2"
     },
     "IOTG|11010|20261002|Classic": {
       "venue": "PVR: Opulent, Ghaziabad",
@@ -19429,7 +19461,7 @@
       "time": "02:05 PM",
       "date": "20261002",
       "cat": "GOLD",
-      "price": "1090.00",
+      "price": "1190.00",
       "status": "3"
     },
     "WUPG|38393|20261002|CLASSIC": {
@@ -19942,7 +19974,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
     "PNAD|22283|20261002|PRIME ROWS": {
       "venue": "PVR: Naraina, Delhi",
@@ -20110,7 +20142,7 @@
       "date": "20261002",
       "cat": "RECLINERS",
       "price": "2150.00",
-      "status": "2"
+      "status": "1"
     },
     "DCMV|14971|20261002|RECLINERS PRIME": {
       "venue": "PVR Directors Cut, DLF Mall Of India: Noida",
@@ -21046,7 +21078,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "390.00",
-      "status": "1"
+      "status": "2"
     },
     "EDMP|16014|20261002|CLASSIC": {
       "venue": "PVR: EDM, Ghaziabad",
@@ -21600,14 +21632,6 @@
       "price": "1650.00",
       "status": "1"
     },
-    "GPDC|23434|20261002|RECLINERS": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "10:35 AM",
-      "date": "20261002",
-      "cat": "RECLINERS",
-      "price": "1450.00",
-      "status": "2"
-    },
     "GPDC|23434|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "10:35 AM",
@@ -21616,19 +21640,27 @@
       "price": "1450.00",
       "status": "1"
     },
-    "GPDC|23429|20261002|RECLINERS PRIME": {
+    "GPDC|23434|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "12:00 PM",
+      "time": "10:35 AM",
       "date": "20261002",
-      "cat": "RECLINERS PRIME",
-      "price": "2400.00",
-      "status": "1"
+      "cat": "RECLINERS",
+      "price": "1450.00",
+      "status": "2"
     },
     "GPDC|23429|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "12:00 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "2400.00",
+      "status": "1"
+    },
+    "GPDC|23429|20261002|RECLINERS PRIME": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "12:00 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
       "price": "2400.00",
       "status": "1"
     },
@@ -21640,14 +21672,6 @@
       "price": "2250.00",
       "status": "2"
     },
-    "GPDC|23435|20261002|RECLINERS PRIME": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "01:30 PM",
-      "date": "20261002",
-      "cat": "RECLINERS PRIME",
-      "price": "2400.00",
-      "status": "1"
-    },
     "GPDC|23435|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "01:30 PM",
@@ -21655,6 +21679,14 @@
       "cat": "PICTURE PERFECT",
       "price": "2400.00",
       "status": "0"
+    },
+    "GPDC|23435|20261002|RECLINERS PRIME": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "01:30 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "1"
     },
     "GPDC|23435|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -21664,19 +21696,19 @@
       "price": "2050.00",
       "status": "3"
     },
-    "GPDC|23430|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "02:55 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "2400.00",
-      "status": "0"
-    },
     "GPDC|23430|20261002|RECLINERS PRIME": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "02:55 PM",
       "date": "20261002",
       "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "0"
+    },
+    "GPDC|23430|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "02:55 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "2400.00",
       "status": "0"
     },
@@ -21688,14 +21720,6 @@
       "price": "2250.00",
       "status": "2"
     },
-    "GPDC|23436|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "04:25 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "2400.00",
-      "status": "0"
-    },
     "GPDC|23436|20261002|RECLINERS PRIME": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "04:25 PM",
@@ -21703,6 +21727,14 @@
       "cat": "RECLINERS PRIME",
       "price": "2400.00",
       "status": "1"
+    },
+    "GPDC|23436|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "04:25 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
+      "price": "2400.00",
+      "status": "0"
     },
     "GPDC|23436|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -21712,19 +21744,19 @@
       "price": "2250.00",
       "status": "3"
     },
-    "GPDC|23431|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "05:50 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "2400.00",
-      "status": "1"
-    },
     "GPDC|23431|20261002|RECLINERS PRIME": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "05:50 PM",
       "date": "20261002",
       "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "1"
+    },
+    "GPDC|23431|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "05:50 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "2400.00",
       "status": "1"
     },
@@ -21736,14 +21768,6 @@
       "price": "2250.00",
       "status": "3"
     },
-    "GPDC|23437|20261002|RECLINERS PRIME": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "07:20 PM",
-      "date": "20261002",
-      "cat": "RECLINERS PRIME",
-      "price": "2400.00",
-      "status": "1"
-    },
     "GPDC|23437|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "07:20 PM",
@@ -21751,6 +21775,14 @@
       "cat": "PICTURE PERFECT",
       "price": "2400.00",
       "status": "0"
+    },
+    "GPDC|23437|20261002|RECLINERS PRIME": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "07:20 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "1"
     },
     "GPDC|23437|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -21760,14 +21792,6 @@
       "price": "2250.00",
       "status": "3"
     },
-    "GPDC|23432|20261002|RECLINERS PRIME": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "08:45 PM",
-      "date": "20261002",
-      "cat": "RECLINERS PRIME",
-      "price": "2400.00",
-      "status": "1"
-    },
     "GPDC|23432|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "08:45 PM",
@@ -21775,6 +21799,14 @@
       "cat": "PICTURE PERFECT",
       "price": "2400.00",
       "status": "0"
+    },
+    "GPDC|23432|20261002|RECLINERS PRIME": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "08:45 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "1"
     },
     "GPDC|23432|20261002|RECLINERS": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -21784,19 +21816,19 @@
       "price": "2250.00",
       "status": "3"
     },
-    "GPDC|23438|20261002|RECLINERS PRIME": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "10:15 PM",
-      "date": "20261002",
-      "cat": "RECLINERS PRIME",
-      "price": "2400.00",
-      "status": "0"
-    },
     "GPDC|23438|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "10:15 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "2400.00",
+      "status": "0"
+    },
+    "GPDC|23438|20261002|RECLINERS PRIME": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "10:15 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
       "price": "2400.00",
       "status": "0"
     },
@@ -21808,19 +21840,19 @@
       "price": "2250.00",
       "status": "3"
     },
-    "GPDC|23433|20261002|PICTURE PERFECT": {
-      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
-      "time": "11:40 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "2400.00",
-      "status": "2"
-    },
     "GPDC|23433|20261002|RECLINERS PRIME": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
       "time": "11:40 PM",
       "date": "20261002",
       "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "2"
+    },
+    "GPDC|23433|20261002|PICTURE PERFECT": {
+      "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
+      "time": "11:40 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "2400.00",
       "status": "2"
     },
@@ -21920,6 +21952,14 @@
       "price": "470.00",
       "status": "3"
     },
+    "IEFM|67068|20261002|PICTURE PERFECT": {
+      "venue": "INOX: EF3 Mall, Faridabad",
+      "time": "10:15 AM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
+      "price": "240.00",
+      "status": "3"
+    },
     "IEFM|67068|20261002|PRIME ROWS": {
       "venue": "INOX: EF3 Mall, Faridabad",
       "time": "10:15 AM",
@@ -21933,14 +21973,6 @@
       "time": "10:15 AM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "240.00",
-      "status": "3"
-    },
-    "IEFM|67068|20261002|PICTURE PERFECT": {
-      "venue": "INOX: EF3 Mall, Faridabad",
-      "time": "10:15 AM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
       "price": "240.00",
       "status": "3"
     },
@@ -21976,19 +22008,19 @@
       "price": "330.00",
       "status": "2"
     },
-    "IEFM|67069|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "INOX: EF3 Mall, Faridabad",
-      "time": "01:25 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "290.00",
-      "status": "3"
-    },
     "IEFM|67069|20261002|PICTURE PERFECT": {
       "venue": "INOX: EF3 Mall, Faridabad",
       "time": "01:25 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "310.00",
+      "status": "3"
+    },
+    "IEFM|67069|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "INOX: EF3 Mall, Faridabad",
+      "time": "01:25 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "290.00",
       "status": "3"
     },
@@ -22024,19 +22056,19 @@
       "price": "350.00",
       "status": "2"
     },
-    "IEFM|67070|20261002|PICTURE PERFECT": {
-      "venue": "INOX: EF3 Mall, Faridabad",
-      "time": "04:35 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "330.00",
-      "status": "3"
-    },
     "IEFM|67070|20261002|EXTRA LEGROOM ROWS": {
       "venue": "INOX: EF3 Mall, Faridabad",
       "time": "04:35 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
+    "IEFM|67070|20261002|PICTURE PERFECT": {
+      "venue": "INOX: EF3 Mall, Faridabad",
+      "time": "04:35 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "330.00",
       "status": "3"
     },
@@ -22064,6 +22096,14 @@
       "price": "610.00",
       "status": "2"
     },
+    "IEFM|67071|20261002|PICTURE PERFECT": {
+      "venue": "INOX: EF3 Mall, Faridabad",
+      "time": "07:45 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
+      "price": "330.00",
+      "status": "3"
+    },
     "IEFM|67071|20261002|PRIME ROWS": {
       "venue": "INOX: EF3 Mall, Faridabad",
       "time": "07:45 PM",
@@ -22077,14 +22117,6 @@
       "time": "07:45 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
-      "price": "330.00",
-      "status": "3"
-    },
-    "IEFM|67071|20261002|PICTURE PERFECT": {
-      "venue": "INOX: EF3 Mall, Faridabad",
-      "time": "07:45 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
       "price": "330.00",
       "status": "3"
     },
@@ -22112,6 +22144,14 @@
       "price": "570.00",
       "status": "3"
     },
+    "IEFM|67072|20261002|PRIME ROWS": {
+      "venue": "INOX: EF3 Mall, Faridabad",
+      "time": "10:55 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
+      "price": "330.00",
+      "status": "3"
+    },
     "IEFM|67072|20261002|EXTRA LEGROOM ROWS": {
       "venue": "INOX: EF3 Mall, Faridabad",
       "time": "10:55 PM",
@@ -22125,14 +22165,6 @@
       "time": "10:55 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
-      "price": "330.00",
-      "status": "3"
-    },
-    "IEFM|67072|20261002|PRIME ROWS": {
-      "venue": "INOX: EF3 Mall, Faridabad",
-      "time": "10:55 PM",
-      "date": "20261002",
-      "cat": "PRIME ROWS",
       "price": "330.00",
       "status": "3"
     },
@@ -22222,7 +22254,7 @@
       "date": "20261002",
       "cat": "PREMIUM XL",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "CNVG|8073|20261002|RECLINER": {
       "venue": "Cinepolis: Grand View High Street, Gurugram",
@@ -22302,7 +22334,7 @@
       "date": "20261002",
       "cat": "PREMIUM XL",
       "price": "410.00",
-      "status": "1"
+      "status": "0"
     },
     "CNVG|8074|20261002|RECLINER": {
       "venue": "Cinepolis: Grand View High Street, Gurugram",
@@ -22752,19 +22784,19 @@
       "price": "310.00",
       "status": "1"
     },
-    "CCPZ|17234|20261002|CLASSIC PLUS ROWS": {
-      "venue": "PVR: City Centre, Gurgaon",
-      "time": "10:50 AM",
-      "date": "20261002",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "290.00",
-      "status": "3"
-    },
     "CCPZ|17234|20261002|CLASSIC ROWS": {
       "venue": "PVR: City Centre, Gurgaon",
       "time": "10:50 AM",
       "date": "20261002",
       "cat": "CLASSIC ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "CCPZ|17234|20261002|CLASSIC PLUS ROWS": {
+      "venue": "PVR: City Centre, Gurgaon",
+      "time": "10:50 AM",
+      "date": "20261002",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "290.00",
       "status": "3"
     },
@@ -22792,19 +22824,19 @@
       "price": "520.00",
       "status": "2"
     },
-    "CCPZ|17235|20261002|CLASSIC ROWS": {
-      "venue": "PVR: City Centre, Gurgaon",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "CLASSIC ROWS",
-      "price": "440.00",
-      "status": "3"
-    },
     "CCPZ|17235|20261002|CLASSIC PLUS ROWS": {
       "venue": "PVR: City Centre, Gurgaon",
       "time": "02:00 PM",
       "date": "20261002",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "440.00",
+      "status": "3"
+    },
+    "CCPZ|17235|20261002|CLASSIC ROWS": {
+      "venue": "PVR: City Centre, Gurgaon",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "CLASSIC ROWS",
       "price": "440.00",
       "status": "3"
     },
@@ -22832,19 +22864,19 @@
       "price": "520.00",
       "status": "3"
     },
-    "CCPZ|17236|20261002|CLASSIC PLUS ROWS": {
-      "venue": "PVR: City Centre, Gurgaon",
-      "time": "05:10 PM",
-      "date": "20261002",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "440.00",
-      "status": "3"
-    },
     "CCPZ|17236|20261002|CLASSIC ROWS": {
       "venue": "PVR: City Centre, Gurgaon",
       "time": "05:10 PM",
       "date": "20261002",
       "cat": "CLASSIC ROWS",
+      "price": "440.00",
+      "status": "3"
+    },
+    "CCPZ|17236|20261002|CLASSIC PLUS ROWS": {
+      "venue": "PVR: City Centre, Gurgaon",
+      "time": "05:10 PM",
+      "date": "20261002",
+      "cat": "CLASSIC PLUS ROWS",
       "price": "440.00",
       "status": "3"
     },
@@ -22912,19 +22944,19 @@
       "price": "550.00",
       "status": "3"
     },
-    "CCPZ|17238|20261002|CLASSIC ROWS": {
-      "venue": "PVR: City Centre, Gurgaon",
-      "time": "11:30 PM",
-      "date": "20261002",
-      "cat": "CLASSIC ROWS",
-      "price": "470.00",
-      "status": "3"
-    },
     "CCPZ|17238|20261002|CLASSIC PLUS ROWS": {
       "venue": "PVR: City Centre, Gurgaon",
       "time": "11:30 PM",
       "date": "20261002",
       "cat": "CLASSIC PLUS ROWS",
+      "price": "470.00",
+      "status": "3"
+    },
+    "CCPZ|17238|20261002|CLASSIC ROWS": {
+      "venue": "PVR: City Centre, Gurgaon",
+      "time": "11:30 PM",
+      "date": "20261002",
+      "cat": "CLASSIC ROWS",
       "price": "470.00",
       "status": "3"
     },
@@ -23440,19 +23472,19 @@
       "price": "480.00",
       "status": "1"
     },
-    "INSG|39880|20261002|PICTURE PERFECT": {
-      "venue": "INOX Sapphire 90 Mall: Gurugram",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "360.00",
-      "status": "3"
-    },
     "INSG|39880|20261002|EXTRA LEGROOM ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
       "time": "02:00 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "360.00",
+      "status": "3"
+    },
+    "INSG|39880|20261002|PICTURE PERFECT": {
+      "venue": "INOX Sapphire 90 Mall: Gurugram",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "360.00",
       "status": "3"
     },
@@ -23606,7 +23638,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "360.00",
-      "status": "2"
+      "status": "3"
     },
     "INSG|39887|20261002|CLASSIC ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
@@ -23680,19 +23712,19 @@
       "price": "510.00",
       "status": "1"
     },
-    "INSG|39888|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "INOX Sapphire 90 Mall: Gurugram",
-      "time": "10:00 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "380.00",
-      "status": "3"
-    },
     "INSG|39888|20261002|PICTURE PERFECT": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
       "time": "10:00 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "380.00",
+      "status": "3"
+    },
+    "INSG|39888|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "INOX Sapphire 90 Mall: Gurugram",
+      "time": "10:00 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "380.00",
       "status": "3"
     },
@@ -23728,19 +23760,19 @@
       "price": "490.00",
       "status": "3"
     },
-    "INSG|39883|20261002|PICTURE PERFECT": {
-      "venue": "INOX Sapphire 90 Mall: Gurugram",
-      "time": "11:30 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "380.00",
-      "status": "3"
-    },
     "INSG|39883|20261002|EXTRA LEGROOM ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
       "time": "11:30 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "INSG|39883|20261002|PICTURE PERFECT": {
+      "venue": "INOX Sapphire 90 Mall: Gurugram",
+      "time": "11:30 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "380.00",
       "status": "3"
     },
@@ -24062,7 +24094,7 @@
       "date": "20261002",
       "cat": "GOLD RECLINER",
       "price": "750.00",
-      "status": "3"
+      "status": "2"
     },
     "WATG|4349|20261002|Classic": {
       "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
@@ -24141,7 +24173,7 @@
       "time": "01:45 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
-      "price": "550.00",
+      "price": "570.00",
       "status": "3"
     },
     "PMGU|16665|20261002|CLASSIC ROWS": {
@@ -24392,19 +24424,19 @@
       "price": "330.00",
       "status": "3"
     },
-    "PSDD|11141|20261002|PRIME PLUS ROWS": {
-      "venue": "PVR: Sangam, Delhi",
-      "time": "01:25 PM",
-      "date": "20261002",
-      "cat": "PRIME PLUS ROWS",
-      "price": "500.00",
-      "status": "1"
-    },
     "PSDD|11141|20261002|PRIME ROWS": {
       "venue": "PVR: Sangam, Delhi",
       "time": "01:25 PM",
       "date": "20261002",
       "cat": "PRIME ROWS",
+      "price": "500.00",
+      "status": "1"
+    },
+    "PSDD|11141|20261002|PRIME PLUS ROWS": {
+      "venue": "PVR: Sangam, Delhi",
+      "time": "01:25 PM",
+      "date": "20261002",
+      "cat": "PRIME PLUS ROWS",
       "price": "500.00",
       "status": "1"
     },
@@ -24736,19 +24768,19 @@
       "price": "510.00",
       "status": "0"
     },
-    "PETA|21924|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
-      "time": "09:20 AM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "290.00",
-      "status": "3"
-    },
     "PETA|21924|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
       "time": "09:20 AM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "290.00",
+      "status": "3"
+    },
+    "PETA|21924|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
+      "time": "09:20 AM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "290.00",
       "status": "3"
     },
@@ -24854,7 +24886,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "630.00",
-      "status": "2"
+      "status": "1"
     },
     "PETA|21930|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Town Centre, Sec 67, Gurugram",
@@ -25190,7 +25222,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "1700.00",
-      "status": "2"
+      "status": "3"
     },
     "MERM|18050|20261002|RECLINER": {
       "venue": "MovieMax Edition (Luxe): Rcube Monad Mall, Noida",
@@ -25526,21 +25558,21 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "450.00",
-      "status": "0"
-    },
-    "PVMS|28225|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PVMS|28225|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "02:00 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVMS|28225|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "350.00",
       "status": "3"
     },
@@ -25606,21 +25638,21 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "520.00",
-      "status": "1"
-    },
-    "PVMS|28226|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "05:10 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "370.00",
-      "status": "3"
+      "status": "2"
     },
     "PVMS|28226|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "05:10 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PVMS|28226|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "05:10 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "370.00",
       "status": "3"
     },
@@ -25688,19 +25720,19 @@
       "price": "520.00",
       "status": "1"
     },
-    "PVMS|28227|20261002|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "08:20 PM",
-      "date": "20261002",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "370.00",
-      "status": "3"
-    },
     "PVMS|28227|20261002|PICTURE PERFECT": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "08:20 PM",
       "date": "20261002",
       "cat": "PICTURE PERFECT",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PVMS|28227|20261002|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "08:20 PM",
+      "date": "20261002",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "370.00",
       "status": "3"
     },
@@ -25728,19 +25760,19 @@
       "price": "500.00",
       "status": "3"
     },
-    "PVMS|28223|20261002|PICTURE PERFECT": {
-      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
-      "time": "10:30 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "370.00",
-      "status": "3"
-    },
     "PVMS|28223|20261002|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
       "time": "10:30 PM",
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "370.00",
+      "status": "3"
+    },
+    "PVMS|28223|20261002|PICTURE PERFECT": {
+      "venue": "PVR: Elan Mercado, Sec 80, Gurugram",
+      "time": "10:30 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
       "price": "370.00",
       "status": "3"
     },
@@ -27350,7 +27382,7 @@
       "date": "20261002",
       "cat": "RECLINER PRIME",
       "price": "1450.00",
-      "status": "3"
+      "status": "2"
     },
     "IGAM|46185|20261002|RECLINER": {
       "venue": "INOX: Ardee Mall, Gurugram",
@@ -27766,7 +27798,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "460.00",
-      "status": "2"
+      "status": "0"
     },
     "ISML|42701|20261002|PRIME ROWS": {
       "venue": "INOX: Gurgaon Sapphire 83",
@@ -27949,7 +27981,7 @@
       "time": "01:45 PM",
       "date": "20261002",
       "cat": "RECLINERS",
-      "price": "1900.00",
+      "price": "2000.00",
       "status": "2"
     },
     "IDEN|45992|20261002|RECLINERS PRIME": {
@@ -28328,6 +28360,14 @@
       "price": "250.00",
       "status": "3"
     },
+    "PMPM|124628|20261002|SILVER": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "09:50 AM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
     "PMPM|124628|20261002|PREMIER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
       "time": "09:50 AM",
@@ -28344,11 +28384,11 @@
       "price": "200.00",
       "status": "3"
     },
-    "PMPM|124628|20261002|SILVER": {
+    "PMPM|124643|20261002|PREMIER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "09:50 AM",
+      "time": "11:05 AM",
       "date": "20261002",
-      "cat": "SILVER",
+      "cat": "PREMIER",
       "price": "200.00",
       "status": "3"
     },
@@ -28368,20 +28408,20 @@
       "price": "200.00",
       "status": "3"
     },
-    "PMPM|124643|20261002|PREMIER": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "11:05 AM",
-      "date": "20261002",
-      "cat": "PREMIER",
-      "price": "200.00",
-      "status": "3"
-    },
     "PMPM|124629|20261002|GOLD": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
       "time": "12:35 PM",
       "date": "20261002",
       "cat": "GOLD",
       "price": "250.00",
+      "status": "3"
+    },
+    "PMPM|124629|20261002|SILVER": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "12:35 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "200.00",
       "status": "3"
     },
     "PMPM|124629|20261002|PREMIER": {
@@ -28400,11 +28440,11 @@
       "price": "200.00",
       "status": "3"
     },
-    "PMPM|124629|20261002|SILVER": {
+    "PMPM|124644|20261002|PREMIER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "12:35 PM",
+      "time": "02:00 PM",
       "date": "20261002",
-      "cat": "SILVER",
+      "cat": "PREMIER",
       "price": "200.00",
       "status": "3"
     },
@@ -28424,28 +28464,12 @@
       "price": "200.00",
       "status": "3"
     },
-    "PMPM|124644|20261002|PREMIER": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "PREMIER",
-      "price": "200.00",
-      "status": "3"
-    },
     "PMPM|124630|20261002|GOLD": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
       "time": "03:25 PM",
       "date": "20261002",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "3"
-    },
-    "PMPM|124630|20261002|PREMIER": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "03:25 PM",
-      "date": "20261002",
-      "cat": "PREMIER",
-      "price": "200.00",
       "status": "3"
     },
     "PMPM|124630|20261002|ROYAL": {
@@ -28461,6 +28485,14 @@
       "time": "03:25 PM",
       "date": "20261002",
       "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PMPM|124630|20261002|PREMIER": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "03:25 PM",
+      "date": "20261002",
+      "cat": "PREMIER",
       "price": "200.00",
       "status": "3"
     },
@@ -28494,14 +28526,6 @@
       "date": "20261002",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "2"
-    },
-    "PMPM|124631|20261002|PREMIER": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "06:15 PM",
-      "date": "20261002",
-      "cat": "PREMIER",
-      "price": "200.00",
       "status": "3"
     },
     "PMPM|124631|20261002|ROYAL": {
@@ -28520,11 +28544,11 @@
       "price": "200.00",
       "status": "3"
     },
-    "PMPM|124646|20261002|ROYAL": {
+    "PMPM|124631|20261002|PREMIER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "07:40 PM",
+      "time": "06:15 PM",
       "date": "20261002",
-      "cat": "ROYAL",
+      "cat": "PREMIER",
       "price": "200.00",
       "status": "3"
     },
@@ -28544,6 +28568,14 @@
       "price": "200.00",
       "status": "3"
     },
+    "PMPM|124646|20261002|ROYAL": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "07:40 PM",
+      "date": "20261002",
+      "cat": "ROYAL",
+      "price": "200.00",
+      "status": "3"
+    },
     "PMPM|124632|20261002|GOLD": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
       "time": "09:05 PM",
@@ -28551,6 +28583,14 @@
       "cat": "GOLD",
       "price": "250.00",
       "status": "2"
+    },
+    "PMPM|124632|20261002|PREMIER": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "09:05 PM",
+      "date": "20261002",
+      "cat": "PREMIER",
+      "price": "200.00",
+      "status": "3"
     },
     "PMPM|124632|20261002|ROYAL": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
@@ -28568,22 +28608,6 @@
       "price": "200.00",
       "status": "3"
     },
-    "PMPM|124632|20261002|PREMIER": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "09:05 PM",
-      "date": "20261002",
-      "cat": "PREMIER",
-      "price": "200.00",
-      "status": "3"
-    },
-    "PMPM|124647|20261002|ROYAL": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "10:30 PM",
-      "date": "20261002",
-      "cat": "ROYAL",
-      "price": "200.00",
-      "status": "3"
-    },
     "PMPM|124647|20261002|SILVER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
       "time": "10:30 PM",
@@ -28597,6 +28621,14 @@
       "time": "10:30 PM",
       "date": "20261002",
       "cat": "PREMIER",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PMPM|124647|20261002|ROYAL": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "10:30 PM",
+      "date": "20261002",
+      "cat": "ROYAL",
       "price": "200.00",
       "status": "3"
     },
@@ -29046,7 +29078,7 @@
       "date": "20261002",
       "cat": "X CLASS",
       "price": "320.00",
-      "status": "3"
+      "status": "2"
     },
     "RCGD|14220|20261002|PREMIER": {
       "venue": "ROONGTA CINEMAS: SHOPPRIX Mall, Ghaziabad",
@@ -29128,14 +29160,6 @@
       "price": "270.00",
       "status": "3"
     },
-    "IBYG|15425|20261002|PICTURE PERFECT": {
-      "venue": "INOX: IRIS Broadway Gurugram",
-      "time": "04:35 PM",
-      "date": "20261002",
-      "cat": "PICTURE PERFECT",
-      "price": "340.00",
-      "status": "3"
-    },
     "IBYG|15425|20261002|PRIME PLUS ROWS": {
       "venue": "INOX: IRIS Broadway Gurugram",
       "time": "04:35 PM",
@@ -29143,6 +29167,14 @@
       "cat": "PRIME PLUS ROWS",
       "price": "340.00",
       "status": "2"
+    },
+    "IBYG|15425|20261002|PICTURE PERFECT": {
+      "venue": "INOX: IRIS Broadway Gurugram",
+      "time": "04:35 PM",
+      "date": "20261002",
+      "cat": "PICTURE PERFECT",
+      "price": "340.00",
+      "status": "3"
     },
     "IBYG|15425|20261002|PRIME ROWS": {
       "venue": "INOX: IRIS Broadway Gurugram",
@@ -30016,19 +30048,19 @@
       "price": "200.00",
       "status": "3"
     },
-    "VBOR|12823|20261002|PL": {
-      "venue": "Vibhor Chitralok: Pilkhuwa",
-      "time": "12:01 PM",
-      "date": "20261002",
-      "cat": "PL",
-      "price": "150.00",
-      "status": "3"
-    },
     "VBOR|12823|20261002|GO": {
       "venue": "Vibhor Chitralok: Pilkhuwa",
       "time": "12:01 PM",
       "date": "20261002",
       "cat": "GO",
+      "price": "150.00",
+      "status": "3"
+    },
+    "VBOR|12823|20261002|PL": {
+      "venue": "Vibhor Chitralok: Pilkhuwa",
+      "time": "12:01 PM",
+      "date": "20261002",
+      "cat": "PL",
       "price": "150.00",
       "status": "3"
     },
@@ -30040,19 +30072,19 @@
       "price": "200.00",
       "status": "3"
     },
-    "VBOR|12824|20261002|PL": {
-      "venue": "Vibhor Chitralok: Pilkhuwa",
-      "time": "03:00 PM",
-      "date": "20261002",
-      "cat": "PL",
-      "price": "150.00",
-      "status": "3"
-    },
     "VBOR|12824|20261002|GO": {
       "venue": "Vibhor Chitralok: Pilkhuwa",
       "time": "03:00 PM",
       "date": "20261002",
       "cat": "GO",
+      "price": "150.00",
+      "status": "3"
+    },
+    "VBOR|12824|20261002|PL": {
+      "venue": "Vibhor Chitralok: Pilkhuwa",
+      "time": "03:00 PM",
+      "date": "20261002",
+      "cat": "PL",
       "price": "150.00",
       "status": "3"
     },
@@ -30064,19 +30096,19 @@
       "price": "200.00",
       "status": "3"
     },
-    "VBOR|12825|20261002|GO": {
-      "venue": "Vibhor Chitralok: Pilkhuwa",
-      "time": "06:00 PM",
-      "date": "20261002",
-      "cat": "GO",
-      "price": "150.00",
-      "status": "3"
-    },
     "VBOR|12825|20261002|PL": {
       "venue": "Vibhor Chitralok: Pilkhuwa",
       "time": "06:00 PM",
       "date": "20261002",
       "cat": "PL",
+      "price": "150.00",
+      "status": "3"
+    },
+    "VBOR|12825|20261002|GO": {
+      "venue": "Vibhor Chitralok: Pilkhuwa",
+      "time": "06:00 PM",
+      "date": "20261002",
+      "cat": "GO",
       "price": "150.00",
       "status": "3"
     },
@@ -30088,19 +30120,19 @@
       "price": "200.00",
       "status": "3"
     },
-    "VBOR|12826|20261002|GO": {
-      "venue": "Vibhor Chitralok: Pilkhuwa",
-      "time": "09:00 PM",
-      "date": "20261002",
-      "cat": "GO",
-      "price": "150.00",
-      "status": "3"
-    },
     "VBOR|12826|20261002|PL": {
       "venue": "Vibhor Chitralok: Pilkhuwa",
       "time": "09:00 PM",
       "date": "20261002",
       "cat": "PL",
+      "price": "150.00",
+      "status": "3"
+    },
+    "VBOR|12826|20261002|GO": {
+      "venue": "Vibhor Chitralok: Pilkhuwa",
+      "time": "09:00 PM",
+      "date": "20261002",
+      "cat": "GO",
       "price": "150.00",
       "status": "3"
     },
@@ -30382,7 +30414,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "610.00",
-      "status": "3"
+      "status": "2"
     },
     "PFDN|187|20261002|CLASSIC ROWS": {
       "venue": "PVR: DLF Summit Plaza, Gurugram",
