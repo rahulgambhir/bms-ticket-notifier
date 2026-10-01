@@ -230,7 +230,7 @@
       "date": "20261002",
       "cat": "ROYAL ROWS",
       "price": "1880.00",
-      "status": "3"
+      "status": "1"
     },
     "PVVW|63093|20261002|EXECUTIVE ROWS": {
       "venue": "PVR: Vegas Dwarka",
@@ -1630,7 +1630,7 @@
       "date": "20261002",
       "cat": "ROYAL PLUS",
       "price": "700.00",
-      "status": "2"
+      "status": "1"
     },
     "USEB|73598|20261002|LUX": {
       "venue": "US CINEMAS: Galaxy Blue Sapphire, Noida Ext",
@@ -1950,7 +1950,7 @@
       "date": "20261002",
       "cat": "XTRA LEGROOM",
       "price": "570.00",
-      "status": "0"
+      "status": "1"
     },
     "DTYN|35366|20261002|PRIME": {
       "venue": "PVR: Superplex Mall Of India, Noida",
@@ -2166,7 +2166,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "490.00",
-      "status": "2"
+      "status": "1"
     },
     "DTYN|35575|20261002|CLASSIC": {
       "venue": "PVR: Superplex Mall Of India, Noida",
@@ -3710,7 +3710,7 @@
       "date": "20261002",
       "cat": "PRIME",
       "price": "370.00",
-      "status": "2"
+      "status": "3"
     },
     "PGND|42215|20261002|CLASSIC": {
       "venue": "PVR: Gaur City, Greater Noida",
@@ -4942,7 +4942,7 @@
       "date": "20261002",
       "cat": "INSIGNIA CLUB",
       "price": "1480.00",
-      "status": "3"
+      "status": "2"
     },
     "IPMJ|58092|20261002|ROYAL": {
       "venue": "INOX: Pacific Mall, Jasola",
@@ -5342,7 +5342,7 @@
       "date": "20261002",
       "cat": "Club",
       "price": "480.00",
-      "status": "3"
+      "status": "2"
     },
     "INVM|42037|20261002|Executive": {
       "venue": "INOX: Vishal Mall, Rajouri Garden",
@@ -5742,7 +5742,7 @@
       "date": "20261002",
       "cat": "PREMIUM PLUS",
       "price": "300.00",
-      "status": "1"
+      "status": "2"
     },
     "SPIA|13756|20261002|NORMAL": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -5758,7 +5758,7 @@
       "date": "20261002",
       "cat": "EXECUTIVE",
       "price": "340.00",
-      "status": "2"
+      "status": "3"
     },
     "SPIA|13756|20261002|PREMIUM XL": {
       "venue": "Cinepolis: Modi Mall (Formerly Spice Mall)",
@@ -8286,7 +8286,7 @@
       "date": "20261002",
       "cat": "PREMIUM",
       "price": "440.00",
-      "status": "2"
+      "status": "3"
     },
     "FNLN|6993|20261002|PREMIUM PLUS": {
       "venue": "Cinepolis: V3S Mall, Laxmi Nagar",
@@ -14190,7 +14190,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "950.00",
-      "status": "2"
+      "status": "1"
     },
     "CUNT|6084|20261002|NORMAL": {
       "venue": "Cinepolis: City Centre Dwarka,Delhi (Newly Opened)",
@@ -14518,7 +14518,7 @@
       "date": "20261002",
       "cat": "LOUNGE",
       "price": "680.00",
-      "status": "2"
+      "status": "1"
     },
     "ISMG|45390|20261002|EXECUTIVE": {
       "venue": "INOX: Shipra Mall, Ghaziabad",
@@ -14526,7 +14526,7 @@
       "date": "20261002",
       "cat": "EXECUTIVE",
       "price": "360.00",
-      "status": "2"
+      "status": "3"
     },
     "ISMG|45390|20261002|CLASSIC": {
       "venue": "INOX: Shipra Mall, Ghaziabad",
@@ -17774,7 +17774,7 @@
       "date": "20261002",
       "cat": "CLASSIC ROWS",
       "price": "480.00",
-      "status": "3"
+      "status": "2"
     },
     "PECD|15797|20261002|PRIME PLUS ROWS": {
       "venue": "PVR: ECX Chanakyapuri, Delhi",
@@ -19166,7 +19166,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "390.00",
-      "status": "2"
+      "status": "3"
     },
     "PDIV|17659|20261002|PRIME ROWS": {
       "venue": "PVR: Vikaspuri, Delhi",
@@ -19302,7 +19302,7 @@
       "date": "20261002",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "370.00",
-      "status": "3"
+      "status": "2"
     },
     "INFR|94748|20261002|CLASSIC ROWS": {
       "venue": "INOX: Crown Interiorz Mall, Delhi Mathura Road",
@@ -19848,14 +19848,6 @@
       "price": "2400.00",
       "status": "0"
     },
-    "DPDC|24617|20261002|RECLINERS PRIME": {
-      "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
-      "time": "06:05 PM",
-      "date": "20261002",
-      "cat": "RECLINERS PRIME",
-      "price": "2400.00",
-      "status": "0"
-    },
     "DPDC|24617|20261002|RECLINERS": {
       "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
       "time": "06:05 PM",
@@ -19863,6 +19855,14 @@
       "cat": "RECLINERS",
       "price": "2400.00",
       "status": "2"
+    },
+    "DPDC|24617|20261002|RECLINERS PRIME": {
+      "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
+      "time": "06:05 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
+      "price": "2400.00",
+      "status": "0"
     },
     "DPDC|24612|20261002|RECLINERS PRIME": {
       "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
@@ -19910,6 +19910,22 @@
       "date": "20261002",
       "cat": "RECLINERS",
       "price": "2000.00",
+      "status": "3"
+    },
+    "DPDC|24761|20261002|RECLINERS PRIME": {
+      "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "RECLINERS PRIME",
+      "price": "1550.00",
+      "status": "3"
+    },
+    "DPDC|24761|20261002|RECLINERS": {
+      "venue": "Delhi: PVR Director`s Cut, Ambience Mall",
+      "time": "11:15 PM",
+      "date": "20261002",
+      "cat": "RECLINERS",
+      "price": "1350.00",
       "status": "3"
     },
     "DPDC|24619|20261002|RECLINERS PRIME": {
@@ -20582,7 +20598,7 @@
       "date": "20261002",
       "cat": "GOLD",
       "price": "280.00",
-      "status": "3"
+      "status": "2"
     },
     "BCWG|19450|20261002|BUSINESS CLASS": {
       "venue": "B18 Cinemas (Bhutani Cineplex) City Center GZB",
@@ -20990,7 +21006,7 @@
       "date": "20261002",
       "cat": "RECLINER",
       "price": "550.00",
-      "status": "2"
+      "status": "1"
     },
     "RONC|54573|20261002|EXECUTIVE": {
       "venue": "Rajhans Cinemas:Galaxy Diamond Plaza,Greater Noida",
@@ -21110,7 +21126,7 @@
       "date": "20261002",
       "cat": "Platinum",
       "price": "670.00",
-      "status": "2"
+      "status": "3"
     },
     "IOCP|15004|20261002|Gold": {
       "venue": "INOX: Odeon, Connaught Place",
@@ -22582,7 +22598,7 @@
       "date": "20261002",
       "cat": "RECLINERS PRIME",
       "price": "2350.00",
-      "status": "1"
+      "status": "0"
     },
     "DCMV|14964|20261002|RECLINERS": {
       "venue": "PVR Directors Cut, DLF Mall Of India: Noida",
@@ -23830,7 +23846,7 @@
       "date": "20261002",
       "cat": "CLASSIC PLUS",
       "price": "340.00",
-      "status": "2"
+      "status": "1"
     },
     "VVGZ|16329|20261002|CLASSIC": {
       "venue": "PVR: VVIP, Ghaziabad",
@@ -24422,7 +24438,7 @@
       "date": "20261002",
       "cat": "RECLINERS",
       "price": "2250.00",
-      "status": "2"
+      "status": "3"
     },
     "GPDC|23430|20261002|PICTURE PERFECT": {
       "venue": "Gurugram: PVR Director`s Cut, Ambience Mall",
@@ -24726,7 +24742,7 @@
       "date": "20261002",
       "cat": "RECLINER ROWS",
       "price": "560.00",
-      "status": "1"
+      "status": "2"
     },
     "IEFM|67069|20261002|PRIME ROWS": {
       "venue": "INOX: EF3 Mall, Faridabad",
@@ -25990,7 +26006,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "460.00",
-      "status": "2"
+      "status": "3"
     },
     "PMTN|3232|20261002|CLASSIC ROWS": {
       "venue": "PVR: Midtown, Moti Nagar, Delhi",
@@ -26488,326 +26504,6 @@
       "price": "1600.00",
       "status": "3"
     },
-    "WATG|4360|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "230.00",
-      "status": "3"
-    },
-    "WATG|4360|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "280.00",
-      "status": "3"
-    },
-    "WATG|4360|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "10:00 AM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "500.00",
-      "status": "1"
-    },
-    "WATG|4345|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "11:00 AM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "230.00",
-      "status": "3"
-    },
-    "WATG|4345|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "11:00 AM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "280.00",
-      "status": "2"
-    },
-    "WATG|4345|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "11:00 AM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "500.00",
-      "status": "1"
-    },
-    "WATG|4361|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4361|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4361|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "01:00 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "2"
-    },
-    "WATG|4346|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4346|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4346|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "02:00 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "2"
-    },
-    "WATG|4362|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "04:00 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4362|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "04:00 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4362|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "04:00 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "2"
-    },
-    "WATG|4347|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "05:05 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4347|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "05:05 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4347|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "05:05 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "0"
-    },
-    "WATG|4363|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "07:00 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4363|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "07:00 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4363|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "07:00 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "0"
-    },
-    "WATG|4348|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "08:00 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4348|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "08:00 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4348|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "08:00 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "0"
-    },
-    "WATG|4364|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "09:55 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4364|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "09:55 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4364|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "09:55 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "2"
-    },
-    "WATG|4349|20261002|Classic": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "10:55 PM",
-      "date": "20261002",
-      "cat": "Classic",
-      "price": "330.00",
-      "status": "3"
-    },
-    "WATG|4349|20261002|Premium": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "10:55 PM",
-      "date": "20261002",
-      "cat": "Premium",
-      "price": "350.00",
-      "status": "3"
-    },
-    "WATG|4349|20261002|GOLD RECLINER": {
-      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
-      "time": "10:55 PM",
-      "date": "20261002",
-      "cat": "GOLD RECLINER",
-      "price": "750.00",
-      "status": "3"
-    },
-    "MTND|53516|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:30 AM",
-      "date": "20261002",
-      "cat": "SILVER",
-      "price": "180.00",
-      "status": "3"
-    },
-    "MTND|53516|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:30 AM",
-      "date": "20261002",
-      "cat": "GOLD",
-      "price": "200.00",
-      "status": "2"
-    },
-    "MTND|53517|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "12:35 PM",
-      "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
-      "status": "3"
-    },
-    "MTND|53517|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "12:35 PM",
-      "date": "20261002",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "1"
-    },
-    "MTND|53518|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "03:40 PM",
-      "date": "20261002",
-      "cat": "SILVER",
-      "price": "250.00",
-      "status": "3"
-    },
-    "MTND|53518|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "03:40 PM",
-      "date": "20261002",
-      "cat": "GOLD",
-      "price": "270.00",
-      "status": "1"
-    },
-    "MTND|53519|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
-      "status": "3"
-    },
-    "MTND|53519|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "06:45 PM",
-      "date": "20261002",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "2"
-    },
-    "MTND|53520|20261002|SILVER": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:50 PM",
-      "date": "20261002",
-      "cat": "SILVER",
-      "price": "220.00",
-      "status": "3"
-    },
-    "MTND|53520|20261002|GOLD": {
-      "venue": "Movietime Cinemas: Sector 18, Noida",
-      "time": "09:50 PM",
-      "date": "20261002",
-      "cat": "GOLD",
-      "price": "250.00",
-      "status": "2"
-    },
     "INSG|39884|20261002|RECLINER ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
       "time": "09:20 AM",
@@ -26974,7 +26670,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "340.00",
-      "status": "2"
+      "status": "3"
     },
     "INSG|39885|20261002|CLASSIC ROWS": {
       "venue": "INOX Sapphire 90 Mall: Gurugram",
@@ -27406,6 +27102,326 @@
       "date": "20261002",
       "cat": "EXECUTIVE ROWS",
       "price": "320.00",
+      "status": "3"
+    },
+    "MTND|53516|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:30 AM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "180.00",
+      "status": "3"
+    },
+    "MTND|53516|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:30 AM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "200.00",
+      "status": "2"
+    },
+    "MTND|53517|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "12:35 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "220.00",
+      "status": "3"
+    },
+    "MTND|53517|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "12:35 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "1"
+    },
+    "MTND|53518|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "03:40 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "250.00",
+      "status": "3"
+    },
+    "MTND|53518|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "03:40 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "270.00",
+      "status": "1"
+    },
+    "MTND|53519|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "220.00",
+      "status": "3"
+    },
+    "MTND|53519|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "06:45 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "1"
+    },
+    "MTND|53520|20261002|SILVER": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:50 PM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "220.00",
+      "status": "3"
+    },
+    "MTND|53520|20261002|GOLD": {
+      "venue": "Movietime Cinemas: Sector 18, Noida",
+      "time": "09:50 PM",
+      "date": "20261002",
+      "cat": "GOLD",
+      "price": "250.00",
+      "status": "2"
+    },
+    "WATG|4360|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "230.00",
+      "status": "3"
+    },
+    "WATG|4360|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "280.00",
+      "status": "3"
+    },
+    "WATG|4360|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "10:00 AM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "500.00",
+      "status": "1"
+    },
+    "WATG|4345|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "11:00 AM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "230.00",
+      "status": "3"
+    },
+    "WATG|4345|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "11:00 AM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "280.00",
+      "status": "2"
+    },
+    "WATG|4345|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "11:00 AM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "500.00",
+      "status": "1"
+    },
+    "WATG|4361|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4361|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4361|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
+      "status": "2"
+    },
+    "WATG|4346|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4346|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4346|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "02:00 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
+      "status": "2"
+    },
+    "WATG|4362|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "04:00 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4362|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "04:00 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4362|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "04:00 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
+      "status": "2"
+    },
+    "WATG|4347|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "05:05 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4347|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "05:05 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4347|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "05:05 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
+      "status": "0"
+    },
+    "WATG|4363|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "07:00 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4363|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "07:00 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4363|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "07:00 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
+      "status": "0"
+    },
+    "WATG|4348|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4348|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4348|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "08:00 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
+      "status": "0"
+    },
+    "WATG|4364|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "09:55 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4364|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "09:55 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4364|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "09:55 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
+      "status": "2"
+    },
+    "WATG|4349|20261002|Classic": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "10:55 PM",
+      "date": "20261002",
+      "cat": "Classic",
+      "price": "330.00",
+      "status": "3"
+    },
+    "WATG|4349|20261002|Premium": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "10:55 PM",
+      "date": "20261002",
+      "cat": "Premium",
+      "price": "350.00",
+      "status": "3"
+    },
+    "WATG|4349|20261002|GOLD RECLINER": {
+      "venue": "Wave Cinema: iThum Galleria Mall, Greater Noida",
+      "time": "10:55 PM",
+      "date": "20261002",
+      "cat": "GOLD RECLINER",
+      "price": "750.00",
       "status": "3"
     },
     "PMGU|16664|20261002|RECLINER ROWS": {
@@ -29462,7 +29478,7 @@
       "date": "20261002",
       "cat": "PLATINUM LEGROOM",
       "price": "250.00",
-      "status": "2"
+      "status": "3"
     },
     "SLCU|64569|20261002|Gold": {
       "venue": "Skylit Cinemas: Sahara Mall, Gurugram (Gurgaon)",
@@ -30526,6 +30542,54 @@
       "date": "20261002",
       "cat": "LOUNGE",
       "price": "380.00",
+      "status": "3"
+    },
+    "PCPL|5469|20261002|PRIME ROWS": {
+      "venue": "PVR: Plaza-CP, Delhi",
+      "time": "09:50 AM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
+      "price": "430.00",
+      "status": "3"
+    },
+    "PCPL|5469|20261002|CLASSIC ROWS": {
+      "venue": "PVR: Plaza-CP, Delhi",
+      "time": "09:50 AM",
+      "date": "20261002",
+      "cat": "CLASSIC ROWS",
+      "price": "380.00",
+      "status": "3"
+    },
+    "PCPL|5470|20261002|PRIME ROWS": {
+      "venue": "PVR: Plaza-CP, Delhi",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
+      "price": "560.00",
+      "status": "3"
+    },
+    "PCPL|5470|20261002|CLASSIC ROWS": {
+      "venue": "PVR: Plaza-CP, Delhi",
+      "time": "01:00 PM",
+      "date": "20261002",
+      "cat": "CLASSIC ROWS",
+      "price": "540.00",
+      "status": "3"
+    },
+    "PCPL|5471|20261002|PRIME ROWS": {
+      "venue": "PVR: Plaza-CP, Delhi",
+      "time": "04:10 PM",
+      "date": "20261002",
+      "cat": "PRIME ROWS",
+      "price": "560.00",
+      "status": "3"
+    },
+    "PCPL|5471|20261002|CLASSIC ROWS": {
+      "venue": "PVR: Plaza-CP, Delhi",
+      "time": "04:10 PM",
+      "date": "20261002",
+      "cat": "CLASSIC ROWS",
+      "price": "540.00",
       "status": "3"
     },
     "PCPL|5472|20261002|PRIME ROWS": {
@@ -32272,6 +32336,14 @@
       "price": "250.00",
       "status": "3"
     },
+    "PMPM|124628|20261002|SILVER": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "09:50 AM",
+      "date": "20261002",
+      "cat": "SILVER",
+      "price": "200.00",
+      "status": "3"
+    },
     "PMPM|124628|20261002|PREMIER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
       "time": "09:50 AM",
@@ -32285,14 +32357,6 @@
       "time": "09:50 AM",
       "date": "20261002",
       "cat": "ROYAL",
-      "price": "200.00",
-      "status": "3"
-    },
-    "PMPM|124628|20261002|SILVER": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "09:50 AM",
-      "date": "20261002",
-      "cat": "SILVER",
       "price": "200.00",
       "status": "3"
     },
@@ -32382,7 +32446,7 @@
       "date": "20261002",
       "cat": "GOLD",
       "price": "250.00",
-      "status": "2"
+      "status": "3"
     },
     "PMPM|124630|20261002|SILVER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
@@ -32408,6 +32472,14 @@
       "price": "200.00",
       "status": "3"
     },
+    "PMPM|124645|20261002|ROYAL": {
+      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
+      "time": "04:50 PM",
+      "date": "20261002",
+      "cat": "ROYAL",
+      "price": "200.00",
+      "status": "3"
+    },
     "PMPM|124645|20261002|SILVER": {
       "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
       "time": "04:50 PM",
@@ -32421,14 +32493,6 @@
       "time": "04:50 PM",
       "date": "20261002",
       "cat": "PREMIER",
-      "price": "200.00",
-      "status": "3"
-    },
-    "PMPM|124645|20261002|ROYAL": {
-      "venue": "Fun Cinemas: PM Cinemas, Parsvnath Mall, Manhattan",
-      "time": "04:50 PM",
-      "date": "20261002",
-      "cat": "ROYAL",
       "price": "200.00",
       "status": "3"
     },
@@ -33206,7 +33270,7 @@
       "date": "20261002",
       "cat": "PRIME PLUS ROWS",
       "price": "340.00",
-      "status": "2"
+      "status": "3"
     },
     "IBYG|15425|20261002|PRIME ROWS": {
       "venue": "INOX: IRIS Broadway Gurugram",
@@ -34430,7 +34494,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "390.00",
-      "status": "3"
+      "status": "2"
     },
     "PFDN|273|20261002|CLASSIC ROWS": {
       "venue": "PVR: DLF Summit Plaza, Gurugram",
@@ -34526,7 +34590,7 @@
       "date": "20261002",
       "cat": "PRIME ROWS",
       "price": "580.00",
-      "status": "3"
+      "status": "2"
     },
     "PFDN|275|20261002|CLASSIC ROWS": {
       "venue": "PVR: DLF Summit Plaza, Gurugram",
